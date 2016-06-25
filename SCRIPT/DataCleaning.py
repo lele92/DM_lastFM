@@ -13,9 +13,12 @@ def toDate(your_timestamp):
 
 
 out_file = open("listeningsClean.txt", "w")
-
+count = 0
 with open('../DATA/listenings_20160403.csv') as fp:
     for line in fp:
+        if count == 99:
+            count += 1
+            continue
         str1 = line
         newStr = str1.replace(", ", "; ")
         lineS = newStr.split(",")
@@ -24,6 +27,7 @@ with open('../DATA/listenings_20160403.csv') as fp:
             continue
 
         line1split = lineS[1].split(";", 1)
+
         if len(line1split) > 1:
             line1split[0] = datetime.datetime.fromtimestamp(float(line1split[0]) / 1e3)
             line1split[0] = line1split[0].strftime("%Y-%m-%d %H:%M:%S")
