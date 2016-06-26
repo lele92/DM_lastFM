@@ -33,9 +33,9 @@ def save_csv(data, filename):
     print "File successfully saved."
 
 
-# # 1 - loading listenings' csv file
-# df = load_csv("../OUTPUT/Cleaned_col5.csv")
-# print df.shape
+# 3 - loading listenings' txt file
+df = load_csv("../OUTPUT/listenings_clean.txt")
+print df.shape
 #
 # # 5 - merging with genre dataset
 # merge(df, "../OUTPUT/artistClean.txt")
@@ -43,7 +43,7 @@ def save_csv(data, filename):
 # load_csv_normally("DATA/listenings_20160403.csv")
 
 # loading merged file
-df = load_csv("../OUTPUT/listenings_genre_merged.csv")
+# df = load_csv("../OUTPUT/listenings_genre_merged.csv")
 
 # basic dataset statistics print
 print df.describe()
@@ -53,10 +53,10 @@ print df.describe()
 # df = deleteDateZero(df)
 
 #7 - deleting duplicate rows
-df = df.drop_duplicates()
-
-print df.describe()
+# df = df.drop_duplicates()
+#
+# print df.describe()
 
 #save new csv
-save_csv(df, "../OUTPUT/listenings_def.csv")
+# save_csv(df, "../OUTPUT/listenings_def.csv")
 # """
