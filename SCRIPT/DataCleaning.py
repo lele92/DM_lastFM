@@ -26,6 +26,7 @@ with open('../DATA/listenings_20160403.csv') as fp:
             out_file.write(newStr)
             continue
 
+        count += 1
         line1split = lineS[1].split(";", 1)
 
         if len(line1split) > 1:
