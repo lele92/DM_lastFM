@@ -87,6 +87,7 @@ def clean_artists():
     out_file.close()
 
 
+
 def merge(listenings, artists):
 
     dataset = pd.merge(listenings, artists, left_on='artist', right_on='artist')
