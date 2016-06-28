@@ -8,10 +8,10 @@ import pandas as pd
 def main():
 
     #1 Load and clean listenings_20160403 + write a new csv file
-    #clean_listenings()
+    clean_listenings()
 
     #2 Load and clean genre_20160403 + write a new csv file
-    #clean_artists()
+    clean_artists()
 
     #3 Load both files and remove duplicates
     df_listenings = load_csv("listenings_clean.csv")
@@ -48,7 +48,7 @@ def save_csv(data, filename):
 
 def clean_listenings():
 
-    out_file = open("../OUTPUT/listenings_clean_2.csv", "w")
+    out_file = open("../OUTPUT/listenings_clean.csv", "w")
     with open('../DATA/listenings_20160403.csv') as fp:
         for line in fp:
             str1 = line
