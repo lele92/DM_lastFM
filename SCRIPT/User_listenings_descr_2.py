@@ -15,6 +15,7 @@ def merge(general_listenings, artists_listenings):
                         left_on=['user_id', 'week_year'],
                         right_on=['user_id', 'week_year'],
                         how ='inner')
+    df_merged = df_merged.rename(columns={'listening_count_x': 'total_count', 'listening_count_y': 'artist_count'})
     save_csv(df_merged, "../OUTPUT/user_listenings_week_final_merged.csv")
 #
 #
