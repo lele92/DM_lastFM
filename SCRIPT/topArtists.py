@@ -3,8 +3,8 @@ import numpy as np
 import sys
 
 
-df = pd.read_csv("../OUTPUT/prova.csv", skipinitialspace=True, delimiter=",", error_bad_lines=False)
-# df = pd.read_csv("../OUTPUT/listenings_genre_merged.csv", skipinitialspace=True, delimiter=",", error_bad_lines=False)
+# df = pd.read_csv("../OUTPUT/prova.csv", skipinitialspace=True, delimiter=",", error_bad_lines=False)
+df = pd.read_csv("../OUTPUT/listenings_genre_merged.csv", skipinitialspace=True, delimiter=",", error_bad_lines=False)
 
 groupby_artisti = df.groupby(df['artist'])
 groupby_artisti = sorted(groupby_artisti, key=lambda x: len(x[1]), reverse=True)  # reverse the sort i.e. largest first
@@ -13,6 +13,7 @@ groupby_artisti = sorted(groupby_artisti, key=lambda x: len(x[1]), reverse=True)
 # out_file = open("../OUTPUT/top_artists_user.csv", "w")
 count = 1
 count_unique = 0
+artist = "florence+theMachine"
 array_user = []
 # array_florence = ["florence + the machine", "florence and the machine"]
 for key, item in groupby_artisti:
@@ -35,5 +36,6 @@ unique_array = np.unique(np_array)
 print unique_array
 print count_unique
 
-# out_file = open("../OUTPUT/utenti_univoci_florence.csv", "w")
-out_file.write(unique_array.)
+out_file = open("../OUTPUT/utenti_univoci_"+artist+".txt", "w")
+# scrive su file array con utenti utnivoci, per leggerlo basta usare funzione eval() sull'unica riga del txt
+out_file.write(str(unique_array.tolist()))
