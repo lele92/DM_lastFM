@@ -14,13 +14,16 @@ def to_year_week(date_str):
     return str(date_time.strftime("%Y")) + "/" + week_str
 
 df = load_csv("listenings_genre_merged.csv")
-#Converte timestamp in anno/settimana
+# Converte timestamp in anno/settimana
+
 df['date'] = df['date'].apply(lambda x: to_year_week(x))
-#Group by user_id, artist e date per ottenere la somma degli ascolti per ogni artista nella stessa settimana
+# Group by user_id, artist e date per ottenere la somma degli ascolti per ogni artista nella stessa settimana
+
 df_grouped = df.groupby(['user_id', 'artist', 'date']).size().to_dict()
-#Salvo csv con gli ascolti settimanali per artista
+# Salvo csv con gli ascolti settimanali per artista
+
 out_file = open("../OUTPUT/user_listenings_artist_week_count_2.csv", "w")
-out_file.write("user_id,artist,week_year,listening_count\n")
+out_file.write("user_id,artist,week_year,listening_count_artist\n")
 for i in df_grouped:
     out_file.write(str(i[0])+","+str(i[1])+","+str(i[2])+","+str(df_grouped[i])+"\n")
 out_file.close()

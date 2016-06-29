@@ -72,7 +72,7 @@ def create_user_listenings_week_count(user_listenings_week):
 
 def create_user_listenings_artist_week_count(user_listenings_artist_week):
     out_file = open("../OUTPUT/user_listenings_artist_week_count.csv", "w")
-    out_file.write("user_id,artist,week_year,listening_count\n")
+    out_file.write("user_id,artist,week_year,listening_count_artist\n")
     user_listenings_week_count = {}
     for user in user_listenings_artist_week:
         user_listenings_artist_week_count = {}
