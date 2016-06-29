@@ -3,7 +3,7 @@ import pandas as pd
 
 
 def histogram(x, y, xlabel=None, ylabel=None, title=None, out=None, highlight=None):
-    plt.bar(range(len(x)), y, color='b', alpha=0.6, linewidth=0, align='center', width=1)
+    plt.bar(range(len(x)), y, color='b', alpha=0.6, linewidth=0, align='center')
 
     # if highlight is not None:
     #     barlist[highlight].set_color('r')
@@ -45,7 +45,8 @@ def obj_hist(obj, xlabel=None, ylabel=None, title=None, out=None):
 
 df = load_csv('prova.csv')
 df['track_artist'] = df['track'] + "\n(" + df['artist'] + ")"
-print df.describe()
+
+# print df.describe()
 
 # genre_count = df['genre'].value_counts()[:10]
 # print genre_count
@@ -54,10 +55,10 @@ print df.describe()
 # artist_count = df['artist'].value_counts()[:10]
 # print artist_count
 # obj_hist(artist_count, xlabel="Artist", ylabel="count", title="Artist distribution", out='Artist_distribution')
-
-track_count = df['track_artist'].value_counts()[:10]
-print track_count
-obj_hist(track_count, xlabel="Track", ylabel="count", title="Track distribution", out='Track_distribution')
+#
+# track_count = df['track_artist'].value_counts()[:10]
+# print track_count
+# obj_hist(track_count, xlabel="Track", ylabel="count", title="Track distribution", out='Track_distribution')
 
 
 
