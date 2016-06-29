@@ -45,27 +45,30 @@ def load_csv(input_filename):
 
 
 # 8 Describe
-df = load_csv("listenings_genre_merged.csv")
+# df = load_csv("listenings_genre_merged.csv")
 # print df.describe()
-groupby = df.groupby(df['user_id'])
+# groupby = df.groupby(df['user_id'])
 # for name, group in groupby:
     # print str(name) + " " + str(len(group))
     # if name == "000Silenced":
     #     print str(name) + " " + str(len(group))
 
 
-# df = load_csv("prova.csv")
-# df['datetime'] = pd.to_datetime(df['date'])
-# df['year'], df['month'], df['week'] = df['datetime'].dt.year, df['datetime'].dt.month, df['datetime'].dt.week
-# # df['year_true'] = df['year'].map(lambda x: (x.year-2005)*53 + x.isocalendar()[1])
-# # print df
-# groupby = df.groupby(df['year'])
-# # groupby = df.groupby(df['year']).map(lambda x: (x.year-2005)*53 + x.isocalendar()[1]))
-# # # print groupby.describe()
+df = load_csv("prova.csv")
+df['datetime'] = pd.to_datetime(df['date'])
+df['year'], df['month'], df['week'] = df['datetime'].dt.year, df['datetime'].dt.month, df['datetime'].dt.week
+# df['year_true'] = df['year'].map(lambda x: (x.year-2005)*53 + x.isocalendar()[1])
+# print df
+groupby = df.groupby(['artist', 'track']).count()
+# groupby = df.groupby(df['year']).map(lambda x: (x.year-2005)*53 + x.isocalendar()[1]))
+# # print groupby.describe()
+#
 # #
-# # #
-# year_dict = {}
-# # # out_year_frequency = open("../OUTPUT/year_frequency.csv", "w")
+print type(groupby)
+# print groupby
+# print df.groups
+year_dict = {}
+# # out_year_frequency = open("../OUTPUT/year_frequency.csv", "w")
 # for name, group in groupby:
 #     # print str(name) + " " + str(len(group))
 #     print group
@@ -79,5 +82,5 @@ groupby = df.groupby(df['user_id'])
 #     # out_year_frequency.write("%s" % res.encode('utf-8'))
 # # out_year_frequency.close()
 # print year_dict
-# # # # print sorted(year_dict.iteritems(), key=lambda (k, v): k)[-1:]
-# # # plot_user_distribution(year_dict, "../PLOT/time_listenings_distribution_v2.jpg")
+# # # print sorted(year_dict.iteritems(), key=lambda (k, v): k)[-1:]
+# # plot_user_distribution(year_dict, "../PLOT/time_listenings_distribution_v2.jpg")
