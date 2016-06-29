@@ -143,8 +143,8 @@ def load_user_listenings_week_count():
 
 def load_user_listenings_week_artist_count(artist_name):
     user_listenings_week_artist_count = {}
-    df = load_csv("user_listenings_week_final_merged.csv")
-    # df = load_csv("provaprova2.csv")
+    # df = load_csv("user_listenings_week_final_merged.csv")
+    df = load_csv("provaprova2.csv")
     grouped_users = df.groupby('user_id')
     for key, user_week in grouped_users:
         user_listenings_week_artist_count[key] = {}
@@ -157,15 +157,21 @@ def load_user_listenings_week_artist_count(artist_name):
             else:
                 user_dict[row['week_year']]['artist'] = 0
         user_listenings_week_artist_count[key] = dict(sorted(user_dict.iteritems(), key=lambda (k, v): k))
+        print str(key)+": "+str(user_listenings_week_artist_count[key])
     return user_listenings_week_artist_count
 
 def plot_random_user_listenings_week_artist_count(user_listenings_week_artist_count,artist=""):
+    file = open('../OUTPUT/utenti_univoci_Coldplay.txt')
+    random_user_list_file = []
+    for i in file:
+        random_user_list_file = eval(i)
+        break
     random_user_list = []
-    for i in range(50):
-        random_user_list.append(random.choice(user_listenings_week_artist_count.keys()))
-    # print random_user_list
+    for i in range(10):
+        random_user_list.append(random.choice(random_user_list_file))
+
     for i in random_user_list:
-        # print sum(user_listenings_week_artist_count[i].values())
+        print user_listenings_week_artist_count[i]
         plot_user_tot_and_artist_distribution(user_listenings_week_artist_count[i], out="../PLOT/RandomUserPlots/" + str(i) +"_"+ artist + ".jpg")
 
 
@@ -204,6 +210,7 @@ def plot_user_tot_and_artist_distribution(g_data, out=None):
 # create_user_listenings_week_count(user_listenings_week)
 
 user_listenings_week_artist_count = load_user_listenings_week_artist_count('Coldplay')
+# plot_user_tot_and_artist_distribution(user_listenings_week_artist_count['peacherix'])
 plot_random_user_listenings_week_artist_count(user_listenings_week_artist_count, 'Coldplay')
 
 # user_listenings_artist_week = create_user_listenings_week_artist()
