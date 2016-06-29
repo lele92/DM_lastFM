@@ -43,5 +43,5 @@ def merge(general_listenings, artists_listenings):
 
 #merge
 general_listenings = load_csv("user_listenings_week_count.csv")
-artist_listenings = load_csv("user_listenings_artist_week_count_2.csv")
+artist_listenings = load_csv("user_listenings_artist_week_count.csv")
 merge(general_listenings, artist_listenings)

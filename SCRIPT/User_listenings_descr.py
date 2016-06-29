@@ -141,27 +141,70 @@ def load_user_listenings_week_count():
         user_listenings_week_count[key] = dict(sorted(user_dict.iteritems(), key=lambda (k, v): k))
     return user_listenings_week_count
 
+def load_user_listenings_week_artist_count(artist_name):
+    user_listenings_week_artist_count = {}
+    df = load_csv("user_listenings_week_final_merged.csv")
+    # df = load_csv("provaprova2.csv")
+    grouped_users = df.groupby('user_id')
+    for key, user_week in grouped_users:
+        user_listenings_week_artist_count[key] = {}
+        user_dict = {}
+        for index,row in user_week.iterrows():
+            user_dict[row['week_year']] = {}
+            user_dict[row['week_year']]['tot'] = int(row['total_count'])
+            if row['artist'] == artist_name:
+                user_dict[row['week_year']]['artist'] = int(row['artist_count'])
+            else:
+                user_dict[row['week_year']]['artist'] = 0
+        user_listenings_week_artist_count[key] = dict(sorted(user_dict.iteritems(), key=lambda (k, v): k))
+    return user_listenings_week_artist_count
 
-def plot_random_user_listenings_week_count(user_listenings_week_count):
+def plot_random_user_listenings_week_artist_count(user_listenings_week_artist_count,artist=""):
     random_user_list = []
     for i in range(50):
-        random_user_list.append(random.choice(user_listenings_week_count.keys()))
-
+        random_user_list.append(random.choice(user_listenings_week_artist_count.keys()))
+    # print random_user_list
     for i in random_user_list:
-        print sum(user_listenings_week_count[i].values())
-        plot_user_distribution(user_listenings_week_count[i], out="../PLOT/RandomUserPlots/" + str(i) + ".jpg")
+        # print sum(user_listenings_week_artist_count[i].values())
+        plot_user_tot_and_artist_distribution(user_listenings_week_artist_count[i], out="../PLOT/RandomUserPlots/" + str(i) +"_"+ artist + ".jpg")
 
 
+def plot_user_tot_and_artist_distribution(g_data, out=None):
+    # print g_data
+    g_data = sorted(g_data.iteritems(), key=lambda (k, v): k)
+    x_axis = []
+    y_axis_tot = []
+    y_axis_artist = []
+    genres_label = []
+    count = 1
+    for key, value in g_data:
+        print str(key)+": "+str(value)
+        x_axis.append(count)
+        y_axis_tot.append(value['tot'])
+        y_axis_artist.append(value['artist'])
+        genres_label.append(key)
+        count += 1
+
+    plt.bar(x_axis, y_axis_tot, align='center', color="b", alpha=0.5)
+    plt.bar(x_axis, y_axis_artist, align='center', color="r", alpha=0.5)
+    plt.xticks(x_axis, genres_label, rotation='vertical')
+    # plt.title(title)
+    plt.tick_params(axis='x', labelsize=9)
+    plt.tick_params(axis='y', labelsize=9)
+    plt.xlim([+0, len(x_axis) + 1])
+    # plt.ylim([-10, 105])
+    plt.gca().yaxis.grid(True)
+    if (out):
+        plt.savefig(out, bbox_inches="tight")
+    plt.show()
 # user_listenings_millis, user_listenings_week = load_listenings_genre_merged()
 
 # create_user_listenings_descr(user_listenings_millis)
 
 # create_user_listenings_week_count(user_listenings_week)
 
-# user_listenings_week_count = load_user_listenings_week_count()
-# print user_listenings_week_count['epic_discord']
+user_listenings_week_artist_count = load_user_listenings_week_artist_count('Coldplay')
+plot_random_user_listenings_week_artist_count(user_listenings_week_artist_count, 'Coldplay')
 
-# plot_random_user_listenings_week_count(user_listenings_week_count)
-
-user_listenings_artist_week = create_user_listenings_week_artist()
-create_user_listenings_artist_week_count(user_listenings_artist_week)
+# user_listenings_artist_week = create_user_listenings_week_artist()
+# create_user_listenings_artist_week_count(user_listenings_artist_week)
