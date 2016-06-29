@@ -70,6 +70,21 @@ def create_user_listenings_week_count(user_listenings_week):
             out_file.write(str(user)+","+str(week)+","+str(value)+"\n")
     out_file.close()
 
+def create_user_listenings_artist_week_count(user_listenings_artist_week):
+    out_file = open("../OUTPUT/user_listenings_artist_week_count.csv", "w")
+    out_file.write("user_id,artist,week_year,listening_count\n")
+    user_listenings_week_count = {}
+    for user in user_listenings_artist_week:
+        user_listenings_artist_week_count = {}
+        for artist in user_listenings_artist_week[user]:
+            user_artist_week_listenings_list = user_listenings_artist_week[user][artist]
+            user_listenings_artist_week_count[artist] = dict(Counter(user_artist_week_listenings_list))
+            dict_artist_week = sorted(user_listenings_artist_week_count[artist].iteritems(), key=lambda (k, v): k)
+            for week, value in dict_artist_week:
+                out_file.write(str(user) + "," + str(artist) + "," + str(week) + "," + str(value) + "\n")
+    out_file.close()
+
+#TODO: cambiare nome funzione
 def load_listenings_genre_merged():
     # 1.leggere CSV e caricare in dataframe
     df = load_csv('listenings_genre_merged.csv')
@@ -89,6 +104,29 @@ def load_listenings_genre_merged():
     # print tot_sum
 
     return user_listenings_millis,user_listenings_week
+
+def create_user_listenings_week_artist():
+    # 1.leggere CSV e caricare in dataframe
+    df = load_csv('listenings_genre_merged.csv')
+
+    # 2.groupby e conversione in millis
+    grouped_user = df.groupby(['user_id'])
+    # test = df.groupby(['user_id','artist']).size()
+    # print test
+    user_listenings_artist_week = {}
+
+
+    # per ogni utente (user_id) nel dataframe groupBy, aggiungo all'oggetto user_obj una lista del tipo: user_id:lista ordinata (dal primo all'ultimo) degli ascolti in millis
+    # tot_sum = 0
+    for user_id, row1 in grouped_user:
+        user_listenings_artist_week[user_id] = {}
+        grouped_user_artist = row1.groupby('artist')
+        for artist, row2 in grouped_user_artist:
+            user_listenings_artist_week[user_id][artist] = sorted([to_year_week(date) for date in row2['date']])
+
+    return user_listenings_artist_week
+
+
 
 
 def load_user_listenings_week_count():
@@ -124,3 +162,6 @@ def plot_random_user_listenings_week_count(user_listenings_week_count):
 # print user_listenings_week_count['epic_discord']
 
 # plot_random_user_listenings_week_count(user_listenings_week_count)
+
+user_listenings_artist_week = create_user_listenings_week_artist()
+create_user_listenings_artist_week_count(user_listenings_artist_week)

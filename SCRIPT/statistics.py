@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
+
 def histogram(x, y, xlabel=None, ylabel=None, title=None, out=None, highlight=None):
-    # plt.figure(figsize=(10, 10))
     plt.bar(range(len(x)), y, color='b', alpha=0.6, linewidth=0, align='center')
 
     # if highlight is not None:
@@ -31,14 +31,17 @@ def histogram(x, y, xlabel=None, ylabel=None, title=None, out=None, highlight=No
         plt.savefig("../PLOT/" + out + ".jpg")
         plt.show()
 
+
 def load_csv(input_filename):
     return pd.read_csv("../OUTPUT/"+input_filename, skipinitialspace=True, delimiter=",", error_bad_lines=False)
+
 
 def obj_hist(obj, xlabel=None, ylabel=None, title=None, out=None):
     y = []
     for i in obj:
         y.append(i)
     histogram(obj.keys(), y, xlabel, ylabel, title, out)
+
 
 df = load_csv('prova.csv')
 df['track_artist'] = df['track'] + "\n(" + df['artist'] + ")"
