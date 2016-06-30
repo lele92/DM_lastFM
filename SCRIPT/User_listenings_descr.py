@@ -126,9 +126,6 @@ def create_user_listenings_week_artist():
 
     return user_listenings_artist_week
 
-
-
-
 def load_user_listenings_week_count():
     user_listenings_week_count = {}
     df = load_csv("user_listenings_week_count.csv")
@@ -143,21 +140,30 @@ def load_user_listenings_week_count():
 
 def load_user_listenings_week_artist_count(artist_name):
     user_listenings_week_artist_count = {}
-    # df = load_csv("user_listenings_week_final_merged.csv")
-    df = load_csv("provaprova2.csv")
+    df = load_csv("user_listenings_week_final_merged.csv")
+    # df = load_csv("provaprova2.csv")
     grouped_users = df.groupby('user_id')
+    # count = 0
     for key, user_week in grouped_users:
         user_listenings_week_artist_count[key] = {}
         user_dict = {}
         for index,row in user_week.iterrows():
             user_dict[row['week_year']] = {}
             user_dict[row['week_year']]['tot'] = int(row['total_count'])
-            if row['artist'] == artist_name:
-                user_dict[row['week_year']]['artist'] = int(row['artist_count'])
-            else:
-                user_dict[row['week_year']]['artist'] = 0
+            if not hasattr(user_dict[row['week_year']], 'art'):
+                # print "--------------------"+str(user_dict[row['week_year']]['art'])
+                user_dict[row['week_year']]['art'] = 0
+
+            if artist_name in row['artist']:
+                # print "\n"+str(key) + "  >>>   "+str(row['week_year'])+" --- "+str(row['artist']) +": "+ str(int(row['artist_count']))
+                user_dict[row['week_year']]['art'] = int(row['artist_count'])
+                # print "\t"+str(row['week_year'])+" => "+str(user_dict[row['week_year']])
+                # print "..............."+str(user_dict[row['week_year']]['art'])
+
+        print user_dict
+
         user_listenings_week_artist_count[key] = dict(sorted(user_dict.iteritems(), key=lambda (k, v): k))
-        print str(key)+": "+str(user_listenings_week_artist_count[key])
+        # print str(key)+" => " + str(user_listenings_week_artist_count[key])
     return user_listenings_week_artist_count
 
 def plot_random_user_listenings_week_artist_count(user_listenings_week_artist_count,artist=""):
@@ -167,13 +173,13 @@ def plot_random_user_listenings_week_artist_count(user_listenings_week_artist_co
         random_user_list_file = eval(i)
         break
     random_user_list = []
-    for i in range(10):
+
+    for i in range(50):
         random_user_list.append(random.choice(random_user_list_file))
 
     for i in random_user_list:
-        print user_listenings_week_artist_count[i]
+        print str(i) + " => " + str(user_listenings_week_artist_count[i])
         plot_user_tot_and_artist_distribution(user_listenings_week_artist_count[i], out="../PLOT/RandomUserPlots/" + str(i) +"_"+ artist + ".jpg")
-
 
 def plot_user_tot_and_artist_distribution(g_data, out=None):
     # print g_data
@@ -184,7 +190,7 @@ def plot_user_tot_and_artist_distribution(g_data, out=None):
     genres_label = []
     count = 1
     for key, value in g_data:
-        print str(key)+": "+str(value)
+        # print str(key)+": "+str(value)
         x_axis.append(count)
         y_axis_tot.append(value['tot'])
         y_axis_artist.append(value['artist'])
