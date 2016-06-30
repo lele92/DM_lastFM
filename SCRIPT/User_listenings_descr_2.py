@@ -19,14 +19,19 @@ def merge(general_listenings, artists_listenings):
     save_csv(df_merged, "../OUTPUT/user_listenings_week_final_merged.csv")
 #
 #
-# def to_year_week(date_str):
-#     date_time = datetime.datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
-#     week_str = str(date_time.isocalendar()[1])
-#     if len(week_str) == 1:
-#         week_str = "0"+week_str
-#     return str(date_time.strftime("%Y")) + "/" + week_str
-#
-#
+def to_year_week(date_str):
+    date_time = datetime.datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
+    week_str = str(date_time.isocalendar()[1])
+    month = int(date_time.strftime("%m"))
+    print str(month)
+    right_year = int(date_time.strftime("%Y"))
+    if week_str == 53 and month == 1:
+        right_year -= 1
+    if len(week_str) == 1:
+        week_str = "0"+week_str
+    return str(right_year) + "/" + week_str
+
+
 # df = load_csv("listenings_genre_merged.csv")
 # # Converte timestamp in anno/settimana
 #
@@ -42,7 +47,7 @@ def merge(general_listenings, artists_listenings):
 #     out_file.write(str(i[0])+","+str(i[1])+","+str(i[2])+","+str(df_grouped[i])+"\n")
 # out_file.close()
 
-#merge
+merge
 general_listenings = load_csv("user_listenings_week_count.csv")
 artist_listenings = load_csv("user_listenings_artist_week_count_2.csv")
 merge(general_listenings, artist_listenings)
