@@ -43,14 +43,15 @@ def obj_hist(obj, xlabel=None, ylabel=None, title=None, out=None):
     histogram(obj.keys(), y, xlabel, ylabel, title, out)
 
 
-df = load_csv('prova.csv')
-df['track_artist'] = df['track'] + "\n(" + df['artist'] + ")"
+# df = load_csv('prova.csv')
+df = load_csv('listenings_genre_merged.csv')
+# df['track_artist'] = df['track'] + "\n(" + df['artist'] + ")"
 
 # print df.describe()
 
-# genre_count = df['genre'].value_counts()[:10]
-# print genre_count
-# obj_hist(genre_count, xlabel="Genre", ylabel="count", title="Genre distribution", out='Genre_distribution')
+genre_count = df['genre'].value_counts()[:20]
+print genre_count
+obj_hist(genre_count, xlabel="Genre", ylabel="count", title="Genre distribution", out='Genre_distribution')
 #
 # artist_count = df['artist'].value_counts()[:10]
 # print artist_count

@@ -33,7 +33,7 @@ path_network_file = "../DATA/network_20160403_without_header.txt"
 # path_network_file = "../DATA/network_small.csv"
 input_random_network = open(path_network_file)
 graph = nx.read_edgelist(input_random_network, delimiter=',', nodetype=str) #create_using=nx.DiGraph()
-
-plot_user_distribution(graph.degree(), "../PLOT/user_distribution_10.jpg")
+print len(graph.nodes())
+# plot_user_distribution(graph.degree(), "../PLOT/user_distribution_10.jpg")
 
 
