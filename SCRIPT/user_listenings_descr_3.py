@@ -145,7 +145,7 @@ for key, value in df_grouped:
     for row_key, row in value.iterrows():
         # print row_key
         # print row["artist"]
-        if artist_name in row["artist"].lower():
+        if artist_name == row["artist"].lower():
             sum_count_listening_artist += 1
             sum_count_listening_artist_in_week += 1
             if sum_count_listening_artist_in_week == 1:

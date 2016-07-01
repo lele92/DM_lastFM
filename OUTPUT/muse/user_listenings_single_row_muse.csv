@@ -24,7 +24,7 @@ user_id,num_ascolti_totali,num_ascolti_artista,settimane_totali,settimane_artist
 -Katie,140,0,6,0
 -Kol-,173,1,9,1
 -Krystal-,111,0,5,0
--Mark-,162,1,6,1
+-Mark-,162,0,6,0
 -Messiah,55,0,5,0
 -Mullet-,141,0,12,0
 -Nocturnus-,174,0,12,0
@@ -106,7 +106,7 @@ user_id,num_ascolti_totali,num_ascolti_artista,settimane_totali,settimane_artist
 1000julys,206,0,1,0
 100PunkClub,172,0,8,0
 100Rockets,156,0,4,0
-100m,141,1,9,1
+100m,141,0,9,0
 100thwindow,57,0,3,0
 101niknak101,108,0,3,0
 10bobrevolution,163,1,5,1
@@ -209,7 +209,7 @@ user_id,num_ascolti_totali,num_ascolti_artista,settimane_totali,settimane_artist
 3point1four,133,0,6,0
 3quin0x,6,0,2,0
 3soTeriC,170,16,24,5
-3stripe,162,1,4,1
+3stripe,162,0,4,0
 3wisemonkeys,170,0,11,0
 400boys,174,0,17,0
 404wibbs,161,0,3,0
@@ -223,7 +223,7 @@ user_id,num_ascolti_totali,num_ascolti_artista,settimane_totali,settimane_artist
 48KAY,93,0,8,0
 4D,166,0,2,0
 4Heather,155,0,16,0
-4Satin,168,1,5,1
+4Satin,168,0,5,0
 4ash,60,0,5,0
 4dam,158,0,3,0
 4dayweekend,90,1,2,1
@@ -250,7 +250,7 @@ user_id,num_ascolti_totali,num_ascolti_artista,settimane_totali,settimane_artist
 60ten,146,0,3,0
 616thirteen,132,1,4,1
 666JON666,132,0,5,0
-666Spawn,151,27,13,5
+666Spawn,151,24,13,5
 666TinCan666,112,0,8,0
 66split,178,1,5,1
 66z,105,0,13,0
@@ -546,7 +546,7 @@ AcheyShakey,92,0,1,0
 Achhy,123,0,2,0
 Achrenbastard,133,0,6,0
 Achtung_Baby,194,14,8,1
-AcidDica,159,1,1,1
+AcidDica,159,0,1,0
 AcidPenguin,142,0,4,0
 AcidRephlux,187,0,3,0
 AcidTrip01,88,0,8,0
@@ -585,7 +585,7 @@ AdamBell1,78,0,4,0
 AdamCarrico,25,0,2,0
 AdamDBA,108,0,14,0
 AdamDotMan,69,0,1,0
-AdamDowds,100,1,2,1
+AdamDowds,100,0,2,0
 AdamEW,97,0,21,0
 AdamFoxy666,119,0,3,0
 AdamG1138,93,0,2,0
@@ -1395,7 +1395,7 @@ Anarki,147,0,2,0
 AnastasiaLJ,102,0,1,0
 AnastasiyaSunny,151,0,5,0
 AnathemIte,169,0,15,0
-Anchorboy79,164,2,8,1
+Anchorboy79,164,0,8,0
 And-3,161,0,1,0
 AndBangXD,128,1,3,1
 AndBoomSheSaid,50,0,2,0
@@ -1527,7 +1527,7 @@ AndzORLY,122,0,5,0
 Anemone88,167,0,5,0
 Anesthetize88,163,0,4,0
 Aneurexorcyst,129,12,7,1
-AnfunnyFM,181,27,1,1
+AnfunnyFM,181,0,1,0
 Ang19950,131,0,11,0
 Angeal1702,121,6,11,3
 Angel-Lewie,162,0,5,0
@@ -1727,7 +1727,7 @@ Arghtom,44,0,3,0
 Argie41,161,0,5,0
 Ari3lo,124,0,12,0
 AriHaque,166,0,10,0
-Aria_213,156,2,16,2
+Aria_213,156,0,16,0
 Ariadnestardust,165,0,3,0
 Arianna59,165,0,10,0
 Arianna_banana,118,0,2,0
@@ -1751,7 +1751,7 @@ ArmadiloClanger,140,0,3,0
 Armand2008,132,0,5,0
 ArmandoUhia,106,0,10,0
 ArmchairJammer,160,0,7,0
-Armergeddon,171,2,27,1
+Armergeddon,171,0,27,0
 Army0fMe,14,0,1,0
 ArmyDreamer,131,0,4,0
 Arniemeister,146,0,7,0
@@ -1907,7 +1907,7 @@ Ataraxiaa,173,0,1,0
 AtariKid82,182,0,22,0
 Ataromani,157,2,3,2
 Ataroth,156,0,6,0
-Ataru,130,1,8,1
+Ataru,130,0,8,0
 Ateapotist,79,0,1,0
 AthenaDio,172,0,5,0
 Athenethegreat,110,0,3,0
@@ -1967,7 +1967,7 @@ Auroranaut,115,0,4,0
 AusraEB,137,0,5,0
 AustinODF,6,0,3,0
 Authnon,175,0,11,0
-Auto_Da_Fe,143,1,2,1
+Auto_Da_Fe,143,0,2,0
 Auto_Rock,134,0,7,0
 Autofonic,5,0,1,0
 Autola,172,1,11,1
@@ -2001,7 +2001,7 @@ Aviva21,98,0,14,0
 Avral1,48,0,4,0
 AvroLancs,100,0,2,0
 AvsFan19,174,0,2,0
-AwaitLigtning,112,25,10,7
+AwaitLigtning,112,0,10,0
 Awaiz,54,11,7,1
 Aweful,62,0,5,0
 AwesomeHT,159,0,5,0
@@ -2032,7 +2032,7 @@ Ayriss,149,1,11,1
 Ayto,114,0,8,0
 AzBower,111,0,14,0
 Az__,165,0,5,0
-Azaezl,180,2,9,2
+Azaezl,180,0,9,0
 Azaim,106,0,9,0
 Azibazi,91,0,3,0
 Aziraphale87,108,0,3,0
@@ -2746,7 +2746,7 @@ BernieMcB,160,3,10,2
 BerrySyrup,95,0,5,0
 Berrybeary,106,0,6,0
 Bert-T,149,0,6,0
-BertaWooster,127,1,15,1
+BertaWooster,127,0,15,0
 Bertej,106,0,6,0
 Bertelhaugen,156,0,16,0
 Bertie-G,137,0,8,0
@@ -2932,7 +2932,7 @@ Billy-o,112,0,6,0
 BillyBongOn,80,0,2,0
 BillyBoy182,161,4,3,1
 BillyCupid,136,0,14,0
-BillyKyo,139,6,5,4
+BillyKyo,139,5,5,4
 BillyPadmore,150,0,1,0
 BillyShears87,156,0,7,0
 BillyTalentless,118,0,10,0
@@ -3100,7 +3100,7 @@ Bleeding_Llama,109,0,6,0
 Bleep43,121,0,5,0
 BleghRoss,146,0,5,0
 BlessedFetish,108,0,5,0
-Blessedheart,192,1,2,1
+Blessedheart,192,0,2,0
 BleydhTaran,152,3,3,1
 Bli33ard,146,4,6,2
 Blind-Io,134,0,9,0
@@ -3166,7 +3166,7 @@ BlueDave,167,1,3,1
 BlueDwaggin,156,24,5,4
 BlueFrez,172,0,4,0
 BlueKnockOut,145,0,4,0
-BlueLightAlarm,145,1,8,1
+BlueLightAlarm,145,0,8,0
 BlueMonkey,105,0,6,0
 BlueOmegaGames,135,0,1,0
 BluePaul,159,0,1,0
@@ -3367,7 +3367,7 @@ BoyFonz,117,0,11,0
 BoyGreen,52,0,1,0
 BoyNamedTim,148,0,4,0
 BoyWhoSings,65,1,13,1
-Boyinky,147,1,12,1
+Boyinky,147,0,12,0
 Boyle348,140,0,7,0
 Boyo,140,0,2,0
 Boyscout1981,136,0,13,0
@@ -3417,7 +3417,7 @@ Brapbrappow,133,0,5,0
 BrassPioneer,145,0,7,0
 BrassneckMusic,155,0,13,0
 BraveGravity,111,0,6,0
-BravePinnocchio,164,9,2,1
+BravePinnocchio,164,0,2,0
 BraveSirJake,128,0,5,0
 Brave_New_Hell,166,0,11,0
 Braverism,30,0,1,0
@@ -3701,7 +3701,7 @@ ByakuyaSama,81,0,1,0
 Byjahn,149,1,7,1
 Bylen,115,0,5,0
 Bynn12,67,0,9,0
-ByrneTofferings,133,2,12,2
+ByrneTofferings,133,1,12,1
 ByrnseyBaby,156,0,4,0
 Byronicgirl,72,0,8,0
 Bysiek5,101,0,2,0
@@ -3858,7 +3858,7 @@ CaitEAlborn,104,0,7,0
 CaitSmiles,174,0,6,0
 CaitlinBTickell,118,0,6,0
 CaitlinMcG,53,0,2,0
-Caitlin__xx,121,1,4,1
+Caitlin__xx,121,0,4,0
 Caitlinlasvegas,138,0,6,0
 Caittroll,113,0,5,0
 CaitySin,110,0,2,0
@@ -3879,7 +3879,7 @@ CalPaterson,47,0,3,0
 CalSumner,1,0,1,0
 Cal___,228,0,4,0
 Calabsun,163,0,6,0
-CaladhielGuar,187,1,16,1
+CaladhielGuar,187,0,16,0
 Calamity_Jones,119,0,8,0
 Calaqua,147,1,2,1
 Calasmere,121,0,2,0
@@ -3902,7 +3902,7 @@ CallieFreeman,103,1,11,1
 CallingAdam,108,0,5,0
 Callmecoolchris,69,0,1,0
 Callofthewild,128,4,4,1
-Callum-M-R,156,1,7,1
+Callum-M-R,156,0,7,0
 Callum0000,151,0,6,0
 Callum1234,161,0,1,0
 CallumCarty,160,0,11,0
@@ -3941,7 +3941,7 @@ CalumDarroch,181,0,3,0
 CalumInTheSnow,117,0,11,0
 CalumJWatson,191,0,3,0
 CalumMacLure,32,0,9,0
-CalumRussell,154,2,14,2
+CalumRussell,154,0,14,0
 Calum_,152,0,3,0
 Calum_C_L,167,0,4,0
 Calum_M,164,0,10,0
@@ -4107,7 +4107,7 @@ CarlaVengeance,139,1,4,1
 Carlananakyrod,56,0,5,0
 Carleey,37,0,4,0
 Carley83,70,0,3,0
-CarlieCakeywalk,176,3,4,2
+CarlieCakeywalk,176,2,4,1
 Carlitka,138,0,8,0
 Carlneuf,105,0,1,0
 Carloishaxor,142,0,1,0
@@ -4145,7 +4145,7 @@ Carrie5,120,0,2,0
 CarrieLeanne,146,0,7,0
 Carrie_15,13,0,2,0
 Carrie_19,85,0,6,0
-Carriebish,165,1,9,1
+Carriebish,165,0,9,0
 Carrique,157,0,6,0
 Carrottop_jones,86,0,10,0
 Carry0n,22,0,8,0
@@ -4168,7 +4168,7 @@ CascadaBeats,130,0,13,0
 Casey_Chaos,122,0,3,0
 Caseybean,126,0,12,0
 Caseyyyyyyyy,135,0,3,0
-CashCow,180,1,4,1
+CashCow,180,0,4,0
 CashmereSilence,92,0,13,0
 Casiro,55,0,4,0
 Casleylol,108,0,8,0
@@ -4189,7 +4189,7 @@ Cassyshield,143,4,9,3
 CastAGlare,90,0,5,0
 Castle03,139,0,3,0
 CasttlleeeeBoyy,121,0,2,0
-CasualGlam,99,1,7,1
+CasualGlam,99,0,7,0
 Casualties_army,22,0,2,0
 Cat----4,138,0,9,0
 Cat-bob,159,0,14,0
@@ -4315,7 +4315,7 @@ ChTian,142,0,8,0
 Ch_ump,116,0,3,0
 Chaaarlie_,173,0,3,0
 Chaazzz,57,0,4,0
-Chad_The_Limey,157,2,22,1
+Chad_The_Limey,157,0,22,0
 Chadbourn,80,0,4,0
 Chaddy10,169,9,6,2
 Chadw123,153,0,5,0
@@ -4590,7 +4590,7 @@ ChiaraBionda,170,0,3,0
 Chiaraaaaaa,70,0,2,0
 Chibbon,70,0,4,0
 ChibiLongy,153,0,5,0
-Chichilein,126,11,10,1
+Chichilein,126,0,10,0
 Chickabiddybex,150,0,3,0
 Chickachibex89,121,0,10,0
 ChickenJoey,118,0,5,0
@@ -4673,7 +4673,7 @@ ChrisTP,134,0,3,0
 ChrisTaylor,157,2,4,1
 ChrisTheodosius,78,0,2,0
 ChrisVanity,177,0,4,0
-ChrisWaller,158,16,2,2
+ChrisWaller,158,14,2,2
 ChrisWebb49,142,0,26,0
 ChrisWesticle,108,0,2,0
 ChrisWilmshurst,137,0,5,0
@@ -4759,7 +4759,7 @@ Chunster9,167,0,9,0
 Chupee13,140,23,12,1
 ChurbaBukkbukk,144,0,3,0
 ChyazSamuel,17,0,3,0
-CiaraaLaa,131,2,9,2
+CiaraaLaa,131,1,9,1
 Ciaraabeth,151,0,7,0
 Ciaraleaf,157,0,3,0
 Ciaran,112,0,3,0
@@ -4814,7 +4814,7 @@ CitizenStrife,100,0,2,0
 CitizenSub,125,0,4,0
 Citizen_Bell,146,0,9,0
 Citizenpaul,154,2,10,1
-Citizensheep,155,1,22,1
+Citizensheep,155,0,22,0
 CitricSquid,111,0,2,0
 CityOfDoors,182,1,1,1
 CityWillBurn,155,0,11,0
@@ -4856,7 +4856,7 @@ ClaraWP,153,0,7,0
 Clarabellawond,158,0,7,0
 Clarabelle_x,4,0,1,0
 Clare1988,16,0,2,0
-Clare89,101,3,9,2
+Clare89,101,1,9,1
 ClareB78,115,0,4,0
 ClareFiona,132,0,10,0
 ClareInCornwall,42,0,3,0
@@ -5031,7 +5031,7 @@ Collino,170,0,7,0
 Collins1990,167,1,11,1
 Collins3,30,0,4,0
 Collis,140,0,3,0
-Collisimo,175,1,7,1
+Collisimo,175,0,7,0
 Collycoo,145,0,5,0
 ColmDevereux,164,0,5,0
 Colon,181,0,4,0
@@ -5056,7 +5056,7 @@ ComePickMeUp999,123,0,7,0
 Comedy_Dave,117,0,7,0
 ComfortInSound,94,0,5,0
 Comichood,91,2,5,2
-Common_Bar,126,1,2,1
+Common_Bar,126,0,2,0
 Commondreads22,177,0,4,0
 CommunistOlga,138,0,5,0
 CompCrew,145,0,12,0
@@ -5104,7 +5104,7 @@ Connoro,151,0,18,0
 Conolly,180,0,14,0
 ConorByrne16,119,0,3,0
 ConorChameleon,81,1,6,1
-ConorGP,175,1,2,1
+ConorGP,175,0,2,0
 ConorKeappock50,130,0,10,0
 ConorMcMullan,119,0,16,0
 ConorOberst,87,0,6,0
@@ -5132,7 +5132,7 @@ Cookie1Cookie,123,0,16,0
 CookieXCat,158,0,13,0
 Cookiedalcroy,146,4,10,3
 CookiesAndJava,156,3,2,2
-Cookman,169,1,4,1
+Cookman,169,0,4,0
 CoolBeansRob,117,0,4,0
 CoolBritannia_,134,0,7,0
 CoolFunkMan,129,3,9,2
@@ -5206,7 +5206,7 @@ CountJizzula,103,1,5,1
 CountVonTripp,178,0,16,0
 CounterZER0,143,1,14,1
 Countersonic,129,0,11,0
-Coupey,176,1,2,1
+Coupey,176,0,2,0
 CourTTneyPaige,117,0,7,0
 Courtcase,167,0,6,0
 CourtneyClarke0,136,7,2,1
@@ -5216,7 +5216,7 @@ Courtney_Kiera,21,0,2,0
 Courts1789,100,0,7,0
 CousinNemo,105,0,3,0
 Couture_,154,0,9,0
-CovertBob,185,1,2,1
+CovertBob,185,0,2,0
 CowChris,163,0,9,0
 CowardlyCustard,134,0,4,0
 CowboyBebop,141,0,12,0
@@ -5226,7 +5226,7 @@ Cowboy_Horse,155,0,15,0
 Cowfresh,154,0,5,0
 Cowster14,90,0,7,0
 Coxickle,139,3,11,3
-CoxonLeWoof,199,12,2,1
+CoxonLeWoof,199,0,2,0
 Coyerre,127,1,6,1
 CoyoteExport,62,1,11,1
 CozenedIndigo,140,0,2,0
@@ -5254,7 +5254,7 @@ CraftyAssholes,160,0,4,0
 Craftybird,167,0,15,0
 Cragwin,162,0,13,0
 Craig1981,171,0,2,0
-Craig22779,132,1,2,1
+Craig22779,132,0,2,0
 Craig2417,158,1,7,1
 Craig26,110,0,2,0
 Craig450,139,11,6,2
@@ -5270,7 +5270,7 @@ CraigMurphyy,86,0,4,0
 CraigS8919,70,0,9,0
 CraigVil,174,1,7,1
 Craig_7,128,0,11,0
-Craig_Allan,177,1,2,1
+Craig_Allan,177,0,2,0
 Craig_Metal,132,0,11,0
 Craig_W,194,0,14,0
 Craigerson,34,0,1,0
@@ -5316,7 +5316,7 @@ CrazySpeaker,117,0,5,0
 CrazySykesy,79,0,7,0
 CrazyV1kingLady,166,0,5,0
 Crazy_clown,177,0,4,0
-Crazyboypete,168,10,2,1
+Crazyboypete,168,0,2,0
 Crazyclur,142,3,6,2
 Crazyconspiracy,126,0,12,0
 Crazyd943,69,0,3,0
@@ -5351,7 +5351,7 @@ Crinkthekid,104,0,4,0
 Crippo91,141,0,8,0
 Crippsey,78,0,7,0
 CrisCamino,142,0,3,0
-Crispin27,178,5,9,1
+Crispin27,178,0,9,0
 CrispyPancakes,165,0,8,0
 Crispy_Ellis,31,0,1,0
 CristiMinusO,139,0,16,0
@@ -5701,7 +5701,7 @@ DWMYBlog,108,0,12,0
 DWhittRobinson,187,0,3,0
 DWslider,95,0,13,0
 DYHTPS,75,0,5,0
-D_C,104,16,4,1
+D_C,104,0,4,0
 D_C987,187,14,3,2
 D_LOU,183,0,12,0
 D_Palmer,175,0,4,0
@@ -5714,7 +5714,7 @@ DaFteHh,178,0,3,0
 DaKazzy7,141,0,3,0
 DaLumberjack,173,0,6,0
 DaMetulz,150,0,2,0
-DaMunch,148,2,38,1
+DaMunch,148,0,38,0
 DaSpiderMan,169,0,3,0
 DaVezZzZzZ,173,0,5,0
 DaViDfm16,166,0,1,0
@@ -5789,7 +5789,7 @@ DaleSmith,163,1,11,1
 DaleVanCowboy,4,0,2,0
 DaleXD,89,11,11,1
 Daleacus,59,0,2,0
-Daleblue,166,2,3,1
+Daleblue,166,0,3,0
 Dalehud,143,7,5,1
 Dalenator,135,0,2,0
 Dalerobinson,134,0,6,0
@@ -5797,7 +5797,7 @@ DaletheDino,109,0,2,0
 Dalewylie1990,141,0,12,0
 DaleyAFC,136,0,15,0
 Dali94,9,0,2,0
-Dalleyzilla,116,1,2,1
+Dalleyzilla,116,0,2,0
 Dallsa,121,0,5,0
 Dalty,143,0,14,0
 Damaaage,161,0,5,0
@@ -5932,7 +5932,7 @@ Dandini_,164,4,4,2
 Dandrome,106,0,2,0
 DandyDY,108,0,3,0
 Dandy_,151,2,3,2
-Dane08,154,11,5,1
+Dane08,154,0,5,0
 DaneCFC1988,52,0,2,0
 Daneeleya,173,0,4,0
 Danf85,140,0,3,0
@@ -6034,7 +6034,7 @@ DannBLS,133,0,4,0
 DannDannDann,105,0,11,0
 DannLupton,99,0,11,0
 DannMonster,95,0,1,0
-Dann_is_Crap,163,5,9,1
+Dann_is_Crap,163,0,9,0
 Danneeh_,57,0,2,0
 DannehB_x,89,0,6,0
 Danni-x,9,0,2,0
@@ -6184,7 +6184,7 @@ Darkadaptedeye,140,0,39,0
 Darkandroid,65,0,2,0
 Darkchef,160,0,6,0
 Darkchronic,151,0,2,0
-Darkdementia65,173,1,9,1
+Darkdementia65,173,0,9,0
 DarkenedAng3l,137,0,9,0
 DarkeningSky,153,0,11,0
 Darker_Banned,149,0,10,0
@@ -6295,7 +6295,7 @@ DaveProcter,178,0,2,0
 DaveRaymond,126,0,8,0
 DaveRiley1985,192,0,6,0
 DaveS92,67,0,9,0
-DaveSanders,135,1,5,1
+DaveSanders,135,0,5,0
 DaveTHFC,155,0,14,0
 DaveTraces,141,0,3,0
 DaveWhitfield,158,0,11,0
@@ -6313,7 +6313,7 @@ Davemint1,164,0,11,0
 DaveofHaich,154,0,6,0
 Davepalooza,156,0,12,0
 Daveski,130,0,16,0
-Davespars,151,1,3,1
+Davespars,151,0,3,0
 Davetate,181,0,5,0
 Davetaylor,143,0,14,0
 DavetheBassGuy,165,0,10,0
@@ -6573,7 +6573,7 @@ Dedpixel,145,0,6,0
 DeeAlphabette,117,0,9,0
 DeeBee123,139,0,12,0
 DeeDash80,107,0,5,0
-DeeDeeFlower,126,1,4,1
+DeeDeeFlower,126,0,4,0
 DeeTeeCat,142,0,10,0
 DeeTest,139,0,8,0
 DeeThePirate,55,0,5,0
@@ -6602,7 +6602,7 @@ Deffiance,147,0,12,0
 Defftera,144,0,4,0
 DefiantHorizon,142,0,2,0
 Defiant_Android,173,0,13,0
-Definitelysound,151,1,2,1
+Definitelysound,151,0,2,0
 Deformedkid,147,0,10,0
 Defragged,126,0,6,0
 Defree44,131,0,3,0
@@ -6736,7 +6736,7 @@ Devi4nt,153,0,13,0
 DeviantCatfish,97,0,5,0
 Devil-Blade,145,0,8,0
 DevilDave59,130,0,2,0
-DevilGirl1,153,1,4,1
+DevilGirl1,153,0,4,0
 DevilInsideChaz,113,0,2,0
 Devil_LV,134,0,11,0
 DevilsHaircut,172,0,9,0
@@ -6791,7 +6791,7 @@ DiceMechanic,160,0,3,0
 DickHarris,160,0,1,0
 DickVenom,144,0,6,0
 Dick_Dogg,167,0,6,0
-Dickeh,156,1,3,1
+Dickeh,156,0,3,0
 DickensianRob,51,0,2,0
 Dickie-2k6,144,0,17,0
 DickieD,120,0,2,0
@@ -6923,7 +6923,7 @@ Dixie-Doodle,128,22,3,1
 DixonHill,89,1,4,1
 Dixxonn,127,0,11,0
 Diz-Astro,179,0,7,0
-Dizeh,146,5,3,2
+Dizeh,146,4,3,2
 Dizzar,69,0,11,0
 DizzeeRee,147,0,6,0
 Dizzeemonkee,129,8,8,4
@@ -7009,7 +7009,7 @@ DoktorKrentz,100,0,7,0
 DoktorRokk,44,0,4,0
 DolceGaGa,96,0,2,0
 Doldrums87,148,0,4,0
-DollInSugarComa,184,2,4,1
+DollInSugarComa,184,0,4,0
 DollarrBills,138,0,6,0
 Dolliechopss,155,3,3,2
 Dolliedaydream,147,0,19,0
@@ -7143,7 +7143,7 @@ Dougmacked,151,0,12,0
 Dougmatic,121,0,2,0
 Doutchy,71,0,3,0
 Doutzen,120,0,7,0
-Dovilee,126,1,7,1
+Dovilee,126,0,7,0
 DovydasFE,138,0,6,0
 DownInTheDumps1,85,0,4,0
 DownWithOreos,174,0,8,0
@@ -7199,7 +7199,7 @@ DrThrash,149,0,10,0
 DrWu,98,19,3,2
 DrXHolmes,146,0,5,0
 Dr_Dave,141,0,6,0
-Dr_Decay84,149,1,7,1
+Dr_Decay84,149,0,7,0
 Dr_Frankenjam,135,0,7,0
 Dr_Gonzo404,98,0,5,0
 Dr_J_Durham,106,0,3,0
@@ -7320,7 +7320,7 @@ Drwhomusician,118,2,6,1
 Drwillynickle,174,0,1,0
 DryerShoe,94,0,4,0
 Dsambucci,186,1,8,1
-Dscream,166,1,12,1
+Dscream,166,0,12,0
 Dshadow69,116,0,18,0
 Dsmano,142,0,6,0
 DspeedfreekD,163,0,12,0
@@ -7580,7 +7580,7 @@ Eleri,154,0,2,0
 Elevatorlady1,161,0,2,0
 ElevenOFive,186,0,2,0
 EleventhDoctor,146,0,7,0
-Elevitate,167,1,2,1
+Elevitate,167,0,2,0
 ElfieKawaii,36,0,7,0
 Elfwid,55,0,23,0
 Elfy1985,93,0,12,0
@@ -7593,7 +7593,7 @@ ElinAhlberg,158,0,12,0
 ElinaJ,146,0,4,0
 EliotArdrey,153,0,9,0
 Elise_Victoria,118,0,17,0
-ElitaGrrrl,151,1,4,1
+ElitaGrrrl,151,0,4,0
 EliteEwok,135,0,4,0
 ElizFizz,158,0,3,0
 ElizaKitten,139,2,4,2
@@ -7982,7 +7982,7 @@ Erebusstyx,52,0,2,0
 Erenaeoth,164,0,3,0
 Erendui,170,0,10,0
 EricTile,173,0,4,0
-EricaDisconnect,178,3,6,3
+EricaDisconnect,178,1,6,1
 EricaTaisKarouk,55,0,6,0
 ErikaLopez,1,0,1,0
 ErikaMJones,118,0,23,0
@@ -8070,7 +8070,7 @@ Euphie,148,0,5,0
 EuphonyEvents,2,0,1,0
 EuricaeriS,112,1,5,1
 EuroVoice2010,11,0,1,0
-Eustacia1959,171,27,19,1
+Eustacia1959,171,0,19,0
 EvLuke,155,1,8,1
 EvMarkus,161,0,4,0
 EvOnmusic,177,0,3,0
@@ -8168,7 +8168,7 @@ Extended_play,104,0,5,0
 Extolment,141,0,3,0
 Extreme_Ironing,110,0,6,0
 Extreme_One,151,0,7,0
-ExuNavarinIdara,58,1,8,1
+ExuNavarinIdara,58,0,8,0
 Exuinox,164,0,7,0
 ExxonAmadeus,183,0,2,0
 EyeDoubleYou,152,2,5,1
@@ -8337,7 +8337,7 @@ Farrmark,147,3,25,1
 FashionFuneral,146,1,19,1
 FashionTargets,73,0,2,0
 Fashioncub,123,0,5,0
-FashionistState,155,9,9,2
+FashionistState,155,0,9,0
 Fastrez,77,0,2,0
 Fat-Jak,147,0,5,0
 FatBladBloke,170,0,4,0
@@ -8349,10 +8349,10 @@ FatMise,113,0,13,0
 FatMitch,160,4,10,4
 FatSam,111,0,4,0
 FatalKiss,87,0,12,0
-Fatal_Enigma,154,1,2,1
+Fatal_Enigma,154,0,2,0
 Fatalcat,136,0,3,0
 Fatalix,183,0,1,0
-Fataliztik,118,2,5,1
+Fataliztik,118,0,5,0
 Fatallis,98,0,9,0
 Fatboy1973,119,3,7,3
 FatcatRecords,139,0,2,0
@@ -8378,7 +8378,7 @@ Fawdgeeee,14,0,2,0
 Fawksie,146,0,12,0
 Fawless_,4,0,1,0
 Faxsly,162,0,1,0
-Fay-Unit,160,3,3,1
+Fay-Unit,160,0,3,0
 FayBrotherhood,183,0,2,0
 FayCranham,103,2,5,2
 FayWilson,163,3,3,2
@@ -8478,7 +8478,7 @@ Fiindil,185,0,3,0
 Filgjr,113,0,5,0
 FilippoInzaghi,56,0,3,0
 Fillup82,145,0,3,0
-FilmFan,113,1,12,1
+FilmFan,113,0,12,0
 FilmStar,113,0,13,0
 Filmoar,151,0,7,0
 FilthyBeaver82,134,0,7,0
@@ -8591,7 +8591,7 @@ Flello93,132,0,6,0
 Flembrit,89,0,5,0
 Flesh_Gore,110,0,4,0
 Fletcha,158,0,1,0
-Fletcherino13,180,1,15,1
+Fletcherino13,180,0,15,0
 Fletchington1,117,0,16,0
 FleurDuMal27,137,0,11,0
 FleurFrancoise,165,0,10,0
@@ -8784,8 +8784,8 @@ FrankaDeMille,4,0,3,0
 Frankenreagan,80,0,3,0
 FrankieHardaker,27,0,5,0
 FrankiePotjewyd,169,0,4,0
-FrankieSpaceboy,148,1,20,1
-FrankieStrange,148,1,15,1
+FrankieSpaceboy,148,0,20,0
+FrankieStrange,148,0,15,0
 Frankie_Videtta,138,0,6,0
 FrankieeFrankie,124,0,5,0
 Frankle,72,0,14,0
@@ -8837,7 +8837,7 @@ FreeHugsHere,163,0,6,0
 FreeSicksTee,134,1,5,1
 Free_Tree,97,0,7,0
 Freebooter,182,0,5,0
-FreedomRoad,140,15,6,1
+FreedomRoad,140,0,6,0
 FreedoomerHobo,51,0,5,0
 Freekygeeky,116,7,8,1
 FreelanceP,156,0,14,0
@@ -8950,7 +8950,7 @@ FunkyLilith,182,0,4,0
 FunkyMonk--,138,2,12,1
 FunkyMunkey106,166,0,7,0
 FunkyOrgazmic,81,0,1,0
-FunkyPie,172,9,1,1
+FunkyPie,172,0,1,0
 FunkyRenegade99,136,1,17,1
 Funkygal,130,0,11,0
 Funkymunky1000,117,0,3,0
@@ -9479,7 +9479,7 @@ Ghostlyy,69,0,6,0
 Ghostpvpmaster,153,0,2,0
 Ghostrider2112,142,4,11,1
 Ghosty233,100,0,2,0
-Ghoti,143,1,7,1
+Ghoti,143,0,7,0
 Ghoulascor,183,0,2,0
 GiANTOnFire,149,0,9,0
 GiaHorror,180,1,7,1
@@ -9527,8 +9527,8 @@ Ginge-,76,0,4,0
 GingeClaire,162,0,4,0
 GingeJeb,123,0,3,0
 Gingegiant,143,0,2,0
-Gingekid,166,1,2,1
-GingerDolly,160,4,10,4
+Gingekid,166,0,2,0
+GingerDolly,160,1,10,1
 GingerFoxx,50,0,4,0
 GingerJessica,103,0,12,0
 GingerLover,122,1,6,1
@@ -9571,7 +9571,7 @@ GiveJoshMORE,105,0,7,0
 GiveMeCaffeine,164,0,8,0
 GiveMeHellKid,100,0,3,0
 Giviboy,143,0,2,0
-Gixermouse,168,12,3,1
+Gixermouse,168,11,3,1
 Gizoku,137,0,3,0
 Gizz47,142,0,7,0
 Gjirl,180,0,2,0
@@ -9772,7 +9772,7 @@ Gregor2102,165,0,4,0
 GregorPryor,47,0,3,0
 Gregorick,155,0,2,0
 GregoryJolliffe,124,0,6,0
-GregorzIV,165,1,1,1
+GregorzIV,165,0,1,0
 Gregseh,111,0,3,0
 Gregster1978,196,0,3,0
 Gregthegreat,174,1,4,1
@@ -9944,7 +9944,7 @@ HAXER1993,33,0,6,0
 HAZAMAN,162,2,19,1
 HAZERMUSIC,167,0,9,0
 HAZSCHNEBLE,164,0,9,0
-HArrymkw,158,1,8,1
+HArrymkw,158,0,8,0
 HBNicholson,108,0,6,0
 HCAZ-301,159,0,8,0
 HCR93,129,0,3,0
@@ -10011,7 +10011,7 @@ HairyFunk,146,0,3,0
 HairyHighlander,191,1,9,1
 Hairyfoot,177,0,7,0
 Hairymuffin2011,70,0,12,0
-Hakijinlol,157,1,2,1
+Hakijinlol,157,0,2,0
 Haku1000,117,0,16,0
 Hakucho,70,0,5,0
 Hal0J,99,0,5,0
@@ -10195,7 +10195,7 @@ Harrison101,95,5,12,3
 Harrison121,121,0,21,0
 Harrkin,139,0,3,0
 Harry-75,173,0,10,0
-Harry-Rhodes,162,1,11,1
+Harry-Rhodes,162,0,11,0
 Harry015,44,0,2,0
 Harry1993,90,0,2,0
 Harry68,177,0,5,0
@@ -10324,7 +10324,7 @@ HeatherG_,139,0,1,0
 HeatherIsHere,112,0,7,0
 Heatherkins92,125,0,9,0
 Heatley,101,0,9,0
-Heatseek185,159,3,8,2
+Heatseek185,159,2,8,1
 HeavenDamnation,145,0,3,0
 Heaven_Knows,164,0,5,0
 HeavensChimney,169,0,6,0
@@ -10334,7 +10334,7 @@ HebbieDooner,170,0,1,0
 HebeTheHobo,136,0,8,0
 Hecate83,189,0,5,0
 Hectocotylus79,139,0,1,0
-HectorMcGregor,169,3,8,2
+HectorMcGregor,169,0,8,0
 HectorsPromise,176,0,4,0
 HedKandi08,47,0,6,0
 HeddaEdgar,125,0,9,0
@@ -10364,7 +10364,7 @@ HelenBoastPhoto,184,0,11,0
 HelenHeadart,189,0,12,0
 HelenMarudas,116,0,1,0
 HelenMelon87,146,0,11,0
-HelenOf,125,11,7,3
+HelenOf,125,0,7,0
 HelenRochfort,160,0,4,0
 HelenRyan,162,0,5,0
 HelenStaffs,127,1,10,1
@@ -10379,7 +10379,7 @@ Helene_Atsuko,172,0,12,0
 Helenetta,172,0,9,0
 HelennJ,88,0,7,0
 HeliumHeart,72,0,5,0
-Helixdacat,170,1,5,1
+Helixdacat,170,0,5,0
 HellAnge1988,136,1,7,1
 HellAwaitsUs,16,0,2,0
 HellNG,177,0,4,0
@@ -10486,7 +10486,7 @@ Hexxeh,96,0,2,0
 Hey-zelle,150,0,6,0
 HeyBert,66,0,4,0
 HeyBrother,140,0,6,0
-HeyChinaski,179,1,15,1
+HeyChinaski,179,0,15,0
 HeyEmzz,169,0,5,0
 HeyHollay,170,0,11,0
 HeyItsMark,42,0,6,0
@@ -10636,7 +10636,7 @@ HumanWreckage,141,0,10,0
 Humbotronn,119,0,3,0
 HummingJaw,160,0,6,0
 Humpage,39,0,2,0
-Hungdini,162,2,6,1
+Hungdini,162,0,6,0
 HunnyBetch,121,0,9,0
 Hunterpwns,135,3,4,1
 Hurcule,182,0,17,0
@@ -11080,7 +11080,7 @@ IsmaMalibu,145,0,11,0
 Ismera,170,0,6,0
 Isoniahtar,109,0,8,0
 IsraaYasmin,19,0,3,0
-Isselinai,123,1,3,1
+Isselinai,123,0,3,0
 Issih,190,0,2,0
 Issues_Sunshyne,154,0,9,0
 IssyKiely,100,0,7,0
@@ -11438,7 +11438,7 @@ Jackios,155,0,3,0
 JackistRad,92,0,3,0
 Jackk14,121,0,6,0
 JackkGriffiths,36,1,8,1
-Jackl_13,137,1,4,1
+Jackl_13,137,0,4,0
 Jacklaus,72,0,2,0
 Jackles1612,3,0,1,0
 Jackllewelyn,137,0,3,0
@@ -11489,7 +11489,7 @@ JamWika,100,0,1,0
 JamZ921,63,0,1,0
 Jam_Bug,151,24,5,1
 JamadianUK,187,0,6,0
-Jamah_ha,168,3,9,2
+Jamah_ha,168,0,9,0
 JamaicaSka,111,0,1,0
 Jamala,173,0,1,0
 Jamamamames,64,0,3,0
@@ -11849,13 +11849,13 @@ Jayh_,77,0,3,0
 Jayhirst,43,4,2,2
 Jayisonfire,143,2,7,1
 JayjayRobertson,117,0,4,0
-JaykeLouis,147,2,10,2
+JaykeLouis,147,0,10,0
 Jaymayo,128,1,4,1
 Jaymz247,164,0,9,0
 Jaymz_DTSlave,92,0,11,0
 Jayne29,13,0,2,0
 Jayney,65,0,10,0
-Jaypeedee,164,3,1,1
+Jaypeedee,164,0,1,0
 Jayren_D,136,0,9,0
 JaysonG,105,0,7,0
 Jayy88,103,0,5,0
@@ -11949,7 +11949,7 @@ Jeloyra,100,0,6,0
 JemCope,37,0,1,0
 Jem_music,44,0,2,0
 Jemfy,181,0,6,0
-JemimahKnight,104,1,8,1
+JemimahKnight,104,0,8,0
 Jemisode,191,0,2,0
 Jemma117,124,0,4,0
 JemmaLouise,66,0,8,0
@@ -12122,7 +12122,7 @@ JethroCummins,67,0,2,0
 JethroGillgren,112,0,2,0
 Jetpac,102,0,8,0
 Jetsetpainter,181,0,7,0
-Jetskee,169,5,9,1
+Jetskee,169,0,9,0
 Jettxo,150,0,11,0
 Jettyguy,104,0,2,0
 Jetx,141,0,3,0
@@ -12535,7 +12535,7 @@ Johnandonandon,137,0,7,0
 Johnathan1717,152,0,7,0
 JohnathanDodd,145,0,7,0
 Johnbys,38,0,1,0
-Johncalmc,121,1,2,1
+Johncalmc,121,0,2,0
 Johng0404,115,0,4,0
 JohngyBongy,70,0,12,0
 Johnkm,161,0,3,0
@@ -12677,7 +12677,7 @@ Jono_Mead,114,0,3,0
 Jonster2612,46,0,5,0
 Jontaylzz,140,0,6,0
 JontheDvl,92,0,1,0
-Jonzo67,126,1,9,1
+Jonzo67,126,0,9,0
 Jookstevens,160,0,2,0
 Joony1989,125,0,5,0
 Jooodie,164,2,7,1
@@ -12725,7 +12725,7 @@ JosephSpillane,152,0,13,0
 JosephWood1,140,0,12,0
 Joseph_Gunn,86,0,4,0
 Joseph_Whalley,122,0,2,0
-JosephdeGarr,162,1,2,1
+JosephdeGarr,162,0,2,0
 Josephdreamcoat,92,0,5,0
 JoseppiTM,160,0,2,0
 Josh-H,117,0,2,0
@@ -12781,7 +12781,7 @@ Joshua_toy,142,0,9,0
 JoshuaaaaTPOB,152,0,4,0
 Joshuawilliams,160,0,4,0
 Joshuayeah,148,0,10,0
-Joshurawr,141,3,4,1
+Joshurawr,141,0,4,0
 Joshurawrr,164,0,2,0
 Joshwa_93,150,0,5,0
 Joshwilliams,89,0,9,0
@@ -12852,7 +12852,7 @@ JuicyLucyJuicy8,168,0,15,0
 Juicy_ho,87,0,5,0
 Jujarr,143,0,4,0
 Juka08,221,0,3,0
-JukeboxGem,116,1,5,1
+JukeboxGem,116,0,5,0
 Jukesyizacouch,163,0,6,0
 Julaayy,112,0,2,0
 Jules5928,60,0,18,0
@@ -13078,7 +13078,7 @@ Kamilll90,128,0,2,0
 Kamisori,120,0,9,0
 KamisoriShinzou,13,0,2,0
 Kamitoman,54,1,10,1
-Kamitsukenu,139,1,1,1
+Kamitsukenu,139,0,1,0
 Kammi76,126,0,6,0
 Kamy--x,142,0,2,0
 Kanamaganza,127,0,5,0
@@ -13237,7 +13237,7 @@ Katiee-Bee,159,0,7,0
 Katiee93,91,0,7,0
 Katieflossom,159,14,4,1
 Katiefuckssake,81,0,11,0
-Katiekat89,131,1,9,1
+Katiekat89,131,0,9,0
 Katiekins321,172,0,11,0
 Katieoc1991,140,0,15,0
 Katieroodles,132,0,5,0
@@ -13299,7 +13299,7 @@ Kayz94,147,0,2,0
 KayzanLenn,114,0,3,0
 Kazbitch,112,0,1,0
 Kazimierz,194,0,2,0
-Kazine,165,55,4,1
+Kazine,165,54,4,1
 Kazumuri,147,0,5,0
 Kazzaeh,161,0,13,0
 Kazzerscout,194,0,3,0
@@ -13387,7 +13387,7 @@ KenDannedy,90,0,4,0
 Ken_Oh,121,0,4,0
 Kenelis,165,2,10,1
 Keneticshark,106,0,6,0
-KennDrum,177,5,12,1
+KennDrum,177,0,12,0
 Kennethcml,152,12,7,2
 Kennifer83,122,0,2,0
 Kennifred,98,0,8,0
@@ -13508,7 +13508,7 @@ Kieran43,9,0,3,0
 KieranCastle,130,0,2,0
 KieranDominic,133,0,20,0
 KieranReade,145,1,11,1
-KieranRees,121,1,4,1
+KieranRees,121,0,4,0
 KieranSnell69,143,0,11,0
 KieranTheGreat,106,0,3,0
 Kieran_A7X,67,0,7,0
@@ -13531,7 +13531,7 @@ KikiiMcI,101,0,7,0
 KiksyUK,146,0,11,0
 Kiliana,163,1,4,1
 Kilimanziaro,139,0,11,0
-Kill-ichi,151,1,4,1
+Kill-ichi,151,0,4,0
 KillCityKitchen,142,0,8,0
 KillMorris,174,0,6,0
 Killadin,36,0,2,0
@@ -13561,7 +13561,7 @@ KimGill,96,0,9,0
 KimJOsborne,59,0,5,0
 KimJoyAnna,168,0,9,0
 KimVAllen,164,0,7,0
-KimWareham,138,1,9,1
+KimWareham,138,0,9,0
 Kim_Biscuit,179,0,6,0
 Kim_riseordie,88,0,7,0
 Kimberflea,159,0,13,0
@@ -13627,7 +13627,7 @@ KingofFanelia,139,0,7,0
 Kingprawny,158,0,2,0
 Kingshmoo,166,0,2,0
 Kingsmoor,167,7,11,3
-KingySilvers,153,1,2,1
+KingySilvers,153,0,2,0
 Kingz2011,125,1,8,1
 Kinkay,156,0,9,0
 KinksKate,98,0,1,0
@@ -13693,7 +13693,7 @@ Kitsy_1,35,0,7,0
 Kittapotamus,165,0,7,0
 Kitten1901,145,0,9,0
 KittenCorpse,128,0,26,0
-KittenIndustry,185,1,7,1
+KittenIndustry,185,0,7,0
 KittenKez__ox,150,0,5,0
 Kittenfluffer,163,2,11,1
 KittiKataklysm,98,0,6,0
@@ -13885,7 +13885,7 @@ Kuomi,99,1,5,1
 Kupo-Luke,141,0,3,0
 Kuregu,128,0,12,0
 KuriousBanana,181,0,2,0
-Kuris88,157,1,14,1
+Kuris88,157,0,14,0
 Kuriso,171,0,3,0
 Kuro3105,96,0,6,0
 KuroSaru,30,0,2,0
@@ -14034,7 +14034,7 @@ LSDan,162,0,18,0
 LSSRN,132,0,9,0
 LSi01,159,0,4,0
 LT2099,155,0,9,0
-LT7030,157,1,12,1
+LT7030,157,0,12,0
 LUCYTESCO,85,0,7,0
 LUFCchick,154,1,4,1
 LULUsweet,135,0,14,0
@@ -14098,7 +14098,7 @@ LadyHawkeye,147,0,7,0
 LadyHaych,176,0,5,0
 LadyLace7,175,3,14,2
 LadyMorticia,145,1,6,1
-LadyNightspirit,115,1,6,1
+LadyNightspirit,115,0,6,0
 LadyNoctis,62,0,3,0
 LadyPatience,106,0,5,0
 LadyROBOLeah,92,0,8,0
@@ -14241,7 +14241,7 @@ LauraKnapton,39,0,5,0
 LauraLauraCrane,154,0,5,0
 LauraLolz,120,0,8,0
 LauraMarvel,92,0,5,0
-LauraPrime,115,2,9,1
+LauraPrime,115,0,9,0
 LauraT2010,144,0,12,0
 LauraVMB,112,11,13,1
 LauraW1302,119,0,5,0
@@ -14432,7 +14432,7 @@ LeeJeffrey,139,35,1,1
 LeeM75,158,1,3,1
 LeeMeAtSix,106,0,2,0
 LeeOfgraDaN,179,0,11,0
-LeeOikawa,176,2,2,1
+LeeOikawa,176,0,2,0
 LeeOlivier-Hall,23,0,2,0
 LeeRawr,173,0,9,0
 LeeRosher,126,0,5,0
@@ -14470,7 +14470,7 @@ LeftCoastRyda,178,0,4,0
 LefterisDel,115,0,2,0
 Leftinthedarkx,165,0,8,0
 LeftoverAndy,122,0,4,0
-Leg_Teaser,172,1,3,1
+Leg_Teaser,172,0,3,0
 LegallyLou,80,0,7,0
 LegasX,145,0,1,0
 Legend4ry,148,0,15,0
@@ -14675,7 +14675,7 @@ LiCkWiD-Evo,74,0,14,0
 LiLBenJi87,90,0,3,0
 LiLLinds19,29,0,5,0
 LiLi-x,112,0,6,0
-LiLy_Ann,161,1,5,1
+LiLy_Ann,161,0,5,0
 LiaMMV,150,0,3,0
 Lia_Noir,126,0,12,0
 Liam-RTL,156,0,15,0
@@ -14785,7 +14785,7 @@ LilHan,171,0,15,0
 LilLaura1702,144,0,4,0
 LilMsEcho,170,0,6,0
 LilRedRidinChic,2,0,1,0
-LilSparkliBunni,163,23,10,3
+LilSparkliBunni,163,16,10,3
 LilTheater,83,0,2,0
 LilTommyFtw,101,0,3,0
 Lil_Hazza,167,14,3,2
@@ -14803,7 +14803,7 @@ Lilly_Stardust,173,0,7,0
 Lillybet37,151,0,4,0
 LillybethAnne,121,0,24,0
 Lilmiss,116,0,2,0
-Lilsi100,138,1,6,1
+Lilsi100,138,0,6,0
 Lily-94,176,0,8,0
 Lily-Phoenix,149,4,4,2
 LilyHafKehoe,91,0,4,0
@@ -14822,7 +14822,7 @@ LinKz03,99,3,5,2
 LinaWroteWrit,24,0,2,0
 Lind_L_Tailor,70,0,2,0
 LindaGregory152,144,0,7,0
-LindaOhGee,68,1,5,1
+LindaOhGee,68,0,5,0
 Lindap3,127,0,7,0
 Linds2894,40,0,5,0
 LindsayChild,115,1,5,1
@@ -14876,7 +14876,7 @@ LisaLeighton,124,0,7,0
 LisaMGo,178,0,6,0
 LisaMcDonald,56,0,2,0
 LisaPar,110,0,10,0
-Lisa_Nocturne,167,1,3,1
+Lisa_Nocturne,167,0,3,0
 Lisa_ww,168,2,11,1
 Lisage,51,0,4,0
 LisahLickerish,87,0,4,0
@@ -15217,7 +15217,7 @@ LouisShortt,39,0,4,0
 LouisTee,73,0,2,0
 Louis_Pinder,78,0,6,0
 Louis_Vinyl,87,0,2,0
-Louis_cyphre,174,1,8,1
+Louis_cyphre,174,0,8,0
 Louisa1980,133,0,8,0
 LouisaThings,122,0,6,0
 LouisaViolet,168,0,2,0
@@ -15283,7 +15283,7 @@ Lowest,136,0,2,0
 LoweyApollo,129,0,3,0
 Lowlife452,137,0,18,0
 Lowri_Elen,119,0,4,0
-Lowriii,125,6,7,2
+Lowriii,125,5,7,2
 Loxxyy,65,0,7,0
 LozBlanko,114,0,13,0
 LozClarke,104,0,3,0
@@ -15368,10 +15368,10 @@ Lucy-o,159,0,3,0
 Lucy-x,151,0,21,0
 Lucy1ycuL,115,0,11,0
 LucyAJ,148,0,5,0
-LucyBea22,162,1,4,1
+LucyBea22,162,0,4,0
 LucyBeee,177,4,7,1
 LucyBurrows,145,0,5,0
-LucyCage,157,1,12,1
+LucyCage,157,0,12,0
 LucyHarriet,145,0,5,0
 LucyHill,128,0,9,0
 LucyKoshbayan,138,3,2,2
@@ -15495,7 +15495,7 @@ Lunarphase,169,0,2,0
 Lunatikk666,142,0,5,0
 Lunatra,169,0,2,0
 Lundora,146,0,3,0
-LungFiller,111,1,8,1
+LungFiller,111,0,8,0
 Lunnny,123,0,2,0
 Lunoko,152,0,14,0
 LupieStardust,95,0,5,0
@@ -15503,7 +15503,7 @@ LupinZX,146,0,8,0
 LupusDragon,139,0,6,0
 Lurkio,163,0,3,0
 LushAttic,180,0,7,0
-Lushhollow,112,2,8,1
+Lushhollow,112,0,8,0
 Lushiiamazed,132,0,9,0
 LustHog,142,0,2,0
 LustrousChemist,177,0,15,0
@@ -15601,7 +15601,7 @@ MAGGY65,128,0,23,0
 MAGICxCANDY,94,0,8,0
 MAGNIMETAL,22,0,3,0
 MAMarshall,138,0,6,0
-MANASYt,7,1,4,1
+MANASYt,7,0,4,0
 MARCOtumado,8,0,2,0
 MARKXMARK,111,0,2,0
 MARYJANE-,137,0,9,0
@@ -15708,7 +15708,7 @@ MMMMTTTT,112,0,2,0
 MMacKK,103,0,3,0
 MODANDY,152,0,24,0
 MODUS_,116,0,6,0
-MOGandNOZZLE,176,3,1,1
+MOGandNOZZLE,176,0,1,0
 MOOSEFULNESS,85,0,8,0
 MOWYWewan,158,1,2,1
 MR648,127,0,4,0
@@ -15735,7 +15735,7 @@ MZBowe,154,0,4,0
 MZRich,159,0,2,0
 MZero_UK,192,0,4,0
 M_Abbott,145,0,8,0
-M_G_W,179,1,9,1
+M_G_W,179,0,9,0
 M_Jackson,190,0,9,0
 Ma12t,177,0,4,0
 MaLaKoT,104,0,11,0
@@ -15867,7 +15867,7 @@ MagicMalkin,150,0,7,0
 MagicPositionx,155,0,21,0
 MagicToothpaste,139,0,3,0
 MagicVerity,130,0,2,0
-Magic_Alex,186,1,1,1
+Magic_Alex,186,0,1,0
 Magic_Cesc,78,0,4,0
 Magic_Muffin,155,0,2,0
 MagicalGoats,121,0,9,0
@@ -15916,7 +15916,7 @@ MajorT0M,98,0,7,0
 Major_Sharpe,100,0,11,0
 MajoretteMina,59,0,3,0
 Majorroadrager,144,0,4,0
-Majorshockers,167,5,5,2
+Majorshockers,167,0,5,0
 MakIero,87,0,7,0
 MakaveliSTO,39,0,3,0
 MakeDoMoveAside,103,0,3,0
@@ -15929,7 +15929,7 @@ Mal87,103,0,5,0
 Mal9000,185,0,15,0
 MalPorter,144,0,3,0
 MalachyMcGovern,151,0,14,0
-MalaciaNemo,135,1,2,1
+MalaciaNemo,135,0,2,0
 Malchiar,128,0,5,0
 MalcolmMacleod,171,0,11,0
 Malcolmmm,165,0,2,0
@@ -16005,7 +16005,7 @@ ManicClashMatt,150,0,3,0
 ManicLara,93,0,5,0
 ManicLoop,98,0,4,0
 ManicSP,133,0,7,0
-ManicStPreacher,149,1,1,1
+ManicStPreacher,149,0,1,0
 Manicben,170,0,3,0
 ManifestLDN,164,0,6,0
 ManishaX,159,0,3,0
@@ -16064,7 +16064,7 @@ Marcus_surfer,84,0,2,0
 Marcuskinsey,140,0,14,0
 Marcusnessx,95,0,2,0
 Marcution,169,2,9,2
-Mardagg,143,1,5,1
+Mardagg,143,0,5,0
 MardyDan,128,0,16,0
 MarekDragon,92,0,2,0
 Mareksawake,29,0,3,0
@@ -16218,7 +16218,7 @@ MartyG91,35,0,2,0
 MartyHoyle,146,0,13,0
 Marty_Mc,148,0,10,0
 Martyn1989,131,0,2,0
-MartynD89,165,3,6,2
+MartynD89,165,0,6,0
 MartynHaigh,120,1,3,1
 MartynLambert,141,0,10,0
 MartynMc,98,0,10,0
@@ -16305,7 +16305,7 @@ Matt1st124,181,0,4,0
 Matt231,140,0,13,0
 Matt2kilos,129,0,15,0
 Matt555,78,0,13,0
-Matt74m,106,32,5,3
+Matt74m,106,0,5,0
 Matt926,176,1,1,1
 MattAllmark,128,0,8,0
 MattBeetee,179,0,5,0
@@ -16369,7 +16369,7 @@ Matt_Drennan,144,1,4,1
 Matt_Hardy17,164,0,1,0
 Matt_Inman,108,0,6,0
 Matt_J_ttaM,99,0,10,0
-Matt_Kimbie,131,1,2,1
+Matt_Kimbie,131,0,2,0
 Matt_Little,156,3,10,1
 Matt_Nic,94,0,2,0
 Matt_Rizzo,107,0,3,0
@@ -16460,7 +16460,7 @@ Maurice_Mo,149,2,11,2
 MaurythePawn,63,0,2,0
 Mausiness,75,0,4,0
 Maux99,147,0,4,0
-MavisDavies,177,3,11,1
+MavisDavies,177,0,11,0
 Mavrick589,88,0,3,0
 Mavroskyknos,105,0,4,0
 Mawarimasu,39,0,4,0
@@ -16512,7 +16512,7 @@ Maya___,154,2,8,1
 Mayakorn,148,0,11,0
 Maybe-Jodie,70,0,5,0
 Maybe_magic_in_,112,0,7,0
-MayburyATG,163,10,2,1
+MayburyATG,163,0,2,0
 Maydhd,84,0,11,0
 Mayec,171,0,10,0
 Mayernator87,56,0,8,0
@@ -16573,7 +16573,7 @@ Mcgarnical,153,0,6,0
 Mckredie,176,1,9,1
 Mclivi,156,0,5,0
 Mclloydy,60,0,9,0
-Mcroper,125,1,3,1
+Mcroper,125,0,3,0
 Mctafish,75,0,4,0
 Mcussss,152,1,6,1
 MeLeneJames,86,0,9,0
@@ -16657,7 +16657,7 @@ Meinfure-Mu,143,0,14,0
 Meingreen,151,0,7,0
 Meister_Dee,174,0,6,0
 Mejis86,66,0,2,0
-Mekelele,80,1,6,1
+Mekelele,80,0,6,0
 Mel-Jaye,107,0,2,0
 MelCape,140,3,6,2
 MelFunky83,167,0,12,0
@@ -16770,7 +16770,7 @@ MetalIsForever,156,0,4,0
 MetalKid,149,0,2,0
 MetalLoverAdam,151,0,17,0
 MetalMAIB,153,0,3,0
-MetalMalis,167,1,8,1
+MetalMalis,167,0,8,0
 MetalMan93,71,0,9,0
 MetalManatee,127,0,4,0
 MetalMistressx,113,0,5,0
@@ -17111,7 +17111,7 @@ MiraiMu,4,0,2,0
 Miranda-Miranda,130,0,2,0
 MirandaYardley,186,0,2,0
 Mirandabk,130,0,11,0
-Mirbeau,93,1,7,1
+Mirbeau,93,0,7,0
 Mirri-London,117,0,5,0
 MirrorAndClock,195,0,7,0
 MirrorLine,137,2,2,1
@@ -17334,7 +17334,7 @@ Mode06,175,5,5,1
 ModelCitizen,153,0,5,0
 ModernDayFire,124,0,10,0
 Modern_Love,140,0,2,0
-Modest_Hamster,188,5,8,5
+Modest_Hamster,188,3,8,3
 Modified_Youth,82,0,8,0
 Modnsoul,161,0,36,0
 Modocikn,172,0,4,0
@@ -17426,7 +17426,7 @@ Monts440,196,12,11,2
 Monty007,145,0,6,0
 MonzYO,31,0,2,0
 Monzee,68,0,8,0
-Moo1974,153,1,7,1
+Moo1974,153,0,7,0
 MooBagsBitch,107,0,9,0
 MooBsof3d,13,0,3,0
 MooFoo,127,0,9,0
@@ -17443,7 +17443,7 @@ Moogiee_,31,0,1,0
 Moogle66,172,0,4,0
 Moogstah,162,0,13,0
 Moomies,175,0,6,0
-Moomin2106,119,3,4,2
+Moomin2106,119,2,4,2
 MoominFamily,127,0,6,0
 Moomino,166,0,8,0
 Moomoiles,76,0,3,0
@@ -17672,7 +17672,7 @@ MrMathieson,120,0,4,0
 MrMetalMan,142,0,9,0
 MrMetroid,102,0,2,0
 MrMinum,156,0,3,0
-MrMistletoe,120,1,2,1
+MrMistletoe,120,0,2,0
 MrMitchMusic,143,0,11,0
 MrMojoRisin74,136,0,8,0
 MrMooGert,198,0,1,0
@@ -17711,7 +17711,7 @@ MrRutaBaga,149,0,16,0
 MrSalamandra,161,0,3,0
 MrSaxMan,152,0,4,0
 MrScagdenSir,121,0,10,0
-MrSeras,187,1,5,1
+MrSeras,187,0,5,0
 MrShakespere,103,0,13,0
 MrSheep,175,0,7,0
 MrShrimper,169,0,13,0
@@ -17719,7 +17719,7 @@ MrSidVicious,149,1,5,1
 MrSimonW,174,0,2,0
 MrSnide,96,0,23,0
 MrSpangles,123,0,6,0
-MrSpearS,103,1,3,1
+MrSpearS,103,0,3,0
 MrSpeed,95,0,11,0
 MrSqueaks,165,4,13,2
 MrStabby,131,0,14,0
@@ -17757,7 +17757,7 @@ Mr_Grimes,152,1,7,1
 Mr_Hat,129,0,6,0
 Mr_Hennessy,113,0,5,0
 Mr_Indifferent,176,0,6,0
-Mr_Jaded,141,5,8,1
+Mr_Jaded,141,0,8,0
 Mr_Krill,194,0,1,0
 Mr_Krinkle12,153,0,6,0
 Mr_Lucius,182,0,7,0
@@ -17874,7 +17874,7 @@ Mullington,151,0,20,0
 MumbleFuzz,164,0,3,0
 Mumbo,140,0,4,0
 Munchkin777,100,0,9,0
-MunchyBrain,88,8,5,1
+MunchyBrain,88,0,5,0
 MunkeBoy,148,0,1,0
 Munkib,150,0,2,0
 Munkie22,29,0,2,0
@@ -18022,11 +18022,11 @@ Mystecki,139,0,3,0
 Mysteria08,177,0,7,0
 MysteryBrick,168,0,3,0
 MysteryDaf,135,0,8,0
-Mystery_Bob,161,1,10,1
+Mystery_Bob,161,0,10,0
 MystiFerdinand,115,0,7,0
 MysticalParrot,185,2,2,2
 Mythanos,120,0,4,0
-Mythbuster61,144,5,12,5
+Mythbuster61,144,4,12,4
 Mythgarthr,113,0,12,0
 Myxed_Up,124,0,6,0
 MzCMarie,173,0,14,0
@@ -18143,7 +18143,7 @@ Nakita_Sian,116,0,6,0
 Nalodmyk,31,0,5,0
 Naluka,162,0,5,0
 Namdawg,136,0,11,0
-Nameless_1,133,7,3,3
+Nameless_1,133,5,3,3
 Nammeh,162,0,8,0
 Namrams,150,6,8,2
 NanBreadMonster,140,0,13,0
@@ -18260,7 +18260,7 @@ Natt182,139,2,4,2
 Nattaz101,166,1,11,1
 Natteh,129,1,8,1
 Natters,172,0,6,0
-Natti_my_kin,144,1,7,1
+Natti_my_kin,144,0,7,0
 Nattie_x,119,0,10,0
 NattyNatstar,173,0,4,0
 NattyPonDeTrack,123,0,14,0
@@ -18478,8 +18478,8 @@ Niall-Kinsella,126,0,10,0
 NiallOswald,123,0,6,0
 NiallSinky,159,7,3,2
 Nialloleary,130,0,3,0
-NiallyNasty,131,1,17,1
-NiamhStarky,155,1,5,1
+NiallyNasty,131,0,17,0
+NiamhStarky,155,0,5,0
 NiamhThomson,150,8,4,2
 Niamhish,155,0,7,0
 Niazy,139,0,3,0
@@ -18534,7 +18534,7 @@ NickPC,110,0,11,0
 NickRic,141,1,5,1
 NickRobinson195,76,0,1,0
 NickSideKick,123,0,1,0
-NickSignal,134,1,9,1
+NickSignal,134,0,9,0
 NickSkellington,116,1,2,1
 NickTHU,187,0,4,0
 NickTMS,80,0,10,0
@@ -18741,7 +18741,7 @@ Nizzkid,66,0,2,0
 Njord09,147,0,6,0
 Nkemi,125,0,3,0
 Nlbgt,126,0,15,0
-Nlseb7,119,1,3,1
+Nlseb7,119,0,3,0
 Nniaa,175,3,3,2
 No-Exit,161,0,9,0
 No1HitJam,155,0,16,0
@@ -18899,7 +18899,7 @@ Nugget2468,106,0,3,0
 NuggettPop,177,0,4,0
 Nuinlaithiel,134,0,10,0
 Nuivi,181,0,8,0
-NukeSpoon,188,1,2,1
+NukeSpoon,188,0,2,0
 Nukey,67,0,2,0
 Number_28,183,0,7,0
 Numberwang,184,0,2,0
@@ -18949,7 +18949,7 @@ OM1991,69,0,2,0
 OMFGitsRhys,140,0,11,0
 OMG-its-Jessika,148,0,2,0
 OMGDavid,87,0,4,0
-OMGLMG,142,1,11,1
+OMGLMG,142,0,11,0
 OMGRLYY,146,0,9,0
 OMGitzEmily,99,0,6,0
 OMGxITSxMITCH,82,0,1,0
@@ -19233,7 +19233,7 @@ Ophelia000,109,0,3,0
 OpheliaCh,186,2,9,1
 OpheliaLovelace,132,1,10,1
 OpheliasDeath,140,0,1,0
-Opinicus,127,1,9,1
+Opinicus,127,0,9,0
 OpiumWizard,153,0,1,0
 Optec,155,0,6,0
 OptiMAT,154,0,12,0
@@ -19489,7 +19489,7 @@ Pand3monium,192,0,5,0
 PandEmmic,96,0,6,0
 PandaBass,153,4,6,2
 PandaBearFM,75,0,2,0
-PandaOnToast,168,1,13,1
+PandaOnToast,168,0,13,0
 PandaPoppin,152,0,8,0
 Panda_Eyed,101,2,3,1
 Panda_Sneezes,137,2,11,2
@@ -19500,7 +19500,7 @@ Pandangerous,101,0,2,0
 Pandora9000,147,0,4,0
 PandyBear17,177,0,10,0
 Pandyy,115,0,9,0
-PaneerKing,162,1,2,1
+PaneerKing,162,0,2,0
 PangLiang,115,0,4,0
 PanicAttackWCF,147,1,8,1
 Panick89,116,0,8,0
@@ -19622,7 +19622,7 @@ Paul4679,73,0,15,0
 Paul676,176,0,2,0
 PaulAntWilliams,146,0,9,0
 PaulB89,124,0,9,0
-PaulBarker,107,15,14,3
+PaulBarker,107,0,14,0
 PaulBowes92,137,0,14,0
 PaulBox,104,0,3,0
 PaulCannotThink,164,0,8,0
@@ -19772,7 +19772,7 @@ Pendutom,175,0,2,0
 Penfoldio,136,0,8,0
 PenguinDaddy,171,0,3,0
 PenguinsGoRAWR,71,0,7,0
-Penkers,186,1,2,1
+Penkers,186,0,2,0
 PennilessArtist,132,0,1,0
 Pennington84,145,0,6,0
 Pennyjmoo,41,0,7,0
@@ -19782,7 +19782,7 @@ Peol,168,0,2,0
 PeonFight,65,0,8,0
 PeopleAreThings,168,3,8,2
 Peoplecan_fly,88,0,4,0
-Peoplegetreal,150,1,4,1
+Peoplegetreal,150,0,4,0
 PepFAT,170,0,4,0
 Pepe1984,144,0,6,0
 Pepppermint,40,0,7,0
@@ -19857,7 +19857,7 @@ PeteyMcWise,165,0,5,0
 PeteyPal,170,0,4,0
 PeteyPies,167,0,8,0
 Petit-Bourgeois,160,0,5,0
-PetraD,184,2,9,2
+PetraD,184,1,9,1
 Petrelli23,89,0,8,0
 Petrocelli,162,0,13,0
 PetronellaRose,124,0,4,0
@@ -19921,7 +19921,7 @@ Phil_Dash,145,0,5,0
 Phil_Fantastico,135,0,8,0
 Phil_Wright,47,0,5,0
 Philanthropi,157,0,10,0
-Philaroo78,193,2,2,1
+Philaroo78,193,0,2,0
 Philbo1,55,0,6,0
 Phildanutter,168,0,3,0
 Philers,168,0,11,0
@@ -20013,7 +20013,7 @@ Piemanlord,102,0,5,0
 PiercedbyMe,152,0,5,0
 Piercy88,79,0,4,0
 Piers_Butler,53,0,2,0
-PieterZombi,165,1,10,1
+PieterZombi,165,0,10,0
 Piggleton,167,0,2,0
 Piggums,167,0,3,0
 Piggyward,50,0,5,0
@@ -20021,7 +20021,7 @@ PigmyShrew,173,0,6,0
 Pigswillfly,18,0,2,0
 Piinc,157,0,16,0
 Pikapops,113,19,1,1
-Pikubeats,98,2,10,1
+Pikubeats,98,0,10,0
 Pilchardmusic,146,0,2,0
 Pilek,139,0,3,0
 Pilgrim-Soul,48,16,2,1
@@ -20128,7 +20128,7 @@ PlacatedTurtle,88,70,3,3
 PlaceboGraeme,97,0,2,0
 Placid_Carrot,91,0,2,0
 PlaguedOpheliac,158,0,2,0
-PlaidCupcake,181,1,1,1
+PlaidCupcake,181,0,1,0
 PlaidPenguin,154,0,7,0
 Plaid_head,158,0,2,0
 PlainJammy,106,0,7,0
@@ -20233,7 +20233,7 @@ PollyStein,161,0,6,0
 PollyVinyl,134,0,12,0
 PollysParadise,140,0,1,0
 PoloNova,58,0,6,0
-PolyAtomic,157,2,14,2
+PolyAtomic,157,0,14,0
 PolyRG,135,0,3,0
 PolyesterMe,46,0,2,0
 Polyethylene89,94,0,3,0
@@ -20400,7 +20400,7 @@ ProfDrum,153,0,3,0
 ProfFido,53,0,3,0
 ProfTW,182,0,9,0
 ProfWoland,40,0,4,0
-ProfYaff,144,2,8,1
+ProfYaff,144,0,8,0
 Prof_Sarcastic,124,0,6,0
 Profesh,180,0,1,0
 Professie,176,0,1,0
@@ -20467,7 +20467,7 @@ Psychoassassin,90,0,3,0
 Psychogoblin71,166,0,5,0
 PsychonautSam,166,0,7,0
 Psychopause,158,0,4,0
-Psychosymatic,164,2,2,1
+Psychosymatic,164,1,2,1
 PsychoticClown,186,1,10,1
 PsychoticxFairy,141,0,3,0
 Psydan,139,1,9,1
@@ -20546,7 +20546,7 @@ PurpleMonkey,172,0,2,0
 PurpleMstress,155,3,5,2
 PurpleRayne,102,0,10,0
 PurpleStar12,169,0,9,0
-PurpleStuart,184,1,3,1
+PurpleStuart,184,0,3,0
 Purple_Mystery,79,0,7,0
 Purplepig1,170,0,10,0
 Purplexxxion,152,0,3,0
@@ -20809,7 +20809,7 @@ RachaelHamm,110,0,8,0
 RachaelRawr,130,0,3,0
 Rachael_93,101,0,5,0
 Rachael_Hesno,116,0,5,0
-Rachaelnisbet,103,1,9,1
+Rachaelnisbet,103,0,9,0
 Rachaelokiya,109,0,2,0
 Racheh,58,0,4,0
 Rachel-26,123,0,5,0
@@ -21191,9 +21191,9 @@ Red_Deviilz,83,0,10,0
 Red_acr,43,0,7,0
 Red_devil03,150,0,15,0
 Red_jesus,119,0,11,0
-Redbaron123,186,25,8,3
+Redbaron123,186,24,8,3
 Redbull-,64,1,6,1
-Redbullfairy,184,1,15,1
+Redbullfairy,184,0,15,0
 Redcalx,175,0,1,0
 ReddHeaton,135,0,2,0
 ReddKlaw,94,0,3,0
@@ -21606,7 +21606,7 @@ Ritzmasjienkit,170,1,3,1
 Riv991,98,0,3,0
 Riva0ni,167,0,16,0
 Riva12,129,0,10,0
-Rivea,147,1,5,1
+Rivea,147,0,5,0
 Rivenne,77,0,4,0
 RixisX,157,0,2,0
 Riya_Noir,68,0,4,0
@@ -22211,7 +22211,7 @@ SEoD,186,0,4,0
 SEofford,166,0,9,0
 SExecutioner,93,0,3,0
 SFA-OK,39,1,7,1
-SFGiraffe,81,1,2,1
+SFGiraffe,81,0,2,0
 SF_Disruption,126,0,2,0
 SGSflyer,121,0,5,0
 SGTBlitz,25,0,5,0
@@ -22240,7 +22240,7 @@ SINCEUVEBNGONE,160,0,7,0
 SITCrecords,174,0,3,0
 SIeet,154,0,4,0
 SJ111082,103,0,14,0
-SJBappers,151,1,5,1
+SJBappers,151,0,5,0
 SJBry,150,0,6,0
 SJCook,140,0,8,0
 SJHHart,173,0,14,0
@@ -22393,7 +22393,7 @@ Sailor_Princess,114,0,7,0
 Saimon86,180,0,4,0
 Saimz,169,0,9,0
 SaintCaitlin,177,0,1,0
-SaintDynamite,134,1,1,1
+SaintDynamite,134,0,1,0
 SaintJimmery,89,0,6,0
 SaintJimmothy,164,0,11,0
 SaintMaria,144,0,4,0
@@ -22634,7 +22634,7 @@ SaphMB,74,0,2,0
 Sapheen,141,9,11,3
 SaphiraMajka,84,0,3,0
 SaphxFire,120,1,2,1
-SapientSamson,188,1,12,1
+SapientSamson,188,0,12,0
 Sapientum,43,0,5,0
 Sapling77,120,0,4,0
 SapnaB,125,0,3,0
@@ -22795,7 +22795,7 @@ Sazzy30,174,0,6,0
 Sc0rian,153,0,1,0
 Sc0rp10,115,0,2,0
 Sc0t,161,1,1,1
-Sc3n3Kid,179,4,12,3
+Sc3n3Kid,179,0,12,0
 ScENeYmE,132,0,11,0
 ScORTED,172,0,8,0
 Scaadoo,175,0,6,0
@@ -22821,7 +22821,7 @@ ScarletBigface,172,0,11,0
 ScarletField,157,0,8,0
 ScarletZombie,171,0,7,0
 Scarlet_Sara,126,0,10,0
-Scarletstorm,55,1,6,1
+Scarletstorm,55,0,6,0
 Scarlett1993,71,0,2,0
 ScarlettRoe,110,0,7,0
 ScarlettYeah,61,0,2,0
@@ -23156,7 +23156,7 @@ SeventhHarmonic,169,0,8,0
 SevereMisfit,11,0,1,0
 Severed799,104,0,2,0
 Severeth,61,3,2,1
-Severin_,177,5,1,1
+Severin_,177,2,1,1
 Sevish,158,0,10,0
 Sevrin,109,0,2,0
 Sexellent,142,0,9,0
@@ -23180,7 +23180,7 @@ Shacklebolt,96,0,2,0
 Shad0w88,96,0,3,0
 Shaddicom,138,0,2,0
 ShaddixCroft,149,0,4,0
-ShadedeMonesko,156,2,12,1
+ShadedeMonesko,156,0,12,0
 Shadow-Puppet,78,0,13,0
 ShadowFlare91,166,0,9,0
 ShadowJen,181,0,8,0
@@ -23202,7 +23202,7 @@ ShadyNathan,144,0,7,0
 Shadygirl,152,2,13,2
 ShagHarbour,163,0,2,0
 Shagadelicious,93,0,18,0
-ShaggyAlonso,104,4,2,1
+ShaggyAlonso,104,0,2,0
 ShahShah,152,0,13,0
 ShakeAtLondon2,185,0,1,0
 ShakeThoseHipsx,87,0,9,0
@@ -23639,7 +23639,7 @@ Simonjames30,63,0,8,0
 SimonnnnnQ,155,0,2,0
 Simono3o3o,13,0,9,0
 Simonolious,90,0,2,0
-Simononon,92,2,3,1
+Simononon,92,0,3,0
 Simonty1,104,5,5,4
 Simonw_1986,112,0,6,0
 Simonwebber1988,31,1,4,1
@@ -23882,7 +23882,7 @@ SlightlyEpic,180,0,2,0
 Slightlyunusual,24,0,1,0
 Slim-Tony,144,0,11,0
 SlimNeddy,172,0,2,0
-Sliminho,149,1,14,1
+Sliminho,149,0,14,0
 Slimlips,137,0,5,0
 Slinkster,144,0,2,0
 Slint4587,128,0,3,0
@@ -24092,7 +24092,7 @@ Softlad42,146,0,1,0
 SoggyBrain,156,0,8,0
 Soggy_Cornflake,76,0,11,0
 Sogkokou,137,0,7,0
-Sohuiii,115,1,9,1
+Sohuiii,115,0,9,0
 Soifee,165,0,9,0
 Soilworker4,13,0,2,0
 SolSuperstar,139,0,33,0
@@ -24236,7 +24236,7 @@ SoulMeetsBody,167,1,4,1
 SoulMeetsBody97,84,0,3,0
 SoulSmiling,174,0,10,0
 Soul_Power,164,0,3,0
-Soul_of_Malkav,162,1,12,1
+Soul_of_Malkav,162,0,12,0
 SoulaArnott,139,0,8,0
 Souldark,169,0,8,0
 SoulessTigress,148,3,3,2
@@ -24316,7 +24316,7 @@ Sparkywallis,153,1,4,1
 SparkyyMarkyy,91,0,3,0
 Sparkz1993,130,2,2,1
 Sparkz90,129,0,8,0
-Sparrowhawk222,173,1,3,1
+Sparrowhawk222,173,0,3,0
 Spartacustic,38,0,3,0
 SpartanDavie,110,0,5,0
 Spartass,113,0,2,0
@@ -24366,7 +24366,7 @@ Speshal838,114,0,6,0
 Spexis,166,0,2,0
 Sphenodon,184,0,2,0
 SphericalBoy,141,2,8,2
-SpiceRice,177,2,6,1
+SpiceRice,177,0,6,0
 Spicy_nik_nak,153,0,12,0
 Spid,71,0,9,0
 SpiderBaby90,76,0,10,0
@@ -24387,7 +24387,7 @@ Spikeman4,152,0,7,0
 Spikenipple,118,0,3,0
 Spikeo,166,0,7,0
 Spikey,143,2,11,2
-SpikeyBerry,165,1,7,1
+SpikeyBerry,165,0,7,0
 Spikeythorn,161,0,7,0
 SpikyCactus,178,0,1,0
 SpillFace,118,0,3,0
@@ -24673,7 +24673,7 @@ Stemmy,138,0,3,0
 Stemot,112,0,10,0
 Stennorz,107,0,9,0
 Stenosaurus,162,2,3,1
-Steorra,189,2,4,2
+Steorra,189,0,4,0
 StepToIt,148,0,14,0
 Steph-Ma,123,0,2,0
 Steph1254,29,0,1,0
@@ -24815,7 +24815,7 @@ Stewgreen,126,0,9,0
 StewieEatWorld,132,1,3,1
 Stewieknowsbest,179,0,4,0
 Steworia,144,0,2,0
-Stewrat,139,1,2,1
+Stewrat,139,0,2,0
 Stewsam,111,26,5,2
 Stezmo,84,0,5,0
 Stick636,101,0,4,0
@@ -24945,7 +24945,7 @@ StuartHemming,161,0,3,0
 StuartJOrr,98,0,6,0
 StuartLoosley,118,0,6,0
 StuartT91,94,0,4,0
-Stuart_777,186,1,9,1
+Stuart_777,186,0,9,0
 Stuart_92,141,0,2,0
 Stuartjjordan,170,1,11,1
 Stubb-a-dub,113,0,2,0
@@ -25149,7 +25149,7 @@ SusanaCristalli,61,0,6,0
 SusaneTP,128,0,6,0
 SushIsAllIWant,143,0,9,0
 Sushi123,143,0,8,0
-SushiPenis,170,1,6,1
+SushiPenis,170,0,6,0
 Susi326,88,0,7,0
 SusiMoore,40,0,4,0
 Susie2112,147,0,24,0
@@ -25202,8 +25202,8 @@ Sweeney90,84,0,7,0
 Sweet-Vendetta,164,7,3,2
 SweetAndSourCat,139,1,5,1
 SweetChild85,73,0,4,0
-SweetLadyG,177,1,11,1
-SweetPea1984,184,1,7,1
+SweetLadyG,177,0,11,0
+SweetPea1984,184,0,7,0
 SweetPepperKoL,183,0,9,0
 SweetRevenge_x,167,0,3,0
 SweetShadow595,38,0,2,0
@@ -25379,7 +25379,7 @@ TRJX,163,0,4,0
 TRXBLL,135,0,3,0
 TS2Master,97,0,3,0
 TSE_rachel,150,0,7,0
-TSLoire,165,2,3,1
+TSLoire,165,0,3,0
 TStiff,107,0,2,0
 TSunshine67,183,0,2,0
 TTTTTTTTTom,96,0,3,0
@@ -25562,7 +25562,7 @@ Teh_Bosch,159,0,4,0
 Tehab,140,0,3,0
 Tehgiggles,175,0,23,0
 Telecastic01,107,0,7,0
-Televisionparty,143,1,6,1
+Televisionparty,143,0,6,0
 Telhellet,97,14,2,1
 Tellmetenwords,142,0,2,0
 Tellyn,80,60,18,15
@@ -25630,7 +25630,7 @@ Th3MrGoodwin,107,0,7,0
 Th3_Skyliner,99,0,3,0
 ThESpiKEPuNK,149,0,3,0
 ThaDukeOfPrunes,136,0,2,0
-ThaMetric,193,2,2,1
+ThaMetric,193,0,2,0
 ThaNightShift,120,0,3,0
 ThaRV91,166,0,13,0
 Thackery_Binx,175,14,1,1
@@ -25641,7 +25641,7 @@ Thaisbizzz,156,0,4,0
 Thaloopyest,178,0,26,0
 Thankful,116,0,10,0
 Thantrey,161,0,17,0
-ThatAidBoy,167,1,13,1
+ThatAidBoy,167,0,13,0
 ThatBear,74,0,4,0
 ThatBeccaGirl,116,0,15,0
 ThatBrownFella,72,0,1,0
@@ -25804,7 +25804,7 @@ TheFoodOfLove,143,2,4,2
 TheFoureyedPoet,172,0,8,0
 TheFourthLion,68,1,8,1
 TheFreeMonster,97,0,2,0
-TheFriedEgg,164,4,2,1
+TheFriedEgg,164,0,2,0
 TheFunySonicFan,100,5,11,4
 TheGang,176,0,10,0
 TheGarden3r,127,0,2,0
@@ -25819,12 +25819,12 @@ TheGodofMetal,160,0,8,0
 TheGoodGardener,138,0,7,0
 TheGorgutz,95,0,2,0
 TheGrayPortrait,188,0,6,0
-TheGreatCull,149,1,1,1
+TheGreatCull,149,0,1,0
 TheGreatGalah,111,0,5,0
 TheGreatestCape,135,0,2,0
 TheGreenFaery,176,0,3,0
 TheGreenPixie,163,2,2,2
-TheGreyLantern,139,1,8,1
+TheGreyLantern,139,0,8,0
 TheGruff,85,0,14,0
 TheGumboRiot,97,2,4,1
 TheHBIN,104,0,9,0
@@ -25930,7 +25930,7 @@ TheNewDiablo,174,0,9,0
 TheNewFella,148,0,17,0
 TheNewSandman,177,0,1,0
 TheNextBigMoon,158,1,4,1
-TheNibbs,161,1,5,1
+TheNibbs,161,0,5,0
 TheNicholson,137,0,4,0
 TheNikkiii,142,0,3,0
 TheNoctuary,88,0,3,0
@@ -25978,7 +25978,7 @@ TheRealAgony,128,0,1,0
 TheRealHimself,163,0,6,0
 TheRealJustSean,67,0,4,0
 TheRealMatt2k,159,0,3,0
-TheRealMez,153,20,9,7
+TheRealMez,153,19,9,7
 TheRealMrC,163,0,5,0
 TheRealMrQwerty,166,0,8,0
 TheRealSpeakers,136,0,5,0
@@ -25989,7 +25989,7 @@ TheReaperWaits1,124,0,3,0
 TheRedBluebird,116,1,9,1
 TheRedForest,160,0,15,0
 TheRedStar,139,0,25,0
-TheRetroBar,133,1,9,1
+TheRetroBar,133,0,9,0
 TheRingleader,177,0,3,0
 TheRipleys,188,0,8,0
 TheRobster07,179,1,2,1
@@ -26138,7 +26138,7 @@ TheaSiX,162,0,2,0
 Thealeoenchen,164,0,5,0
 Theartofstu,140,0,4,0
 ThebBfish,178,0,9,0
-Thebuchman,68,1,16,1
+Thebuchman,68,0,16,0
 Thee-Interloper,11,0,3,0
 TheeFringe,149,0,2,0
 TheeKingDucks,169,0,9,0
@@ -26195,7 +26195,7 @@ ThisWillKill,152,0,7,0
 ThisisKingDave,153,1,2,1
 Thisisskin,170,0,5,0
 Thisspace,112,0,6,0
-Thistlefire,149,1,7,1
+Thistlefire,149,0,7,0
 Thizzzle,89,0,8,0
 Thmadness,89,6,6,1
 Thom19,102,0,2,0
@@ -26225,11 +26225,11 @@ Thomas_Cooke,152,0,3,0
 Thomas_Moore,65,0,11,0
 Thomasando,118,0,4,0
 Thommoth,155,0,3,0
-ThoraxTheThurd,170,1,21,1
+ThoraxTheThurd,170,0,21,0
 ThorazineDream,180,3,13,3
 Thorin98,123,0,12,0
 Thorne_lad,157,0,2,0
-Thorney,152,2,3,1
+Thorney,152,1,3,1
 ThornsSan,58,0,4,0
 Thorntonnn,138,0,10,0
 Thorosium,70,0,1,0
@@ -26458,7 +26458,7 @@ Tom-Thumb,133,0,5,0
 Tom-Wells,134,0,13,0
 Tom-is-t6b,95,0,14,0
 Tom171992,158,0,15,0
-Tom179,180,1,2,1
+Tom179,180,0,2,0
 Tom1911,85,0,5,0
 Tom2018,150,1,6,1
 Tom21,150,0,3,0
@@ -26668,7 +26668,7 @@ Toreno,187,0,5,0
 Tori0,168,0,14,0
 ToriBee,154,0,3,0
 Toriachels,150,0,3,0
-Torieanism,185,2,4,2
+Torieanism,185,0,4,0
 Tornup,166,0,8,0
 Toryrainbow87,23,0,2,0
 ToshBennings,78,0,5,0
@@ -26724,7 +26724,7 @@ Tree_Swinhoe,141,0,4,0
 Treebor,149,0,5,0
 Treesar,138,0,8,0
 Treesiepops,40,0,2,0
-TrefforestGump,102,1,2,1
+TrefforestGump,102,0,2,0
 Tremolo_,106,0,2,0
 TrenchHopper,113,0,15,0
 Trendall,188,0,2,0
@@ -26824,7 +26824,7 @@ Tshaka,120,0,14,0
 Tsjuder_Hell,189,0,15,0
 Tsportmat,167,0,6,0
 TsunamiCD,181,0,5,0
-Ttythorn,169,11,6,1
+Ttythorn,169,0,6,0
 TubOfCereal,153,0,4,0
 TubbyAnimations,99,0,4,0
 TubeScreamer,155,0,5,0
@@ -26903,14 +26903,14 @@ Twisted20,78,0,6,0
 TwistedHorizon,102,0,14,0
 TwistedTree81,62,1,4,1
 Twister-Valley,139,0,17,0
-Twister_kid,164,1,24,1
+Twister_kid,164,0,24,0
 TwitTheShred,166,0,7,0
 TwitchingPeanut,160,0,6,0
 TwitterAddict,13,0,4,0
 TwllTinBobSais,147,0,6,0
 TwmDylan,166,0,3,0
 TwoFiddy,104,2,9,2
-TwoFingersMcLucky,175,1,12,1
+TwoFingersMcLucky,175,0,12,0
 TwoLeftFeet,166,0,12,0
 TwoSips,1,0,1,0
 TwoStepsJosh,87,0,4,0
@@ -27015,7 +27015,7 @@ Undead_Squirrel,63,10,4,1
 Undefined08,77,0,5,0
 UnderHoof,175,0,4,0
 UnderTheSin,129,0,2,0
-Under_A_Melinda,135,1,10,1
+Under_A_Melinda,135,0,10,0
 Under_Twilight,126,9,3,2
 Undersc0re,121,0,15,0
 Undiscovered_x,130,0,15,0
@@ -27142,7 +27142,7 @@ ValerianForrest,172,0,3,0
 Valerie100,147,0,10,0
 Valerieeeeee,71,0,1,0
 Valhalla223,28,0,2,0
-Valiantis,159,2,4,2
+Valiantis,159,0,4,0
 Validosiii,116,1,11,1
 Valium_Knights,129,0,6,0
 Valkiriegoddess,163,0,3,0
@@ -27190,7 +27190,7 @@ Varese,177,0,7,0
 VariChisholm,137,0,5,0
 Vari_xx,148,1,20,1
 Varietist,162,0,9,0
-Varitek,192,1,5,1
+Varitek,192,0,5,0
 Vasco1989,171,0,8,0
 Vasic,171,0,6,0
 Vasliki,152,0,4,0
@@ -27297,7 +27297,7 @@ VickyMayC,109,0,4,0
 VickyMinor,115,1,5,1
 Vickyblah1234,126,0,15,0
 Vickzstar,162,0,7,0
-VictimNo8,190,1,6,1
+VictimNo8,190,0,6,0
 Victim_Ryan,183,0,2,0
 Victimizes,168,0,4,0
 Victor-VFSix,26,0,2,0
@@ -27374,7 +27374,7 @@ ViolonsII,120,0,7,0
 ViperzFangz,170,0,5,0
 VirianFlux,147,0,11,0
 Viriathos,151,1,13,1
-ViridianWILL,114,1,10,1
+ViridianWILL,114,0,10,0
 Virote_Considon,168,0,5,0
 Virtueisbold,198,0,2,0
 Virtuoso89,65,5,2,1
@@ -27446,7 +27446,7 @@ VonRaukov,61,0,2,0
 VonTrinkzuviel,122,0,2,0
 Vonondamac,174,0,4,0
 VooDoo_Lisa,132,0,3,0
-VooVoo2You,170,1,6,1
+VooVoo2You,170,0,6,0
 VoodooJunkBoy,114,0,3,0
 VoodooPlymouth,169,0,1,0
 Voodoo_Idol,135,0,14,0
@@ -27566,7 +27566,7 @@ Waterloo_xx,127,0,5,0
 Waters_M,170,0,2,0
 Watkinkkky,171,0,9,0
 Watko,166,0,4,0
-WatsonChew,134,2,2,2
+WatsonChew,134,1,2,1
 Watsonaes,102,0,10,0
 Watto1990,186,0,2,0
 WattsRadio,160,0,16,0
@@ -27761,7 +27761,7 @@ WigglyDave,128,0,7,0
 WigglyIcchan,171,0,9,0
 Wiggy06,151,0,4,0
 Wiggy64,128,0,4,0
-Wiggy81,161,2,4,1
+Wiggy81,161,1,4,1
 Wiggydude,128,11,14,2
 Wigston,187,0,11,0
 Wiilium,140,0,2,0
@@ -27979,7 +27979,7 @@ WowGlaysher,124,0,14,0
 WowIAintNormal,135,0,4,0
 WoweeZoweeBowie,175,0,11,0
 WozG,148,0,8,0
-Wozzy_85,136,2,9,2
+Wozzy_85,136,0,9,0
 Wrapmeinwaves,130,0,8,0
 WrathGirl666,157,0,5,0
 Wrathchild666,112,1,2,1
@@ -28291,7 +28291,7 @@ Yourstokeep,59,0,5,0
 YouurMumm,114,0,9,0
 Yownanymous,126,0,8,0
 Ypsmael,14,0,4,0
-Yuecake,179,1,9,1
+Yuecake,179,0,9,0
 Yuffie777,136,0,12,0
 YukaSG,186,0,6,0
 Yuke90,150,0,4,0
@@ -28373,7 +28373,7 @@ ZarakiDan,30,0,2,0
 Zarella1,84,0,2,0
 Zarn_Smith,115,0,3,0
 Zarzipan,161,0,3,0
-Zarzyganka,116,1,13,1
+Zarzyganka,116,0,13,0
 Zava_roni,58,0,3,0
 Zaydner,143,0,8,0
 Zazbag,127,0,5,0
@@ -28420,7 +28420,7 @@ ZeshanAmjad,106,0,2,0
 Zestemere,168,0,2,0
 ZetsubouMel,120,0,4,0
 Zeyi,173,8,7,2
-Zheng2629,152,2,7,1
+Zheng2629,152,1,7,1
 Zheninni,177,0,13,0
 Zhuozhi,186,0,2,0
 Zidanee,184,0,3,0
@@ -28444,7 +28444,7 @@ Zineryt,178,0,2,0
 Zing-pong,133,0,9,0
 ZipAye,120,0,8,0
 ZipLockBag,139,0,8,0
-Zippyduda,121,6,3,2
+Zippyduda,121,5,3,1
 ZiroSum,183,0,4,0
 ZitaKatex,150,0,3,0
 Zizou1998,60,0,2,0
@@ -29199,7 +29199,7 @@ adom148,111,0,5,0
 adoptapirate,180,1,9,1
 adoreholly,131,0,8,0
 adorman,89,1,8,1
-adorpheus,120,1,8,1
+adorpheus,120,0,8,0
 adoyoor,97,0,16,0
 adream,140,0,9,0
 adreenalize,57,0,22,0
@@ -29245,7 +29245,7 @@ adwol,143,0,8,0
 adxx,51,0,3,0
 ady-182,137,3,8,3
 adybradders,141,3,4,2
-adycardiacs,165,2,12,2
+adycardiacs,165,0,12,0
 adz1328,131,0,11,0
 adz740,173,0,5,0
 adz_meister,115,3,8,2
@@ -29268,7 +29268,7 @@ aenlowe,169,0,11,0
 aeon01,144,0,11,0
 aeora,166,0,12,0
 aerach,99,0,1,0
-aerachin,167,2,12,2
+aerachin,167,0,12,0
 aereid90,99,0,6,0
 aereocraig,168,0,8,0
 aerialdiscoecho,116,0,7,0
@@ -29554,11 +29554,11 @@ akjunkie,92,0,6,0
 akki1234,163,0,8,0
 akradburn,100,0,4,0
 akscutt,157,0,3,0
-akthe13th,158,1,2,1
+akthe13th,158,0,2,0
 akurokuftw,173,0,3,0
 akzincke,143,0,1,0
 al-xiii,150,0,6,0
-al2982,159,1,10,1
+al2982,159,0,10,0
 al4ie,100,0,3,0
 al_14,154,9,13,1
 al_nicholl,171,3,10,3
@@ -29597,7 +29597,7 @@ alansjoy,139,0,1,0
 alansmith21,123,0,10,0
 alanwoolley,175,1,1,1
 alarcombe,149,0,8,0
-alari_,178,1,9,1
+alari_,178,0,9,0
 alasdair333,138,0,1,0
 alasdair4990,171,3,2,1
 alasdairhaigh,125,0,7,0
@@ -29816,9 +29816,9 @@ alexlike,150,0,12,0
 alexloll,96,0,6,0
 alexm3892,141,0,10,0
 alexmaxwell,98,0,18,0
-alexmc,151,1,10,1
+alexmc,151,0,10,0
 alexmcb,122,1,3,1
-alexmcloughlin,141,2,22,2
+alexmcloughlin,141,1,22,1
 alexminnis1980,142,0,20,0
 alexmonty12,119,0,4,0
 alexmorganTDOHM,94,0,6,0
@@ -29921,7 +29921,7 @@ ali_atg1,155,0,3,0
 ali_hadz,92,0,3,0
 ali_of_donnelly,128,0,9,0
 ali_stores,137,0,6,0
-alia313,136,2,4,1
+alia313,136,1,4,1
 aliandrandjames,167,0,3,0
 alianoralacanta,160,3,4,2
 alias452,52,0,4,0
@@ -29947,7 +29947,7 @@ alicecallanan,104,0,3,0
 alicecarolinee,20,0,2,0
 alicecmoore,138,0,2,0
 alicedaisyy,110,0,5,0
-aliceeeey,152,1,4,1
+aliceeeey,152,0,4,0
 alicegilfilla,137,0,14,0
 alicehannah,133,0,2,0
 alicehill45,77,0,10,0
@@ -30115,7 +30115,7 @@ alloneword77,112,0,2,0
 allpoint,131,0,2,0
 allremovables,150,0,3,0
 allsaint78,125,0,3,0
-allsobrook,170,4,6,3
+allsobrook,170,0,6,0
 allsoppy4,147,0,3,0
 allsorts46,180,6,1,1
 allstarash,155,2,14,2
@@ -30191,7 +30191,7 @@ alpoker7,125,0,7,0
 alpsessays,115,0,10,0
 alratcliffeffl,101,0,2,0
 alreadyghostsx,66,0,2,0
-alreetcaptain,166,1,12,1
+alreetcaptain,166,0,12,0
 alrikjoriam,168,0,3,0
 alsdrfrncscmpbl,122,0,10,0
 alsobubbly,157,0,2,0
@@ -30484,7 +30484,7 @@ amypeachey,121,0,9,0
 amypinnock,153,0,4,0
 amyppm,111,0,10,0
 amyr05e,9,0,2,0
-amyrb,154,2,12,2
+amyrb,154,0,12,0
 amyrockshard,87,0,5,0
 amyrodemark,165,0,9,0
 amyrose--,151,0,3,0
@@ -30593,7 +30593,7 @@ andreaj_,106,0,6,0
 andreasandrews,173,17,2,2
 andreasmannxxoo,156,0,3,0
 andreasmartens,100,0,4,0
-andreincamden,139,1,10,1
+andreincamden,139,0,10,0
 andrejc,161,0,6,0
 andrescarceller,150,0,5,0
 andresnash,105,0,4,0
@@ -30644,7 +30644,7 @@ andrewjhlim,152,0,9,0
 andrewjmoore,132,1,3,1
 andrewjt,173,0,1,0
 andrewkavanagh,147,0,19,0
-andrewkbrown,146,6,2,1
+andrewkbrown,146,0,2,0
 andrewm2k,148,4,6,1
 andrewmarjoram,135,0,3,0
 andrewmartinuk,130,0,4,0
@@ -30967,7 +30967,7 @@ annahasaface,178,0,13,0
 annaisokay,80,0,6,0
 annajayne,119,0,3,0
 annakissed,166,0,10,0
-annakisst,151,1,5,1
+annakisst,151,0,5,0
 annaleeyeah,121,1,10,1
 annaloughran,164,0,5,0
 annamai-08,138,0,5,0
@@ -31067,7 +31067,7 @@ antikewl,140,0,7,0
 antinomy,178,0,9,0
 antiphon,145,0,15,0
 antiquote,172,0,7,0
-antiscope,175,1,5,1
+antiscope,175,0,5,0
 antisit,177,0,13,0
 antisocialriot,111,0,12,0
 antisyzygy,154,0,3,0
@@ -31391,7 +31391,7 @@ ashmckean,152,0,5,0
 ashmishra,157,1,5,1
 ashmonkeyuk,167,0,6,0
 ashorizonsfade,98,0,2,0
-ashreid88,150,1,5,1
+ashreid88,150,0,5,0
 ashsavedlatin,78,0,6,0
 ashst89,60,0,2,0
 ashtablished,80,0,2,0
@@ -31563,7 +31563,7 @@ austinpass,104,0,16,0
 austinplatt,109,0,4,0
 aut0daFe,143,0,11,0
 author1ty,129,0,3,0
-autistic,125,1,7,1
+autistic,125,0,7,0
 autoclaver,97,0,2,0
 automat3000,165,0,13,0
 automaticaudio,152,0,7,0
@@ -31641,7 +31641,7 @@ ayato-the-tuner,87,0,4,0
 ayau234,163,0,9,0
 aycizzle,155,0,10,0
 ayecannyaye,178,1,2,1
-ayetchiztik,166,1,9,1
+ayetchiztik,166,0,9,0
 ayisi,167,0,11,0
 ayjay90,157,1,3,1
 aykumt,166,0,7,0
@@ -31734,7 +31734,7 @@ baant,184,0,3,0
 babamelodica,171,0,10,0
 babatikidido,127,0,3,0
 babblings,162,0,4,0
-babelbgm,177,3,5,2
+babelbgm,177,0,5,0
 babs100,86,0,10,0
 babu227,52,0,5,0
 baby__says,147,0,9,0
@@ -31764,7 +31764,7 @@ babyzgotagun,168,0,6,0
 babz_jc,118,1,2,1
 baccieman,134,0,11,0
 bachelorkisses,90,0,10,0
-backandmoonthe,175,1,8,1
+backandmoonthe,175,0,8,0
 backatmycliff,89,0,6,0
 backedbybeats,14,0,3,0
 backfrompari,132,0,2,0
@@ -31792,11 +31792,11 @@ badbus55,137,0,7,0
 badcamel,158,0,4,0
 badcatmonty,23,0,1,0
 baderagourram,121,0,13,0
-badger40a,164,1,4,1
+badger40a,164,0,4,0
 badger_basher,117,0,6,0
 badgerashley,118,0,11,0
 badgerbadgeryay,131,0,9,0
-badgercorn,173,4,8,1
+badgercorn,173,0,8,0
 badgermeat,149,0,8,0
 badgernx,135,0,1,0
 badgerpools,161,0,7,0
@@ -32008,7 +32008,7 @@ barry984,148,0,2,0
 barrybarrymore,137,0,4,0
 barrybell,117,0,2,0
 barrycarlyon,120,0,1,0
-barrychutney,102,10,2,1
+barrychutney,102,0,2,0
 barrydoesburgh,172,0,7,0
 barryf,166,0,8,0
 barryfromgnsd,124,0,2,0
@@ -32044,13 +32044,13 @@ baskin_,191,0,11,0
 bass-cadet,119,0,2,0
 bass2rez,101,0,16,0
 bass457,149,1,4,1
-bassboy89,124,2,16,2
+bassboy89,124,1,16,1
 bassetrox,87,16,10,1
 bassettsensei,121,0,11,0
 bassgordy,119,0,10,0
 bassistCW,167,3,14,3
 bassistmetalfag,128,0,4,0
-basslady86,154,4,3,1
+basslady86,154,0,3,0
 bassman30,134,3,20,1
 bassmanfs,175,0,2,0
 bassmanyoowan,165,0,11,0
@@ -32069,7 +32069,7 @@ baterina,153,0,14,0
 batese,174,0,10,0
 bateseh88,169,0,10,0
 batesy17,23,0,2,0
-bateszi,115,3,8,1
+bateszi,115,1,8,1
 bateymone,138,0,6,0
 batfinkkkk,144,0,2,0
 batgirl1972,168,0,7,0
@@ -32201,7 +32201,7 @@ beanshide,109,0,7,0
 beanymanuk,106,0,13,0
 bearblock,101,0,5,0
 bearchops,113,0,6,0
-beardedfreak,138,1,15,1
+beardedfreak,138,0,15,0
 beardfacedow,99,0,3,0
 beardlord13,120,0,3,0
 beardscratchers,126,0,2,0
@@ -32250,7 +32250,7 @@ beautifulfreak,148,0,12,0
 beautifullycomplete,53,0,7,0
 beautifulrobot,131,0,3,0
 beautifulrobots,116,0,2,0
-beautifulscar89,165,1,5,1
+beautifulscar89,165,0,5,0
 beautyandbrains,33,0,1,0
 beautyinthedark,73,0,4,0
 beautypixy,41,0,11,0
@@ -32383,7 +32383,7 @@ beebbuoy,144,0,4,0
 beebop,156,0,26,0
 beedlerus,117,0,17,0
 beeebon,160,0,15,0
-beeeeeeez,175,1,2,1
+beeeeeeez,175,0,2,0
 beeemac,167,1,13,1
 beeeta,120,0,7,0
 beefHAM,65,0,1,0
@@ -32474,7 +32474,7 @@ belladina,164,0,5,0
 belladonnaboy,144,0,4,0
 bellajamiex,151,0,3,0
 bellamycj,115,0,7,0
-bellamysprotege,168,1,5,1
+bellamysprotege,168,0,5,0
 bellasinfonia,95,0,3,0
 bellatrixreid,134,0,12,0
 bellaunionbaby,153,0,2,0
@@ -32584,7 +32584,7 @@ benholio,43,0,1,0
 benhparry,151,0,4,0
 benhum3,138,0,6,0
 benibanassi,151,2,5,1
-benisbatman,172,1,8,1
+benisbatman,172,0,8,0
 benisnow,91,0,7,0
 benistheocean,92,0,6,0
 benj987,284,1,4,1
@@ -32719,7 +32719,7 @@ benxevans,134,0,10,0
 benyameen91,31,1,11,1
 benzs_s,103,0,2,0
 benzylchloride,45,0,3,0
-beorma,158,1,2,1
+beorma,158,0,2,0
 beprepared,92,0,3,0
 ber96,158,0,2,0
 berbilfruit,143,0,9,0
@@ -32750,7 +32750,7 @@ beseku,161,0,10,0
 besija,145,0,5,0
 besskeloid,139,0,2,0
 bessle,158,1,15,1
-bestbefore1989,156,1,9,1
+bestbefore1989,156,0,9,0
 bestface,123,0,3,0
 bestia33,121,0,3,0
 bestoire,116,0,8,0
@@ -32782,7 +32782,7 @@ bethhhy,72,0,5,0
 bethiargh,77,0,13,0
 bethisawolf,127,0,4,0
 bethisthereason,65,0,4,0
-bethjess,172,2,4,1
+bethjess,172,0,4,0
 bethjswest,20,0,2,0
 bethkins26,137,0,7,0
 bethlauraa,83,0,3,0
@@ -33144,7 +33144,7 @@ bjornthomassen,88,0,1,0
 bjtm,162,0,10,0
 bjw_,107,0,13,0
 bkilstein,149,0,3,0
-bl778,190,1,4,1
+bl778,190,0,4,0
 bla3es7,129,0,4,0
 blaaarg,131,0,3,0
 blaatgirl,166,0,8,0
@@ -33475,7 +33475,7 @@ boatshopping,104,0,5,0
 bob31984,99,0,8,0
 bob4jane,115,0,9,0
 bob_average,153,0,7,0
-bob_drago,158,1,3,1
+bob_drago,158,0,3,0
 bob_hart24,45,0,2,0
 bob_lad,110,0,7,0
 bob_saull,144,0,9,0
@@ -33616,7 +33616,7 @@ bongiben,167,0,20,0
 bongitrs,116,0,2,0
 bongobarry,152,0,5,0
 bongobrown,132,0,12,0
-bongofrenzy,126,1,5,1
+bongofrenzy,126,0,5,0
 bongojazz999,151,0,6,0
 bongokingbaby,184,1,3,1
 bonio77,68,0,4,0
@@ -33802,7 +33802,7 @@ brad_adamson,168,0,3,0
 brad_boye,162,0,6,0
 bradcrescenzo,146,0,4,0
 braddle,175,0,3,0
-braddy7,173,3,13,2
+braddy7,173,0,13,0
 bradellacott,129,0,17,0
 braderbrader,141,0,4,0
 bradinator94,158,0,10,0
@@ -33879,7 +33879,7 @@ breakinbear,67,0,11,0
 breakingusapart,105,0,3,0
 breaklikeglass,72,0,6,0
 breakmystride,149,0,5,0
-breakoutatown,171,33,9,3
+breakoutatown,171,0,9,0
 breakthegirll,127,0,15,0
 breakyourneck,167,0,4,0
 breandan,155,2,5,2
@@ -33887,7 +33887,7 @@ breatheasier,158,0,7,0
 breathers_crimp,92,0,17,0
 breatheslow,132,0,4,0
 breathing_pearl,190,0,15,0
-breathingspace,133,1,11,1
+breathingspace,133,0,11,0
 breathinslowly,126,0,9,0
 breesosick,99,0,2,0
 brehonia,114,0,5,0
@@ -34030,7 +34030,7 @@ brosurLTW,77,0,7,0
 brotherstonk,182,0,1,0
 brough_j,116,0,17,0
 browbrow,164,0,3,0
-browellm,154,14,2,1
+browellm,154,0,2,0
 browfra,162,0,15,0
 brown_man,120,0,8,0
 brownb9,135,0,8,0
@@ -34247,7 +34247,7 @@ bursilak,132,0,6,0
 burstingheart,74,0,6,0
 burtoffski,171,0,21,0
 burtoncp,166,4,4,2
-burtpatarach,129,1,5,1
+burtpatarach,129,0,5,0
 burtybear,158,0,8,0
 burvill19,119,1,10,1
 burwellian,187,3,2,2
@@ -34433,7 +34433,7 @@ cakeandtea,178,0,8,0
 cakeeeeeeee,139,0,4,0
 cakeman12,107,0,2,0
 cakemix,158,0,7,0
-cakesofamy,153,2,10,1
+cakesofamy,153,0,10,0
 cakeylynns,130,8,2,2
 cakus_maximus,165,0,3,0
 cal9292,107,0,3,0
@@ -34441,7 +34441,7 @@ cal_87,68,0,4,0
 cal_b,108,0,5,0
 cal_clark,149,0,9,0
 cal_fatie,92,0,2,0
-calacawley,166,4,12,4
+calacawley,166,0,12,0
 calaemmle,161,0,4,0
 calamariFungus,87,0,2,0
 calb16,140,0,6,0
@@ -34577,7 +34577,7 @@ camscampbell,121,0,2,0
 camsooper,95,0,4,0
 can2y,145,0,3,0
 canIlive,159,0,2,0
-canadian_flanz,177,12,15,1
+canadian_flanz,177,0,15,0
 canadianblast,19,0,2,0
 canadianchik1,162,0,9,0
 canadianwannabe,93,0,7,0
@@ -34787,7 +34787,7 @@ carolinejhm,137,0,25,0
 carolinemeakin,172,0,9,0
 carolvorderman,157,1,7,1
 carolynneee,65,0,1,0
-caron36,163,14,3,1
+caron36,163,0,3,0
 caronjellybaby,73,0,15,0
 caronkelly,80,0,6,0
 caronmonster,135,0,2,0
@@ -34963,7 +34963,7 @@ cazbee,135,1,7,1
 cazmockett,122,0,6,0
 cazris,133,0,6,0
 cazz200,100,0,6,0
-cazzadeathgirl,159,1,5,1
+cazzadeathgirl,159,0,5,0
 cazzer1988,111,0,6,0
 cazzina,118,0,10,0
 cb0910,173,0,3,0
@@ -35311,7 +35311,7 @@ charlottep92,157,0,15,0
 charlottethird,152,0,3,0
 charlottewoah,171,0,3,0
 charlotteyeah,150,0,16,0
-charlton88,98,3,10,1
+charlton88,98,0,10,0
 charltonfan,132,0,5,0
 charlycrash,154,18,16,6
 charlyfaced,143,0,2,0
@@ -35419,7 +35419,7 @@ cheesymike,171,0,2,0
 cheesymonsta,174,0,6,0
 cheesytoenail,130,0,4,0
 cheezey,126,0,4,0
-cheezo,174,1,12,1
+cheezo,174,0,12,0
 cheezus69,157,0,4,0
 cheezwiz13,172,0,16,0
 chef_p,99,0,4,0
@@ -35508,7 +35508,7 @@ chewie33,140,0,5,0
 chewing_wood,165,1,5,1
 chewitt_sg,171,0,6,0
 chewmaass,53,3,3,1
-chewt0y,172,1,4,1
+chewt0y,172,0,4,0
 chewybacon,171,0,3,0
 chewyboy,105,0,11,0
 chewzter,170,0,7,0
@@ -35889,7 +35889,7 @@ cjattwood,171,0,2,0
 cjb110,149,0,2,0
 cjb545,138,0,2,0
 cjbrooker,152,0,9,0
-cjcarne,149,1,15,1
+cjcarne,149,0,15,0
 cjcheek,167,0,12,0
 cjcmusickryzz,20,0,2,0
 cjcookson,165,3,12,2
@@ -35969,7 +35969,7 @@ clairey_k,132,0,6,0
 claireygaga,138,0,8,0
 claireyjenna,67,0,3,0
 claireymr,87,0,3,0
-claireyvette,164,1,11,1
+claireyvette,164,0,11,0
 claireyy,23,0,2,0
 clairol5,139,0,10,0
 clamille,148,0,6,0
@@ -36035,7 +36035,7 @@ claudiainlego,143,0,1,0
 claudiolillo,23,0,2,0
 claudmayn,124,0,10,0
 clawhammer16oz,136,0,6,0
-claws22911,123,1,9,1
+claws22911,123,0,9,0
 claxtos,160,0,11,0
 claycurls,139,0,9,0
 claytonmayers,130,0,7,0
@@ -36345,7 +36345,7 @@ comedybob,180,0,1,0
 comedyron,147,0,2,0
 comeforward260,131,1,4,1
 comet99,117,0,3,0
-cometcourse,84,1,6,1
+cometcourse,84,0,6,0
 cometstail,127,0,2,0
 comewithmedance,50,0,1,0
 comicbookgirl,166,0,5,0
@@ -36479,15 +36479,15 @@ coooma,87,0,3,0
 cooourtney,98,0,7,0
 coop0r,133,0,1,0
 coopcosmogirl,142,1,2,1
-cooper104,165,3,11,1
+cooper104,165,0,11,0
 cooperdose,166,0,2,0
 coopermoto,120,0,5,0
-coopertclaws,149,1,5,1
+coopertclaws,149,0,5,0
 coops2404,191,0,1,0
 coops351,137,0,10,0
 coops45,168,0,9,0
 coopster,97,0,3,0
-coopsy,184,2,4,1
+coopsy,184,0,4,0
 coopzzz,87,0,3,0
 cooteerat,185,0,5,0
 coozer,170,0,18,0
@@ -36544,7 +36544,7 @@ corvusriley,143,0,13,0
 corvy,110,0,4,0
 corytidswell,120,0,14,0
 corzrwl,175,0,9,0
-cosmeticpolemic,177,1,10,1
+cosmeticpolemic,177,0,10,0
 cosmia,200,0,1,0
 cosmic_sailor,169,0,5,0
 cosmic_zoo,168,0,11,0
@@ -36558,7 +36558,7 @@ cosmodemonic,165,0,4,0
 cosmodoc,131,0,11,0
 cosmolate1,151,0,3,0
 cosmonaut_zero,136,0,4,0
-cossacks17,157,1,23,1
+cossacks17,157,0,23,0
 costepj,161,0,7,0
 coszcatl,147,0,13,0
 cottagepie,155,0,6,0
@@ -36595,7 +36595,7 @@ courtneybell,177,3,6,1
 courtneyblack,161,0,11,0
 courtneypaigee,181,2,4,1
 courtr0n,163,0,9,0
-courtshipdating,97,2,7,1
+courtshipdating,97,0,7,0
 courtshipped,84,0,5,0
 courtyboy02,112,0,8,0
 couzin_pete,169,0,1,0
@@ -36847,11 +36847,11 @@ cristinaaxx,95,0,10,0
 critchbongo,69,0,4,0
 critic,127,0,6,0
 critical-miss,108,0,8,0
-crizle,158,1,4,1
+crizle,158,0,4,0
 crjohnson,145,0,6,0
 crks_x,101,1,5,1
 crmorrison,166,0,11,0
-cro-magnon,155,3,6,1
+cro-magnon,155,0,6,0
 croak_vegas,92,0,3,0
 crocadile-jonny,153,0,7,0
 crodders,129,0,10,0
@@ -36867,7 +36867,7 @@ cromergang,169,0,7,0
 cromwellswirral,143,0,9,0
 croninberg,147,0,6,0
 cronkbizzle,164,0,8,0
-crooked_soul,85,1,7,1
+crooked_soul,85,0,7,0
 crookedmonkey,135,0,8,0
 croope,121,0,4,0
 crosales,186,1,7,1
@@ -37090,7 +37090,7 @@ cwsy,132,0,2,0
 cxbmusic,185,0,2,0
 cxn3,169,0,7,0
 cxtom,139,0,7,0
-cyanide4myheart,118,1,21,1
+cyanide4myheart,118,0,21,0
 cyanide_music,157,0,5,0
 cyaninsteps,116,0,3,0
 cyanthearm,138,0,9,0
@@ -37183,7 +37183,7 @@ dDeano_L93,150,0,1,0
 dIbStevedIb,123,0,8,0
 dPaws,147,0,2,0
 d_40,69,0,4,0
-d_e_a_d_f_l_y,173,1,9,1
+d_e_a_d_f_l_y,173,0,9,0
 d_fitzgerald,66,0,1,0
 d_sisley,122,0,4,0
 d_vey,140,0,4,0
@@ -37325,7 +37325,7 @@ damianwalsh,194,0,1,0
 damianzaremba4,92,0,1,0
 damibabs,136,0,9,0
 damienuk,175,0,14,0
-damik,134,2,2,2
+damik,134,1,2,1
 damnably,11,0,4,0
 damnpest,175,0,4,0
 damnthelemons,139,0,13,0
@@ -37337,10 +37337,10 @@ damon2604,139,0,7,0
 damonk666,181,0,5,0
 damonlefley,72,2,8,1
 damop,140,0,4,0
-damselface,168,9,5,1
+damselface,168,0,5,0
 damwoody,154,0,13,0
 damyr,143,0,5,0
-dan-501,149,6,11,3
+dan-501,149,3,11,1
 dan-hall,150,0,3,0
 dan-james,147,2,12,2
 dan-stoneangel,4,0,2,0
@@ -37619,7 +37619,7 @@ danmart1n,189,0,1,0
 danmatthew,95,0,8,0
 danmetallic,151,0,10,0
 danmingo,142,0,7,0
-danmofo,69,1,3,1
+danmofo,69,0,3,0
 danmrt,186,0,3,0
 danmule,174,0,5,0
 danmur,77,0,3,0
@@ -37881,7 +37881,7 @@ darrensl,73,0,14,0
 darrenwm,149,0,5,0
 darrey80,81,31,6,4
 darrrrell,104,0,6,0
-darryl_1974,162,1,11,1
+darryl_1974,162,0,11,0
 darrylcroft,115,0,2,0
 darryljreid,137,0,6,0
 darth_burton,67,0,8,0
@@ -37979,7 +37979,7 @@ davehat,62,0,8,0
 davehearts,159,0,10,0
 davehemmings,135,0,10,0
 davehep,167,0,13,0
-davehodg,171,1,4,1
+davehodg,171,0,4,0
 davehs,166,0,2,0
 daveirl,158,5,2,1
 daveisdevil666,175,0,4,0
@@ -38167,7 +38167,7 @@ davidtaylor333,15,0,2,0
 davidthomas19,66,0,5,0
 davidtopham,89,0,7,0
 davidtuckisgay,125,0,8,0
-daviduk2000,155,4,3,1
+daviduk2000,155,1,3,1
 davidwarden,162,0,10,0
 davidwhitney,147,0,4,0
 davidwindall,109,0,4,0
@@ -38196,7 +38196,7 @@ davold,124,0,5,0
 davoloid,111,0,4,0
 davorg,121,0,2,0
 davoshendo,137,0,5,0
-davvio,115,3,4,2
+davvio,115,0,4,0
 davydude,166,0,3,0
 davymacfm,78,0,8,0
 davyrobin4,28,0,6,0
@@ -38273,7 +38273,7 @@ dazzx123,162,0,9,0
 dbarker348,28,0,2,0
 dbchud,149,2,3,1
 dbdanbakerdb,97,0,2,0
-dbeck83,173,1,4,1
+dbeck83,173,0,4,0
 dbizbetterdays,150,0,8,0
 dbloomfield,111,0,4,0
 dbones,120,0,6,0
@@ -38311,7 +38311,7 @@ ddeborahh,154,0,12,0
 ddeclanmurrayy,109,0,6,0
 ddevil97,101,0,7,0
 ddjb,148,0,10,0
-ddramonos,139,1,4,1
+ddramonos,139,0,4,0
 dds48,172,0,9,0
 de-bater,152,0,7,0
 de-vane,166,0,7,0
@@ -38424,7 +38424,7 @@ death-cab-jess,100,0,3,0
 death-promise,85,0,4,0
 death_by_badger,112,0,7,0
 death_sabbath,40,0,3,0
-deathandsequins,167,2,13,2
+deathandsequins,167,1,13,1
 deathaspect,71,0,7,0
 deathbat1299,179,0,4,0
 deathbedlaura,59,4,2,1
@@ -38459,7 +38459,7 @@ debhdebh,123,6,7,1
 deborah09,142,0,14,0
 deborahhewson,109,0,6,0
 deborahisabella,105,0,3,0
-debra51,127,1,8,1
+debra51,127,0,8,0
 debra_claire,124,0,7,0
 debruges,184,0,2,0
 debsmagee,174,0,16,0
@@ -38808,7 +38808,7 @@ dick_grind,132,0,2,0
 dickdotcom,167,0,4,0
 dickgomer,132,0,2,0
 dickhead_doris,155,0,10,0
-dickie034,92,1,1,1
+dickie034,92,0,1,0
 dickieuk,117,0,6,0
 dickiewatters,158,0,6,0
 dickinsonjade,135,0,3,0
@@ -38835,7 +38835,7 @@ dieTinTin,109,0,4,0
 diedintregedy,160,0,6,0
 dieinahole,64,0,3,0
 dieneue,151,0,12,0
-dies-el,164,2,8,2
+dies-el,164,1,8,1
 diesel560,148,0,6,0
 dietcoke77,56,0,2,0
 dieukuk,132,0,3,0
@@ -38979,7 +38979,7 @@ dischordia,148,0,15,0
 disciple,172,0,2,0
 disco-dan,113,0,3,0
 disco-dani,139,1,4,1
-disco-jaded,165,14,3,1
+disco-jaded,165,0,3,0
 disco-stu,113,0,7,0
 disco1966,45,0,4,0
 disco2007,59,0,6,0
@@ -39168,10 +39168,10 @@ djsolid,129,0,4,0
 djstrobegnome,167,0,4,0
 djsunderland,157,1,17,1
 djswivel,158,0,12,0
-djsynne,147,11,2,2
+djsynne,147,10,2,1
 djtbag,182,0,1,0
 djtenchu,149,0,2,0
-djthorpe,151,10,12,1
+djthorpe,151,0,12,0
 djtj1001,81,0,7,0
 djtufrs,122,0,12,0
 djw657,134,0,2,0
@@ -39340,7 +39340,7 @@ dominick_a,172,0,4,0
 dominicmclaren,96,0,7,0
 dominictristram,130,0,7,0
 dominicwinsor,136,0,8,0
-dominijk,163,1,4,1
+dominijk,163,0,4,0
 dominion_vortar,154,0,4,0
 domino_dancer,160,0,10,0
 dominoid,96,0,6,0
@@ -39355,7 +39355,7 @@ dommyp,177,0,1,0
 domnomnom1,160,0,3,0
 domo_hudson,150,0,3,0
 domoboja,160,0,13,0
-domril,157,1,4,1
+domril,157,0,4,0
 domrog,157,0,4,0
 domsokalski,105,0,4,0
 domstarkey,187,0,4,0
@@ -39528,7 +39528,7 @@ dquipp,154,0,2,0
 dr-garzke,178,0,19,0
 dr-nick-riviera,137,0,2,0
 dr-sativa,118,0,5,0
-dr0wn,180,1,7,1
+dr0wn,180,0,7,0
 dr_analog,136,0,6,0
 dr_bun,400,0,2,0
 dr_monkeyface,30,0,2,0
@@ -39539,7 +39539,7 @@ draGnet,78,0,6,0
 drable,85,0,3,0
 drabman,180,2,2,2
 draconid,57,0,2,0
-draculaswedding,157,1,2,1
+draculaswedding,157,0,2,0
 drag0sd0g,133,0,3,0
 dragal23,182,0,4,0
 draganaaaa,142,0,5,0
@@ -39644,7 +39644,7 @@ drivelhead,177,0,4,0
 driwars,140,0,3,0
 drjaneevans,124,0,8,0
 drjimuk,144,0,18,0
-drjools,147,3,20,2
+drjools,147,1,20,1
 drkapow,188,0,8,0
 drluciensanchez,164,0,10,0
 drm321,138,0,7,0
@@ -39662,7 +39662,7 @@ drone235,172,0,8,0
 drone456,172,2,7,2
 dronerebel,153,0,20,0
 droogette,159,0,5,0
-droolian,173,1,31,1
+droolian,173,0,31,0
 droopeh,18,6,1,1
 drop_aheart,108,0,11,0
 dropc4life,102,0,5,0
@@ -39859,14 +39859,14 @@ durkules,146,0,3,0
 durmstrang,102,0,6,0
 durrson,161,0,7,0
 dushegg,121,0,12,0
-dusklight,168,1,13,1
+dusklight,168,0,13,0
 dusktea,146,0,5,0
 duskthroughdawn,142,0,10,0
 dust_in_mydress,121,0,6,0
 dust_junky,176,0,23,0
 dustandglitter,61,0,4,0
 dustbuddy,47,0,3,0
-dustcakeboy,119,1,2,1
+dustcakeboy,119,0,2,0
 dusteddesign,180,1,3,1
 dusthillzone,102,0,2,0
 dustontheground,113,0,11,0
@@ -39956,7 +39956,7 @@ eBoring,72,0,3,0
 eDmunDo9,125,0,4,0
 eMJaaaay,133,0,10,0
 eMoRaCeR,175,2,13,1
-eSJey,146,1,6,1
+eSJey,146,0,6,0
 eSlide,138,0,9,0
 eVoot,96,0,8,0
 eX-communicated,147,0,3,0
@@ -39978,7 +39978,7 @@ eadphones,134,0,6,0
 eageromega,115,0,6,0
 eagle52650,173,0,13,0
 eagle8989,87,0,12,0
-eagleandwolf,168,1,15,1
+eagleandwolf,168,0,15,0
 eaglecolt,128,0,4,0
 eagleyeUK,148,0,10,0
 eagyg,176,2,7,2
@@ -39986,7 +39986,7 @@ ealham,104,0,4,0
 eamezey2,170,0,2,0
 eamon-q,159,0,2,0
 eamonn_vincent,171,0,4,0
-eannafreeney,178,2,3,1
+eannafreeney,178,0,3,0
 ear-lution,163,0,4,0
 ear_feed,185,0,19,0
 earfolds,130,0,3,0
@@ -39994,7 +39994,7 @@ earlbrutus,80,0,3,0
 earleuk,109,0,14,0
 earlgrace,179,0,3,0
 earlgrey1980,124,0,17,0
-earlofsuave,138,1,12,1
+earlofsuave,138,0,12,0
 earlond,153,0,3,0
 earlysunsets_x,167,0,4,0
 earlythrasher,111,0,2,0
@@ -40111,7 +40111,7 @@ el_simmo,176,0,14,0
 el_tell,59,1,6,1
 el_tigro,177,1,2,1
 el_topo451,170,0,19,0
-elasticiron,185,1,3,1
+elasticiron,185,0,3,0
 eldoogie,139,0,26,0
 eleanorgrace-,94,0,2,0
 eleanorinitmann,150,0,12,0
@@ -40219,14 +40219,14 @@ ellaamelia,177,0,3,0
 ellabellaa,53,0,5,0
 elladearing,183,0,13,0
 ellajessica98,67,0,10,0
-ellakjones87,130,1,11,1
+ellakjones87,130,0,11,0
 ellalala,142,0,4,0
 ellamm,77,0,10,0
 ellareed_,176,0,5,0
 ellarobotham,171,0,2,0
 ellathebella,198,0,2,0
 ellatrixdiadem,118,0,13,0
-elldark,116,10,1,1
+elldark,116,0,1,0
 elldog101,149,0,4,0
 elle-danse,157,0,10,0
 elle-o-ramma,125,0,7,0
@@ -40315,7 +40315,7 @@ elliotp91,83,0,5,0
 elliotsexton,101,0,5,0
 elliotspirrett,157,2,2,1
 elliotsvennie,167,0,3,0
-elliott-20,172,1,3,1
+elliott-20,172,0,3,0
 elliott0184,136,1,8,1
 elliott191085,146,0,3,0
 elliottfield,195,0,10,0
@@ -40369,7 +40369,7 @@ elmoogo,162,0,11,0
 elmopinopino,79,0,8,0
 elmotheewokking,140,0,4,0
 elmsyrups,158,0,17,0
-elmundio87,151,1,5,1
+elmundio87,151,0,5,0
 elnana,165,0,7,0
 elnicky,97,0,4,0
 elninio,180,0,3,0
@@ -40463,7 +40463,7 @@ emeraldisle8,78,0,8,0
 emeralds0ng,128,0,10,0
 emeraldstreet,22,0,5,0
 emerbo,140,0,6,0
-emerrhhh,168,3,3,2
+emerrhhh,168,1,3,1
 emerson-ONM,115,0,11,0
 emertont,142,0,4,0
 emerydown,102,0,1,0
@@ -40916,8 +40916,8 @@ erased_citizen4,57,20,5,4
 erasedtapes,113,0,11,0
 erathean,168,0,2,0
 erebaras,26,0,4,0
-erekose,169,1,9,1
-ergonome,175,4,8,3
+erekose,169,0,9,0
+ergonome,175,0,8,0
 eric2309,127,0,3,0
 ericajane93,2,0,1,0
 ericaleigh91,95,0,4,0
@@ -41065,7 +41065,7 @@ eucrid_eucrow,166,0,13,0
 eugedaman,64,0,10,0
 eugene_bore,65,0,5,0
 eugenesucks,242,0,4,0
-eulogymedia,159,2,2,1
+eulogymedia,159,0,2,0
 eunit88,110,0,3,0
 eupachmo,152,0,5,0
 euphbass,160,10,17,1
@@ -41086,7 +41086,7 @@ evadage,77,0,7,0
 evadave,154,0,7,0
 evaflea,72,24,2,2
 evalasting,129,0,3,0
-evamilroy,99,1,9,1
+evamilroy,99,0,9,0
 evanescencefrea,166,0,3,0
 evangeli0n83,131,0,7,0
 evangelinemah,170,0,3,0
@@ -41221,7 +41221,7 @@ excessnoise,141,0,12,0
 excewsmay,125,0,6,0
 exclusiveSTAR,108,0,11,0
 excy,155,0,3,0
-exell,178,1,7,1
+exell,178,0,7,0
 exflogenesis,149,3,2,2
 exheredo,99,0,14,0
 exhilarating,166,0,11,0
@@ -41247,7 +41247,7 @@ exsanguinus,97,0,4,0
 exsena-blade,54,0,3,0
 exskacist,180,0,2,0
 extazyboy,28,0,7,0
-extensionsoff,154,1,38,1
+extensionsoff,154,0,38,0
 exthuse,150,0,6,0
 extraasupervery,165,0,7,0
 extraditionorde,153,0,4,0
@@ -41262,7 +41262,7 @@ eye_is_renna,106,1,5,1
 eyeball226,81,0,2,0
 eyeball_alley,176,0,8,0
 eyefudge,150,0,6,0
-eyeheartsatan,153,5,1,1
+eyeheartsatan,153,0,1,0
 eyekhay,112,0,1,0
 eyelash410,50,0,2,0
 eyenotion,144,0,2,0
@@ -41324,7 +41324,7 @@ fabnt,150,0,14,0
 fabriclondonec1,150,0,11,0
 fabricoffolly,138,0,3,0
 fabulousminge,49,0,4,0
-fac1304,146,1,12,1
+fac1304,146,0,12,0
 face9,7,0,1,0
 face_face,123,0,10,0
 face_shreddr,108,0,6,0
@@ -41336,7 +41336,7 @@ facemunkey,135,0,6,0
 faceofJESS,95,0,2,0
 facesinthesand,117,0,3,0
 faceyfacey,153,0,24,0
-faciabish,173,1,5,1
+faciabish,173,0,5,0
 facilitygirl,126,0,8,0
 facingeast,152,0,3,0
 factfan,89,0,21,0
@@ -41360,7 +41360,7 @@ faerlan,100,0,5,0
 faery_jen,118,0,6,0
 faeryhay,94,0,12,0
 faetreadaway,132,0,9,0
-faffler,154,2,5,1
+faffler,154,1,5,1
 fagan89,134,0,2,0
 faggy-wank,127,0,5,0
 fagitz,138,0,6,0
@@ -41464,11 +41464,11 @@ farnhambquebec,169,0,5,0
 farqueue,131,0,12,0
 farrellface,136,0,12,0
 fasfasfus,112,0,13,0
-fashion_geek,179,1,7,1
+fashion_geek,179,0,7,0
 fasion2na,172,0,6,0
 fast90s,88,0,4,0
 fastestmanalive,117,0,5,0
-fastestmilkman,183,2,3,1
+fastestmilkman,183,0,3,0
 fat_chris,173,0,2,0
 fat_larry,96,0,3,0
 fat_roland,172,0,18,0
@@ -41568,7 +41568,7 @@ fearcity,129,0,3,0
 fearingthesound,30,0,3,0
 fearlesslion,57,1,3,1
 fearnecotton,85,0,4,0
-fearofcorners,68,1,1,1
+fearofcorners,68,0,1,0
 fearofmaggots,81,0,12,0
 fearofmanc,179,0,1,0
 fearofmotion,139,0,5,0
@@ -41602,7 +41602,7 @@ feeohna,150,0,8,0
 feernnn,101,0,5,0
 feetof,100,0,3,0
 feetuss,172,0,3,0
-feeyoo,168,5,8,2
+feeyoo,168,0,8,0
 fehmhen,92,0,7,0
 feimous8,150,0,12,0
 fejauk,135,0,5,0
@@ -41672,7 +41672,7 @@ fetler,133,0,10,0
 feucht,129,0,10,0
 feverblush,114,0,14,0
 feverfish,160,0,5,0
-feverland-uk,60,2,3,1
+feverland-uk,60,0,3,0
 fevers,39,0,2,0
 fewdaysdown,85,0,4,0
 fewtrem,129,0,8,0
@@ -41692,7 +41692,7 @@ ffmanic,152,0,1,0
 ffraserr,62,0,4,0
 ffsben,181,2,2,1
 ffsitscallum,76,0,7,0
-fghtffyrdmns-,148,14,2,1
+fghtffyrdmns-,148,0,2,0
 fgm878,167,0,1,0
 fhuginghewitson,148,0,18,0
 fhunter,151,1,6,1
@@ -41781,7 +41781,7 @@ finn07,29,0,1,0
 finn_42,104,0,1,0
 finna-johanna,172,0,6,0
 finnch25,141,0,3,0
-finnit,85,1,5,1
+finnit,85,0,5,0
 finnlagun,119,0,1,0
 finnw1974,2,0,1,0
 finonae,129,0,7,0
@@ -42046,7 +42046,7 @@ fluffypig,105,17,6,3
 fluffythebunny,152,0,3,0
 fluidcreativity,68,0,1,0
 flumble2,141,0,7,0
-flumouxed,164,1,5,1
+flumouxed,164,0,5,0
 flump112,176,0,11,0
 flump3000,135,0,6,0
 flumpdust,175,0,10,0
@@ -42099,7 +42099,7 @@ focusforaword,106,0,2,0
 focusneil,129,0,8,0
 foeromeo,59,0,3,0
 foestar,113,0,6,0
-foey,126,12,10,5
+foey,126,0,10,0
 fofusion,160,1,4,1
 foggin,47,0,1,0
 foggonda,197,0,2,0
@@ -42161,7 +42161,7 @@ fordinnr,101,0,7,0
 fordprefect13,173,0,21,0
 fordred,155,3,16,1
 fordsta,183,0,2,0
-fordy68,153,1,4,1
+fordy68,153,0,4,0
 foregaende,140,1,16,1
 foreign_fanatic,57,0,3,0
 forelsket-,145,0,5,0
@@ -42199,7 +42199,7 @@ fortuneandglory,174,0,12,0
 forvelvetrain,103,0,9,0
 forwardradio,136,0,3,0
 forwardrossa,148,1,6,1
-forwardrupert,141,2,3,1
+forwardrupert,141,0,3,0
 foryoumydarling,133,0,10,0
 foryoumydear,144,0,5,0
 fosb88,157,1,2,1
@@ -42214,7 +42214,7 @@ foth1989,57,0,6,0
 fotografieke,176,0,3,0
 foundareason,149,0,3,0
 foundawhistle-,134,0,7,0
-foundry,164,1,6,1
+foundry,164,0,6,0
 fountainofdecay,43,0,1,0
 four-am,134,0,15,0
 four3hree,10,0,1,0
@@ -42235,7 +42235,7 @@ fowls,111,2,3,1
 fowora,135,0,10,0
 fox_makeba,179,0,5,0
 foxaddict,174,0,18,0
-foxandhound,172,1,7,1
+foxandhound,172,0,7,0
 foxbummer,141,0,14,0
 foxchildsunday,97,0,3,0
 foxes_,118,0,3,0
@@ -42472,7 +42472,7 @@ freshtilldeath,117,0,3,0
 freya_ivyleaf,97,0,12,0
 freyahh,151,0,4,0
 freyahhh,96,0,14,0
-freyakean,133,1,5,1
+freyakean,133,0,5,0
 freyalaing,43,0,3,0
 freyalovespanic,139,0,17,0
 frezbuni,146,0,4,0
@@ -42600,7 +42600,7 @@ functionrecords,172,0,8,0
 funderburg,117,0,10,0
 funeral-rites,68,0,5,0
 funglejunk24,144,0,5,0
-fungmungus,179,1,28,1
+fungmungus,179,0,28,0
 fungus_among_us,159,0,10,0
 funguysmall,141,0,10,0
 funk-monk,179,0,3,0
@@ -42630,7 +42630,7 @@ funkygibbon666,154,0,11,0
 funkyhat,148,0,5,0
 funkyirishlad,149,0,15,0
 funkyjazzblues,85,0,4,0
-funkylawnmower,183,7,4,2
+funkylawnmower,183,0,4,0
 funkymonkey1980,160,0,3,0
 funkymonkey613,70,0,2,0
 funkyphilfm,162,0,4,0
@@ -43043,14 +43043,14 @@ geekfacedfox,126,0,11,0
 geekglasses,122,1,14,1
 geekmoose,163,0,2,0
 geeknewz,163,0,2,0
-geekology,171,1,6,1
+geekology,171,0,6,0
 geekroick,83,0,1,0
 geekycow,167,0,13,0
 geekyisgood,147,2,3,1
 geen_29,71,0,5,0
 geenyus92,157,0,16,0
 geeoharee,152,0,2,0
-geeorgi,163,1,11,1
+geeorgi,163,0,11,0
 geeorgiecakes,108,0,5,0
 geephlat,80,0,2,0
 geeproot,125,0,9,0
@@ -43164,7 +43164,7 @@ georgecc,163,13,2,1
 georgechilcott,151,0,12,0
 georged91,116,0,5,0
 georgedm1,103,0,4,0
-georgeduerden,145,1,6,1
+georgeduerden,145,0,6,0
 georgedwr,97,0,3,0
 georgee23,153,0,12,0
 georgefm,141,0,4,0
@@ -43218,7 +43218,7 @@ georgiefoot,108,0,13,0
 georgiegeorge77,131,0,3,0
 georgiegeorgie,154,0,3,0
 georgiehoole,150,0,6,0
-georgielw,152,2,5,1
+georgielw,152,1,5,1
 georgieman,169,0,10,0
 georgiestone,134,0,9,0
 georgiexlol,149,0,6,0
@@ -43256,7 +43256,7 @@ gerrymoth,151,0,24,0
 gerryville,103,0,3,0
 gerti_rouge,140,0,5,0
 gertietheduck,103,0,2,0
-gery-blues,169,1,7,1
+gery-blues,169,0,7,0
 gesalovesmusic,153,0,14,0
 gespenstisch,144,0,5,0
 get2sammyb,46,0,17,0
@@ -43380,7 +43380,7 @@ gilchrist1984,133,0,9,0
 gilco_gilchrist,164,0,11,0
 gilcocker,158,0,6,0
 gildedpalace,111,0,10,0
-gildermershina,173,3,3,1
+gildermershina,173,0,3,0
 giles_t,166,0,3,0
 gilesbunch,50,0,9,0
 gileshallam,159,0,6,0
@@ -43408,7 +43408,7 @@ gimmedatura,170,0,7,0
 gimo80,137,0,3,0
 gimpinthesink,116,0,17,0
 ginaRAWR,184,0,3,0
-gina_t,156,1,11,1
+gina_t,156,0,11,0
 ginader,89,0,9,0
 ginarobina,155,0,4,0
 ginawr123,169,0,2,0
@@ -43427,7 +43427,7 @@ gingerhendrix,190,0,3,0
 gingerjodie,99,0,4,0
 gingerjohn,145,0,9,0
 gingerlizka,156,0,10,0
-gingermaradona,191,1,6,1
+gingermaradona,191,0,6,0
 gingermark,162,0,4,0
 gingermush,181,0,5,0
 gingerpip,97,0,8,0
@@ -43552,7 +43552,7 @@ glitteringblack,145,0,6,0
 glitterxtrauma,182,0,13,0
 glitteryteacup,120,0,2,0
 glittz,151,0,3,0
-glitzrock,136,1,18,1
+glitzrock,136,0,18,0
 glitztech,84,0,1,0
 globalicon,168,0,4,0
 globalism,94,0,2,0
@@ -43624,12 +43624,12 @@ got543,90,0,2,0
 gotes,107,0,4,0
 gothamcity56,35,0,7,0
 gothbotherer,150,0,6,0
-gothfan_,170,2,4,1
+gothfan_,170,0,4,0
 gothgoespop,133,0,3,0
 gothic_anya,80,0,3,0
 gothick,140,0,1,0
 gothicmissy,151,0,6,0
-gothicslinkysis,140,2,8,2
+gothicslinkysis,140,0,8,0
 gothlink22,130,4,2,2
 gothmogrob,165,0,5,0
 gothsoc,107,0,15,0
@@ -43647,7 +43647,7 @@ gowerpaddy,172,0,17,0
 gowgowuk,67,0,5,0
 gowns,148,0,12,0
 gozhawk,144,0,6,0
-gpaterson,129,1,12,1
+gpaterson,129,0,12,0
 gpcowling,139,0,3,0
 gpd,151,0,3,0
 gpmcdermott,137,0,7,0
@@ -43740,7 +43740,7 @@ grant_jon,115,0,4,0
 grantfitzgerald,86,0,7,0
 grantgoreyo,105,0,3,0
 granthillfield,116,0,4,0
-grantjennings,72,1,13,1
+grantjennings,72,0,13,0
 grantneil05,67,0,3,0
 grantpwarren,163,0,12,0
 grantyknutty,165,0,3,0
@@ -43803,11 +43803,11 @@ greenapplekitty,129,0,3,0
 greenbeak,44,0,5,0
 greendaygirl245,168,0,8,0
 greendayjade,160,0,8,0
-greendean2112,168,1,6,1
+greendean2112,168,0,6,0
 greenexx,191,0,7,0
 greeneyesss,179,0,4,0
 greenfireMod,136,0,5,0
-greenflash7,112,1,7,1
+greenflash7,112,0,7,0
 greengreenpink,112,0,8,0
 greenhalgh666,131,0,2,0
 greenidea,166,0,11,0
@@ -43909,7 +43909,7 @@ grizfoot,156,0,3,0
 grizz1y,114,1,3,1
 grizzlelegend,126,0,4,0
 grizzor,165,0,7,0
-grlpenguin,169,2,9,1
+grlpenguin,169,0,9,0
 grnr,117,0,15,0
 groak,152,0,6,0
 groblerg,95,0,9,0
@@ -44192,7 +44192,7 @@ hairspray83,84,0,5,0
 hairybawjaws,130,0,3,0
 hairyfairy,114,0,7,0
 hairyhaw,122,0,9,0
-hairyphil,176,2,10,2
+hairyphil,176,1,10,1
 haishannon,26,0,1,0
 haiyeee,147,0,6,0
 hajat2010,173,0,12,0
@@ -44713,7 +44713,7 @@ hearditfirst,146,0,9,0
 hearmymessage,159,0,4,0
 hearnoevil1234,110,0,19,0
 heartbox,146,0,15,0
-heartboxx,29,1,5,1
+heartboxx,29,0,5,0
 heartbreakerxo_,88,0,4,0
 heartcore16,160,0,15,0
 heartdownxo,136,0,5,0
@@ -44812,7 +44812,7 @@ helenxo,136,0,6,0
 helern,137,0,3,0
 helerrn,70,0,1,0
 helga_zelda,70,0,2,0
-helica_insinity,177,1,9,1
+helica_insinity,177,0,9,0
 helicopterhelen,142,0,9,0
 heliopath,68,0,5,0
 heliwolf420,176,0,3,0
@@ -44859,7 +44859,7 @@ helloimmichelle,31,0,4,0
 hellojess,81,0,6,0
 hellojill,110,0,6,0
 hellokatiex,115,0,2,0
-hellokatty,177,1,6,1
+hellokatty,177,0,6,0
 hellolovers,102,0,5,0
 hellolozzie,132,0,2,0
 hellolucyjade,124,0,5,0
@@ -44898,7 +44898,7 @@ helun,153,0,2,0
 helzc2009,58,0,2,0
 helzyw,151,0,2,0
 hemelranger,139,0,3,0
-hemlock_wolf,172,1,8,1
+hemlock_wolf,172,0,8,0
 hemmingweight,147,0,4,0
 hemo22,160,0,6,0
 hemoglobina-,141,0,4,0
@@ -45395,7 +45395,7 @@ iSpic,109,0,2,0
 iSquirell,166,1,5,1
 iStarfish,83,0,3,0
 iSuck_x,125,0,3,0
-iSware,156,2,12,2
+iSware,156,0,12,0
 iSwifty,54,0,7,0
 iTessa,120,0,6,0
 iWillBattle,185,1,2,1
@@ -45582,7 +45582,7 @@ iggle_,80,0,10,0
 iggoire,150,0,17,0
 iggy930,156,0,6,0
 iggyg,39,0,2,0
-iggygricey,143,1,4,1
+iggygricey,143,0,4,0
 iggyhammick,163,0,4,0
 iggypopbarker,112,0,7,0
 iglamont,178,0,6,0
@@ -45643,7 +45643,7 @@ iissimon,158,0,13,0
 iistalkerx,102,0,8,0
 iite_becky,181,0,8,0
 iiunevildeadii,170,0,4,0
-iivax,114,7,10,1
+iivax,114,0,10,0
 iiwekei,132,0,4,0
 ijabbott63,124,0,13,0
 ijames,179,0,4,0
@@ -45751,7 +45751,7 @@ ilustar,125,0,6,0
 iluv1D,2,0,1,0
 iluvdannymcfly,89,0,3,0
 ilvlvr,94,0,3,0
-ilx_onimo,185,1,8,1
+ilx_onimo,185,0,8,0
 ilyadotmuz,167,0,7,0
 im-not-there,88,0,21,0
 im-ro,147,11,9,1
@@ -45804,7 +45804,7 @@ imbenmills,110,0,9,0
 imcitizeninsane,34,0,2,0
 imconfusedotcom,136,0,5,0
 imconor,106,0,7,0
-imcuminin,149,1,5,1
+imcuminin,149,0,5,0
 imdracula,106,0,1,0
 imdt,166,0,7,0
 imeanlikeyeah,158,0,10,0
@@ -45861,12 +45861,12 @@ imurchan,173,0,8,0
 imyoursx,161,4,5,1
 imyyy,168,1,2,1
 in-the-flesh,125,0,12,0
-in-wonderland,129,2,10,1
+in-wonderland,129,0,10,0
 in777waysiloveu,163,0,1,0
 inFictions,167,0,3,0
 inSpektorKnight,106,2,5,1
 inTake_531,19,0,3,0
-in__vein,181,1,7,1
+in__vein,181,0,7,0
 in_delirium,146,0,5,0
 in_the_reins,117,0,8,0
 ina-pina,126,0,7,0
@@ -45924,7 +45924,7 @@ indigobanana,169,0,6,0
 indigoherewego,173,0,14,0
 indigolab1,162,0,9,0
 indiscrete,93,0,4,0
-indoorvoices,122,1,6,1
+indoorvoices,122,0,6,0
 indre-,124,0,1,0
 indy-kid,159,0,8,0
 indyandy,171,0,2,0
@@ -45939,7 +45939,7 @@ ineunte_vere,132,0,5,0
 infAdele_,159,0,13,0
 infamousbarfly,174,1,3,1
 infamousdela,146,0,4,0
-infantile,130,24,5,2
+infantile,130,0,5,0
 infected_1,134,0,6,0
 infernalmusic,111,0,5,0
 infernalraynata,120,2,6,2
@@ -46157,7 +46157,7 @@ isabellerebecca,100,0,6,0
 isacullentoo,35,0,4,0
 isaiah19,132,0,3,0
 isaidlets,162,0,3,0
-isajbelle,160,1,12,1
+isajbelle,160,0,12,0
 isark,89,0,2,0
 isaycammy,171,0,7,0
 iscientist,110,0,7,0
@@ -46222,7 +46222,7 @@ itdidnthappen,172,0,6,0
 itexplodes,153,0,14,0
 itfc1993,176,0,4,0
 itfclegends,97,0,8,0
-ithica23o7,79,1,4,1
+ithica23o7,79,0,4,0
 ithinkitsnice,169,0,7,0
 itiselliott,156,0,6,0
 itisyouranthem,93,0,6,0
@@ -46287,14 +46287,14 @@ itsmescherz,86,0,6,0
 itsmoirob,167,0,6,0
 itsnathancark,152,0,3,0
 itsneongenesis,125,3,8,2
-itsnotfun,146,9,8,2
+itsnotfun,146,0,8,0
 itsonlyleonie,74,0,6,0
 itsonlyyou,156,0,5,0
 itsoverrated,124,0,2,0
 itsowen,160,9,14,3
 itspaulkelly,127,0,1,0
 itsrebeccabrown,89,0,3,0
-itsthegoat,102,2,6,2
+itsthegoat,102,0,6,0
 itstom,166,0,10,0
 itstomm,116,0,4,0
 itszootime,162,0,1,0
@@ -46354,7 +46354,7 @@ izzydabest,141,3,13,1
 izzyfj,143,0,2,0
 izzyhatt,124,0,16,0
 izzyisbuffting,39,0,3,0
-izzymacl,167,1,9,1
+izzymacl,167,0,9,0
 izzysuk,127,1,3,1
 izzyweeks,121,0,9,0
 j-h-q,158,0,3,0
@@ -46572,7 +46572,7 @@ jam__es,172,1,2,1
 jam_econo,151,0,2,0
 jamalicious43,96,0,8,0
 jamalpode,60,0,9,0
-jamalrob,159,1,7,1
+jamalrob,159,0,7,0
 jamarakatakaflu,85,0,1,0
 jamarocker11,85,6,4,3
 jamas1,141,0,8,0
@@ -46629,7 +46629,7 @@ james_spence,143,0,7,0
 james_uden,112,0,7,0
 james_weaver,140,0,9,0
 james_wilkinson,113,0,2,0
-jamesagw,167,1,10,1
+jamesagw,167,0,10,0
 jamesainsworth,171,0,6,0
 jamesaitchy,75,0,1,0
 jamesandrews,172,0,9,0
@@ -47153,7 +47153,7 @@ jazztard,105,0,3,0
 jazzy2794,2,0,1,0
 jazzyb1985,110,0,9,0
 jazzydalek,161,0,12,0
-jazzyjeff05,145,9,5,1
+jazzyjeff05,145,0,5,0
 jbcubed3,31,8,1,1
 jbeccab,149,0,14,0
 jbibb91,113,0,13,0
@@ -47310,7 +47310,7 @@ jemazing,147,0,7,0
 jembie,128,0,13,0
 jemboy73,127,0,3,0
 jemilou,60,0,1,0
-jemimah30,181,1,16,1
+jemimah30,181,0,16,0
 jemimakiss,91,0,5,0
 jemimalli,179,0,4,0
 jemjabella,103,1,2,1
@@ -47350,7 +47350,7 @@ jenleft,158,0,32,0
 jenloh,151,0,6,0
 jenlolz,2,0,1,0
 jenlsnell,100,0,6,0
-jenmcglone,172,1,7,1
+jenmcglone,172,0,7,0
 jenn_____,84,0,4,0
 jenn_noya,131,0,14,0
 jenna_abaakouk,50,0,5,0
@@ -47411,7 +47411,7 @@ jenosaur,168,0,6,0
 jenpeep,41,0,6,0
 jenpeppermint,119,0,2,0
 jenreuk,122,0,5,0
-jenroux,154,1,14,1
+jenroux,154,0,14,0
 jens_enzo,146,0,10,0
 jensan99,166,0,2,0
 jensenthirteen,52,0,9,0
@@ -47539,7 +47539,7 @@ jessthekat,176,0,6,0
 jesstherese,115,0,2,0
 jesstipher,53,0,3,0
 jesswales,138,0,3,0
-jesswikka,143,1,4,1
+jesswikka,143,0,4,0
 jessx_,64,0,6,0
 jessxbabes,18,0,3,0
 jessxcore,151,0,11,0
@@ -47565,7 +47565,7 @@ jesyfm,116,0,6,0
 jeszikaa,126,0,5,0
 jetblack_,122,0,11,0
 jethay,156,0,11,0
-jethro10,154,1,5,1
+jethro10,154,0,5,0
 jethro_,185,0,7,0
 jetplainsky,110,0,15,0
 jetsetdrive,80,0,2,0
@@ -48114,8 +48114,8 @@ joeyboy2010,86,0,17,0
 joeybug,137,0,16,0
 joeychainsaw,93,0,8,0
 joeydonovan,128,0,13,0
-joeydubya,166,1,10,1
-joeyflint,98,1,12,1
+joeydubya,166,0,10,0
+joeyflint,98,0,12,0
 joeyghst,167,0,10,0
 joeyholder,138,0,5,0
 joeyinit,104,0,6,0
@@ -48138,7 +48138,7 @@ joezo,164,0,7,0
 joffhopkins,153,1,10,1
 jofgav,150,0,11,0
 jofo25,119,0,7,0
-joga2323,138,3,13,1
+joga2323,138,0,13,0
 jogger76,183,0,5,0
 jogjif,155,0,3,0
 johaclimacticus,111,0,4,0
@@ -48445,7 +48445,7 @@ jordyboys,135,0,2,0
 jordygreen,122,0,5,0
 jorge_,132,0,3,0
 jorichards67,96,0,10,0
-jorjun,148,2,6,2
+jorjun,148,0,6,0
 jorysmith,157,1,5,1
 jos1998,130,0,1,0
 josaka,138,0,14,0
@@ -48561,7 +48561,7 @@ josie-phine,163,3,7,2
 josieXjoanna,103,0,6,0
 josieee123,168,0,8,0
 josieg01,149,0,12,0
-josiejo,107,41,9,1
+josiejo,107,0,9,0
 josiejo1982,182,0,3,0
 josiepop,156,0,8,0
 josietj,156,0,3,0
@@ -48645,7 +48645,7 @@ jrskeg,141,4,11,1
 jrslims,134,0,2,0
 jrvdz,175,0,2,0
 jrwi,144,0,3,0
-js8088,109,2,14,1
+js8088,109,0,14,0
 jsam93,122,6,3,2
 jsav814,125,0,14,0
 jsaxon,120,0,5,0
@@ -48934,7 +48934,7 @@ k791,163,0,12,0
 k8iemay,39,0,5,0
 k8sm1th,104,0,5,0
 k9kev,151,0,5,0
-k_cs_,142,1,4,1
+k_cs_,142,0,4,0
 k_winters,106,0,5,0
 k_wiseman,164,2,4,2
 kaBLARRR,168,0,2,0
@@ -49177,8 +49177,8 @@ kateftw,57,0,3,0
 katefuckingdee,79,0,2,0
 kateholt,118,0,11,0
 kateio,141,0,4,0
-kateis,173,1,1,1
-katekarnage,136,4,6,2
+kateis,173,0,1,0
+katekarnage,136,2,6,2
 katelass,72,0,5,0
 katemate128,151,0,15,0
 katemcd2,147,0,6,0
@@ -49443,7 +49443,7 @@ kdellow,128,0,4,0
 kderderry,150,0,6,0
 kdknowsmyname,130,1,9,1
 kdoink,110,1,11,1
-kdp69er,123,1,13,1
+kdp69er,123,0,13,0
 kdz77,108,0,10,0
 kealyfish,152,0,6,0
 keane13,123,0,12,0
@@ -49607,7 +49607,7 @@ kerascene,176,0,6,0
 kerbitroy,113,0,3,0
 kerenaribena,111,0,8,0
 kermitbantam,104,0,3,0
-kernowbird,159,1,10,1
+kernowbird,159,0,10,0
 kernowcowboy,120,0,6,0
 kernzi,126,0,6,0
 kerosene_,144,0,6,0
@@ -49664,7 +49664,7 @@ kevineboue14,148,0,13,0
 kevineva,121,0,13,0
 kevinhankey,183,0,7,0
 kevinhickey89,129,0,2,0
-kevinlit,175,14,6,2
+kevinlit,175,1,6,1
 kevinmjoyner,140,0,7,0
 kevinmolloy,163,0,8,0
 kevinrutherford,130,0,6,0
@@ -49736,7 +49736,7 @@ kiara868,164,0,12,0
 kick_push23,156,0,9,0
 kickasspopmusic,183,0,5,0
 kickbrit,130,0,4,0
-kicker_c,8,1,2,1
+kicker_c,8,0,2,0
 kickintheteeth,139,14,2,1
 kickkicksnare,168,0,8,0
 kickme123,89,0,7,0
@@ -49881,7 +49881,7 @@ kimmollyjevon,53,0,3,0
 kimmyviolet,142,0,9,0
 kimonolove,148,0,7,0
 kimothy85,170,0,12,0
-kimthompsett,168,1,8,1
+kimthompsett,168,0,8,0
 kimvii,106,0,6,0
 kimwaar,115,0,2,0
 kimyoungs,146,0,5,0
@@ -49975,7 +49975,7 @@ kirandy,168,1,3,1
 kiranisbrown,106,0,6,0
 kirbyconda,70,0,2,0
 kirbycoo233,103,0,11,0
-kirikirikiri,152,1,2,1
+kirikirikiri,152,0,2,0
 kirjava,38,0,3,0
 kirk_xyz,95,0,15,0
 kirkflip,141,0,9,0
@@ -50265,7 +50265,7 @@ kokakolaclash,120,0,3,0
 kokanshu,84,0,5,0
 kokmok,140,0,15,0
 kokofu1975,119,0,9,0
-koldcaffe,167,1,23,1
+koldcaffe,167,0,23,0
 kolina,68,1,3,1
 kolkaaa,154,0,6,0
 koltregaskes,63,0,1,0
@@ -50450,7 +50450,7 @@ kuma1546,105,0,3,0
 kumari1976,113,0,10,0
 kunama,144,0,13,0
 kuntiklak,156,0,10,0
-kuohu,94,14,12,1
+kuohu,94,0,12,0
 kuoriv,168,0,9,0
 kuraivu,87,0,9,0
 kuramanga,83,9,9,2
@@ -50501,7 +50501,7 @@ kyle_jenner,130,0,5,0
 kyle_paul,51,0,2,0
 kyle_thunder,139,0,2,0
 kyle_yearwood,90,0,6,0
-kyleglanville,166,1,3,1
+kyleglanville,166,0,3,0
 kyleharry,163,0,4,0
 kylemacc,131,0,3,0
 kylenorth18,152,0,2,0
@@ -50512,7 +50512,7 @@ kylerarrar,168,0,8,0
 kylesoo,101,0,5,0
 kyleturner,172,0,8,0
 kyleupsidedown,100,0,4,0
-kylie-uk,171,2,21,2
+kylie-uk,171,1,21,1
 kylie1206,134,3,4,2
 kylieboy81,170,0,2,0
 kyllle,180,0,6,0
@@ -50635,7 +50635,7 @@ ladywhitetiger,98,0,5,0
 laetiti83,94,0,6,0
 laevalalala,139,0,5,0
 lafeeasrai,144,0,3,0
-lafemmedacote,97,1,7,1
+lafemmedacote,97,0,7,0
 laff3rty,167,0,6,0
 laffinnome,141,12,12,3
 laffyluk,138,0,4,0
@@ -50649,7 +50649,7 @@ lahdinard,130,0,6,0
 laiche,157,0,6,0
 laidbackphil,154,0,7,0
 lailaschnitzel,58,0,9,0
-lailazaf,150,1,6,1
+lailazaf,150,0,6,0
 laimee,132,0,11,0
 laimis_s,124,0,3,0
 laimucce,136,0,2,0
@@ -50692,7 +50692,7 @@ lamb-shank,93,0,4,0
 lambchop_x,171,0,4,0
 lambcullen,141,1,16,1
 lambey85,21,0,4,0
-lambieisgod,162,1,7,1
+lambieisgod,162,0,7,0
 lambieonline,155,0,3,0
 lambmetal,157,0,6,0
 lambo12345,118,2,5,1
@@ -50774,7 +50774,7 @@ lareine_x,112,0,12,0
 larelleread,164,0,3,0
 largeskrotum,99,0,18,0
 largoboy,162,0,11,0
-largoward73,192,1,9,1
+largoward73,192,0,9,0
 larkette,118,0,7,0
 larkylass,119,0,9,0
 larme,96,0,2,0
@@ -50821,7 +50821,7 @@ latchonmardi,129,0,7,0
 lateagainjeff,26,0,4,0
 latenightbus,158,0,6,0
 latentnotion,119,0,8,0
-lateofthepete,172,2,3,1
+lateofthepete,172,0,3,0
 lateralaus,73,0,1,0
 laticsrblu,152,0,17,0
 latimer999,157,1,7,1
@@ -51125,7 +51125,7 @@ leanne14,177,0,4,0
 leanne_83,166,5,10,4
 leanne_g_,176,0,7,0
 leanneeeyyy,103,0,15,0
-leannekean,131,1,12,1
+leannekean,131,0,12,0
 leanneomgz,115,0,3,0
 leanneormandy,142,0,5,0
 leannevenkman,134,0,10,0
@@ -51416,7 +51416,7 @@ letshakeitoff,54,0,3,0
 letsrawr,140,0,2,0
 letsstartariot7,108,0,2,0
 lettieconca,102,0,4,0
-lev1978,176,2,5,2
+lev1978,176,1,5,1
 levali,97,0,2,0
 levelleriom,114,0,9,0
 leventcet,141,0,9,0
@@ -52009,7 +52009,7 @@ livestrongx,90,0,3,0
 livewired,125,13,6,3
 livia_mags,120,1,6,1
 liviaaaaaa,169,0,13,0
-liviacruz,149,1,3,1
+liviacruz,149,0,3,0
 living_Strange,136,0,5,0
 livington,163,0,9,0
 livinlisarama,100,13,2,2
@@ -52127,7 +52127,7 @@ llyffant,185,0,9,0
 llze,141,0,3,0
 lm525,187,0,3,0
 lmac87,97,0,8,0
-lmarfell,133,1,7,1
+lmarfell,133,0,7,0
 lmason17,185,0,18,0
 lmatt,169,0,4,0
 lmb38x,158,1,5,1
@@ -52139,7 +52139,7 @@ lmhowe,102,0,5,0
 lmhr9,136,0,10,0
 lmjabreu,111,0,3,0
 lmlMetalDudelml,133,0,8,0
-lmt337,126,3,8,2
+lmt337,126,2,8,1
 lmyt,186,0,3,0
 lnc0,165,0,20,0
 lncpx,127,0,7,0
@@ -52177,7 +52177,7 @@ lofi72,169,0,4,0
 lofiturner,169,0,6,0
 loftx,58,0,5,0
 loftywiseman,181,0,9,0
-log,76,1,5,1
+log,76,0,5,0
 logarithme,130,0,3,0
 loghead,152,0,10,0
 logic_payload,104,0,6,0
@@ -52262,12 +52262,12 @@ longcat,119,0,7,0
 longestplague,164,0,3,0
 longhairedteen,114,0,5,0
 longhurst88,141,5,7,1
-longlonggone,144,2,17,1
+longlonggone,144,0,17,0
 longplay,153,0,7,0
 longryder,116,0,24,0
 longstory_short,139,0,3,0
 longstrider77,139,0,13,0
-longwayround,152,4,9,1
+longwayround,152,0,9,0
 lonmai,175,0,10,0
 lonniebonnie1,91,0,5,0
 loo-see89,150,1,4,1
@@ -52330,7 +52330,7 @@ lordmackery,75,0,9,0
 lordmoosalot,143,0,8,0
 lordnoize,173,0,35,0
 lordotterby,64,0,14,0
-lordsexypanda,84,7,4,1
+lordsexypanda,84,0,4,0
 lordstorm,197,0,10,0
 lordstumpington,73,0,2,0
 lorelei_chase,125,3,2,1
@@ -52354,7 +52354,7 @@ lorner96,96,0,2,0
 lornzeoo,123,0,15,0
 lorpgears,97,0,2,0
 lorraine1987,152,0,9,0
-lorraine_xx,162,1,5,1
+lorraine_xx,162,0,5,0
 lorrainecox1981,155,1,5,1
 lorri121,79,0,7,0
 lorriesplash,98,0,7,0
@@ -52420,7 +52420,7 @@ lottiescotty,169,0,4,0
 lottiethehottie,144,1,12,1
 lottiewoo,168,0,7,0
 lottifer,141,0,8,0
-lottster,154,2,2,1
+lottster,154,0,2,0
 lotuseaters,35,0,7,0
 lotushaiku,105,0,9,0
 lotusian,182,0,1,0
@@ -52448,7 +52448,7 @@ louelladevil,149,0,12,0
 loughie0,143,0,4,0
 lougraham,142,0,8,0
 louie92,99,0,7,0
-louiecyphier,179,2,10,2
+louiecyphier,179,1,10,1
 louiedodge,159,0,2,0
 louiehoodless,132,0,17,0
 louielouie82,128,0,6,0
@@ -52502,7 +52502,7 @@ lountim,193,0,2,0
 loupgarouuu,175,0,13,0
 lourdesmarcos,88,0,8,0
 loursce,174,0,3,0
-lousamosa1,156,1,4,1
+lousamosa1,156,0,4,0
 lousteaton,160,0,7,0
 louthomson,79,0,7,0
 louuise,159,1,15,1
@@ -52564,7 +52564,7 @@ lowflyingowl,134,0,6,0
 lowkeyokeydokey,146,0,6,0
 lowlandcactus,65,0,6,0
 lowlitmemory,36,0,2,0
-lowredmoon,137,1,3,1
+lowredmoon,137,0,3,0
 lowri88,164,0,5,0
 loxlee,162,0,6,0
 loxx101,86,0,7,0
@@ -52698,7 +52698,7 @@ lucyfm88,53,0,3,0
 lucygarysnail,109,0,11,0
 lucygould,46,0,5,0
 lucyholliday_,112,0,4,0
-lucyi22,183,3,2,1
+lucyi22,183,0,2,0
 lucyisgreat,94,0,15,0
 lucyitaylor,52,0,2,0
 lucyjessica,146,0,5,0
@@ -52850,7 +52850,7 @@ lulu8bha,32,0,1,0
 lulubluebee,128,0,9,0
 lulucyole,152,0,17,0
 lulueyyy,102,0,6,0
-lululolipop,173,1,14,1
+lululolipop,173,0,14,0
 lulumonde,179,0,7,0
 lulusuicide,87,0,7,0
 lumberjack,127,0,11,0
@@ -53165,7 +53165,7 @@ madspots,110,0,2,0
 madsquirrels,68,0,6,0
 madtaffy1972,62,0,1,0
 madulocapulo,133,0,5,0
-madvelez,154,1,2,1
+madvelez,154,0,2,0
 madyaker,143,0,4,0
 madzixxx,99,0,5,0
 madzkaheee,162,0,2,0
@@ -53189,7 +53189,7 @@ maffyewsart,185,0,8,0
 maffyhooh,186,9,6,1
 mafiamod,129,0,1,0
 mafurnici,124,0,4,0
-magbaba,163,1,6,1
+magbaba,163,0,6,0
 magdalena_orion,157,0,2,0
 magdalenamoon,166,0,5,0
 magdarihanna91,167,0,1,0
@@ -53270,7 +53270,7 @@ mairebmn,43,0,3,0
 mairi-kate,133,0,17,0
 mairidhubh,171,0,18,0
 mairielise,174,0,11,0
-mairimcintosh,163,11,9,1
+mairimcintosh,163,0,9,0
 mairs1991,44,0,4,0
 maisey_ferret,139,0,5,0
 maisie10695,137,0,7,0
@@ -53320,7 +53320,7 @@ malcanglesea,135,1,11,1
 malcjohn,50,0,5,0
 malckelly,151,0,9,0
 malcolmfraser,126,0,8,0
-malcolmhandoll,155,1,13,1
+malcolmhandoll,155,0,13,0
 malcolmmcneill,162,0,7,0
 malcomio,144,0,2,0
 maldogg91,127,0,10,0
@@ -53366,7 +53366,7 @@ mambojoeuk,150,0,2,0
 mamfs,132,0,6,0
 mammothy,171,0,7,0
 mamnai,158,0,3,0
-mamoniowa,176,2,12,1
+mamoniowa,176,0,12,0
 mamoonahmed,13,0,3,0
 man-called-adam,165,0,18,0
 man_about_town,122,0,2,0
@@ -53397,7 +53397,7 @@ mandarinsam,159,0,3,0
 mandaspence,126,0,11,0
 mandi82,137,0,4,0
 mandiocious,121,0,4,0
-mandoliini,142,1,9,1
+mandoliini,142,0,9,0
 mandomarit,153,0,15,0
 mandroid82,179,0,3,0
 mandy-uk,82,0,1,0
@@ -53945,7 +53945,7 @@ mat654321,102,0,6,0
 mat8drb,160,0,13,0
 mat_87,142,0,25,0
 mat_izdabest,88,0,12,0
-matc1984,132,1,7,1
+matc1984,132,0,7,0
 matcanseeagiant,94,0,3,0
 matchboxfive,179,0,7,0
 matchlessxqueen,121,0,3,0
@@ -53959,7 +53959,7 @@ mathcore95,141,0,12,0
 mathew551,157,0,2,0
 mathewclarke,166,0,9,0
 mathewjm,128,0,13,0
-mathieson79,81,1,6,1
+mathieson79,81,0,6,0
 mathletic107,18,0,1,0
 mathmethman,158,0,4,0
 mathmochristo,130,0,6,0
@@ -54059,7 +54059,7 @@ mattchicken,173,1,6,1
 mattclinch,143,0,2,0
 mattcoleman1990,175,8,4,2
 mattcoops,185,2,2,1
-mattcortez,130,1,5,1
+mattcortez,130,0,5,0
 mattcotton3,105,0,8,0
 mattcunn,69,0,10,0
 mattdabest,157,0,3,0
@@ -54191,7 +54191,7 @@ mattprice90,117,0,11,0
 mattpy,179,0,4,0
 mattpyke,136,0,14,0
 mattr,146,0,4,0
-mattreilly90,148,1,9,1
+mattreilly90,148,0,9,0
 mattribute,148,0,1,0
 mattrivers,186,0,18,0
 mattrobinson,139,0,2,0
@@ -54322,7 +54322,7 @@ maxims_atif,128,0,2,0
 maximule,152,0,7,0
 maximumbling,168,0,2,0
 maximumjokes,167,4,12,2
-maximus_pegasus,167,1,8,1
+maximus_pegasus,167,0,8,0
 maximus_will,175,0,8,0
 maximuso,151,0,6,0
 maxinealice,163,0,15,0
@@ -54705,7 +54705,7 @@ melithing,139,0,8,0
 meljonhenderson,181,0,5,0
 melkirk1981,177,0,2,0
 melkwin,153,1,10,1
-mell242,127,6,12,5
+mell242,127,5,12,4
 mellen1604,142,0,4,0
 mellerobot,136,0,12,0
 mellieeeee,140,0,3,0
@@ -54724,7 +54724,7 @@ mellowdrama,153,0,5,0
 mellowshipsinky,175,0,6,0
 mellowyellow89,138,21,4,2
 melly_melly,124,0,2,0
-mellygon,175,6,8,1
+mellygon,175,0,8,0
 melmacheda,110,1,2,1
 melodicised,140,0,4,0
 melodictom,135,0,4,0
@@ -54782,7 +54782,7 @@ meowhead-,150,4,7,1
 meowkaz,127,0,5,0
 meowlalala,174,0,7,0
 mephisdan,146,0,6,0
-meprim8,114,1,10,1
+meprim8,114,0,10,0
 mercenarri,165,0,8,0
 mercury083,5,0,1,0
 mercury727,126,0,12,0
@@ -54996,7 +54996,7 @@ michaeljburgess,102,0,7,0
 michaelkeenan,136,0,13,0
 michaell4,136,0,5,0
 michaellamb,166,0,3,0
-michaellavelle,128,2,11,1
+michaellavelle,128,0,11,0
 michaellegge,152,0,2,0
 michaelm10,142,0,4,0
 michaelm1987,186,0,3,0
@@ -55158,7 +55158,7 @@ mike_j_clarke,134,0,12,0
 mike_lazenby,83,0,5,0
 mike_ob,138,0,2,0
 mike_readhead,109,0,9,0
-mike_stewart,180,5,13,3
+mike_stewart,180,4,13,3
 mike_t,161,0,15,0
 mike_vengeance,97,0,6,0
 mikeaj,161,0,16,0
@@ -55309,7 +55309,7 @@ milkshake1995,142,0,2,0
 milkteef,144,0,14,0
 milky_joe101,171,0,6,0
 milkyglass,184,0,3,0
-milkysound,159,1,3,1
+milkysound,159,0,3,0
 miller18,137,0,3,0
 millerlight26,113,0,9,0
 millersfriend,178,0,4,0
@@ -55458,7 +55458,7 @@ misco,189,0,1,0
 misecia,119,0,23,0
 miserablizm,188,0,3,0
 miseria_cantare,48,0,6,0
-misery-machine,166,1,10,1
+misery-machine,166,0,10,0
 misfitter,153,0,11,0
 misha-lily,131,0,5,0
 misha.c,98,0,10,0
@@ -55519,7 +55519,7 @@ miss_vegas,176,0,1,0
 miss_vix,161,0,6,0
 miss_whiplash,188,0,7,0
 missa1,132,0,4,0
-missaggrevation,102,1,2,1
+missaggrevation,102,0,2,0
 missalismith,161,0,8,0
 missangyt,159,0,10,0
 missannabananna,71,3,11,1
@@ -55557,7 +55557,7 @@ missfelix,141,0,7,0
 missfilly,129,0,8,0
 missfionamac,134,0,7,0
 missfunkyfoxx,7,0,1,0
-missfunkymonks,178,1,5,1
+missfunkymonks,178,0,5,0
 missgemzii,106,1,5,1
 missgiggles28,102,0,12,0
 missgreenapple,119,0,5,0
@@ -55570,7 +55570,7 @@ missherpicture,125,0,6,0
 misshoulihan,101,0,8,0
 missiljestrom,155,0,6,0
 missingmonk,78,0,2,0
-missingpink,170,2,3,1
+missingpink,170,0,3,0
 missionverdana,177,1,3,1
 missjade29,117,19,17,5
 missjazz08,113,0,22,0
@@ -55701,7 +55701,7 @@ mittsville,114,0,8,0
 mituozo,129,0,3,0
 miumel,170,0,6,0
 miunicaverdad,181,0,8,0
-miuzikboy,172,2,8,2
+miuzikboy,172,1,8,1
 mivelmo,62,0,7,0
 mixedlollies,157,0,6,0
 mixedupmemories,147,0,16,0
@@ -55748,7 +55748,7 @@ mjfchance,172,0,2,0
 mjfh81,99,0,6,0
 mjfraction,147,0,10,0
 mjfroggatt,69,0,17,0
-mjg_,135,3,3,1
+mjg_,135,2,3,1
 mjgclan88,161,0,2,0
 mjh8888,124,0,2,0
 mjhelsby,94,0,2,0
@@ -55939,7 +55939,7 @@ moleris,186,0,6,0
 moleseyfc,185,0,5,0
 moless,141,0,2,0
 molesthough,153,0,13,0
-moley75,121,1,6,1
+moley75,121,0,6,0
 moleyhtfc,159,0,17,0
 molezy777,74,4,16,3
 molkatt,150,13,9,4
@@ -55966,7 +55966,7 @@ mollymong,138,0,13,0
 mollymooXO,4,0,1,0
 mollymooxxx,126,2,2,1
 mollyrichards,142,0,5,0
-mollysb,178,1,9,1
+mollysb,178,0,9,0
 mollysioux,148,0,5,0
 mologo,115,0,7,0
 molomint,108,1,7,1
@@ -56190,7 +56190,7 @@ morningcowboy,154,0,10,0
 morningview,81,0,12,0
 moros,130,0,9,0
 morosity,133,0,12,0
-morph73,140,2,4,1
+morph73,140,1,4,1
 morpheusvw,178,0,2,0
 morris111222,113,1,2,1
 morris21,136,1,5,1
@@ -56448,7 +56448,7 @@ mrko5,167,0,10,0
 mrkrista,90,0,3,0
 mrkristoff,181,0,6,0
 mrksmth,149,0,3,0
-mrkunk,150,1,17,1
+mrkunk,150,0,17,0
 mrkwtrs,178,4,8,3
 mrkyle111,169,0,1,0
 mrlee192,167,0,12,0
@@ -56497,7 +56497,7 @@ mrshanks88,128,0,4,0
 mrsheret,146,0,4,0
 mrsironside,166,0,11,0
 mrskaddi,162,0,6,0
-mrskarmadillo,155,3,8,3
+mrskarmadillo,155,1,8,1
 mrslacey,162,0,3,0
 mrsleg,117,0,3,0
 mrslovett-x,155,0,9,0
@@ -56586,7 +56586,7 @@ mtm_01,107,0,9,0
 mtmccann,139,0,12,0
 mtmthornton,112,0,8,0
 mtoreilly,90,0,3,0
-mtowber,143,3,2,1
+mtowber,143,0,2,0
 mtrapr,63,0,2,0
 mtrottmann,171,0,10,0
 mttbrwn,166,0,5,0
@@ -56708,7 +56708,7 @@ mushimishu,162,0,2,0
 mushroom691,152,0,16,0
 mushroom87,180,1,6,1
 mushroomtail,150,0,2,0
-mushy-p,154,1,4,1
+mushy-p,154,0,4,0
 mushybees,136,0,5,0
 mushyypeas,182,0,5,0
 music-banana,148,0,11,0
@@ -56789,7 +56789,7 @@ mutematthew,123,0,3,0
 mutemememe,114,0,2,0
 mutepanda,186,0,6,0
 muterequiem,123,0,1,0
-muteyboy,122,1,12,1
+muteyboy,122,0,12,0
 muthahuffa,125,0,5,0
 muthapucker,145,0,3,0
 muthecow,169,0,6,0
@@ -57041,7 +57041,7 @@ nainaii23,168,1,2,1
 naiomi_allison,90,0,9,0
 naiomie,158,0,5,0
 nairn1983,151,3,19,1
-nairnski,168,2,6,2
+nairnski,168,0,6,0
 nairobiny,46,0,3,0
 naisukai,153,0,13,0
 naivejudgements,157,0,1,0
@@ -57282,7 +57282,7 @@ nchineme,112,0,3,0
 ncmc,142,0,10,0
 ncmmorris,120,0,4,0
 ncoke,147,0,4,0
-ncurado,187,1,6,1
+ncurado,187,0,6,0
 ndash,96,0,12,0
 ndavies91,137,0,5,0
 ndax,118,0,2,0
@@ -57346,7 +57346,7 @@ neil_milburn,130,0,5,0
 neil_t,72,0,5,0
 neilarmstead,94,0,2,0
 neilbanaman,135,0,7,0
-neilbombd,143,12,4,1
+neilbombd,143,0,4,0
 neilbyrne89,154,0,3,0
 neildw,159,0,5,0
 neilefcreid,1,0,1,0
@@ -57376,7 +57376,7 @@ nelly1989,140,0,2,0
 nelly_uk7,95,0,1,0
 nellyb63,177,0,7,0
 nellybelly7592,92,0,13,0
-nellykelly,177,1,1,1
+nellykelly,177,0,1,0
 nelmzy,140,0,11,0
 nelsinhojuneca,75,0,4,0
 nelsonk1,156,0,17,0
@@ -57389,11 +57389,11 @@ nempozpag,186,0,4,0
 nemtook,163,0,2,0
 nena2482,164,0,1,0
 neo228,151,3,11,1
-neo666uk2,157,1,11,1
+neo666uk2,157,0,11,0
 neo6776,154,0,6,0
 neo_phile,116,0,10,0
 neoangelo,72,0,1,0
-neodruid,178,1,16,1
+neodruid,178,0,16,0
 neodude991,132,1,2,1
 neoeno,135,0,2,0
 neojezebel,186,0,8,0
@@ -57597,7 +57597,7 @@ nicholasyoung23,159,0,12,0
 nicholibrooks,156,0,2,0
 nichollas,93,0,10,0
 nicholls181,77,0,7,0
-nichollsgg,153,1,2,1
+nichollsgg,153,0,2,0
 nicisanonymous,158,0,9,0
 nicjones132,135,0,5,0
 nick-day,169,1,2,1
@@ -57745,7 +57745,7 @@ nicole_X,88,0,5,0
 nicole_says_hi,130,0,1,0
 nicoleavis,84,0,14,0
 nicolebuzz,77,0,8,0
-nicolechristina,133,1,7,1
+nicolechristina,133,0,7,0
 nicolecourtney,157,0,13,0
 nicoleell,76,0,8,0
 nicolefoxxx,159,0,2,0
@@ -57969,7 +57969,7 @@ njhamer,160,0,4,0
 njillings,177,0,3,0
 njj4,179,0,5,0
 njjackson89,189,0,3,0
-njmitch,95,5,3,1
+njmitch,95,0,3,0
 njpeirce,174,0,19,0
 njs,165,0,2,0
 njs12345,154,0,7,0
@@ -58327,7 +58327,7 @@ nyappy-nanashi,84,2,13,2
 nybiara,159,0,2,0
 nyc_pig,87,0,7,0
 nycowboy,171,0,6,0
-nydra,113,1,1,1
+nydra,113,0,1,0
 nyepie,128,0,1,0
 nylonviolence,148,0,13,0
 nymik,84,0,1,0
@@ -58490,12 +58490,12 @@ oh-boo,150,0,5,0
 oh-if-only,122,0,4,0
 oh-johanna,145,0,7,0
 oh_do_shutup,161,0,6,0
-oh_een,137,1,4,1
+oh_een,137,0,4,0
 oh_eye_vee,145,0,3,0
 oh_hana,54,0,2,0
 oh_jessica,181,0,3,0
 oh_joanna,148,0,10,0
-oh_jolene,163,9,4,2
+oh_jolene,163,8,4,2
 oh_kimberley,52,0,11,0
 oh_lancashire_1,168,1,15,1
 oh_laursen_b,173,0,14,0
@@ -58761,7 +58761,7 @@ ollywinkles,126,0,10,0
 olm-remix,111,0,12,0
 olmuyo,167,2,5,2
 olorinjoyce,141,0,1,0
-olospo,148,1,5,1
+olospo,148,0,5,0
 olprock,47,0,4,0
 olturner,156,0,4,0
 olufsenUK,113,0,3,0
@@ -58811,7 +58811,7 @@ omglaauren,25,0,2,0
 omgmusicsucks,93,0,2,0
 omgoaway,13,0,3,0
 omgrichplz,144,0,8,0
-omgs1one,143,1,9,1
+omgs1one,143,0,9,0
 omgvalz,171,0,1,0
 omgwhatlolcats,88,0,5,0
 omgzsteph,144,0,4,0
@@ -58828,7 +58828,7 @@ omoh007,151,0,11,0
 omoravszky,73,0,14,0
 omoyoto,122,0,8,0
 omracer,82,0,3,0
-omster1,135,1,9,1
+omster1,135,0,9,0
 on00jh2,149,0,5,0
 on_the_subway,135,0,7,0
 onanotherworld,104,0,4,0
@@ -58893,7 +58893,7 @@ only_found,100,1,2,1
 only_jay,131,2,5,1
 onlyabititalian,109,0,4,0
 onlyagirl86,145,0,8,0
-onlybleeding,177,2,8,2
+onlybleeding,177,1,8,1
 onlygirlever,113,0,9,0
 onlyindreams93,80,0,9,0
 onlykinge,119,0,12,0
@@ -58969,7 +58969,7 @@ opiumdaddy,189,0,3,0
 opple,161,0,5,0
 opticw1ldman,151,1,6,1
 optimus-dom,99,0,9,0
-optiuum67,83,53,3,2
+optiuum67,83,0,3,0
 opusgropus,30,0,2,0
 or-roy,138,0,9,0
 orabel,160,0,4,0
@@ -59065,7 +59065,7 @@ otcocucku,63,0,3,0
 othervoweltaken,118,0,9,0
 otikowski,173,0,3,0
 otis1000bpm,55,0,8,0
-otis77,160,1,23,1
+otis77,160,0,23,0
 otodd,107,4,2,2
 otrops,160,0,5,0
 ots3go,147,0,1,0
@@ -59087,14 +59087,14 @@ oujumaflip,168,8,8,1
 ouran_lover,171,4,6,2
 ourcharr,4,0,1,0
 ourkidsam,153,0,1,0
-ourmark,188,1,2,1
+ourmark,188,0,2,0
 ourmindgames,160,0,11,0
 oust_bramwells,160,0,18,0
-outblissed,179,2,3,1
+outblissed,179,0,3,0
 outhy,150,0,1,0
 outlawtorm,113,0,3,0
 outlinereality,136,0,3,0
-outliveyouall,163,3,1,1
+outliveyouall,163,0,1,0
 outlw,63,0,4,0
 outmoder,151,0,6,0
 outmyhead,151,24,6,1
@@ -59387,7 +59387,7 @@ paramedictweet,172,0,4,0
 paramore06,178,0,5,0
 paramore89,168,0,4,0
 paramorepod,129,0,10,0
-paranoidfool,169,1,8,1
+paranoidfool,169,0,8,0
 parasectre,174,0,5,0
 parasiticethos,117,0,27,0
 paratiger,198,0,7,0
@@ -59438,7 +59438,7 @@ partyppoison,145,0,9,0
 parvenu,196,0,1,0
 pascale158,139,0,3,0
 paseawright,158,0,2,0
-pashleyj,97,2,9,1
+pashleyj,97,0,9,0
 pasiddons,180,0,8,0
 pasktehninja,74,0,4,0
 paspartoo,151,0,5,0
@@ -59708,7 +59708,7 @@ pearlwood1960,80,0,10,0
 peartruck,167,0,11,0
 peasepudding,156,0,4,0
 peast123,163,0,14,0
-peastar,171,1,4,1
+peastar,171,0,4,0
 pebble30,183,0,5,0
 pebble_rebel,117,0,1,0
 pebbles1,145,0,13,0
@@ -59720,7 +59720,7 @@ peckco99,63,0,5,0
 peckerman,80,0,4,0
 peculiarpeach,127,0,5,0
 pedalant,140,0,10,0
-pedallo,188,1,13,1
+pedallo,188,0,13,0
 pedalpushers,126,0,4,0
 pedanticJase,115,0,5,0
 pedatoe,92,0,3,0
@@ -59746,7 +59746,7 @@ pegasusblur,130,0,4,0
 pegerteg,192,0,13,0
 pegg008,134,0,5,0
 peggypeggypeggy,108,0,8,0
-pegnose,138,1,4,1
+pegnose,138,0,4,0
 pejfm,98,0,10,0
 pekingspring,185,0,6,0
 pelic0n,169,1,3,1
@@ -59899,7 +59899,7 @@ petergammon,138,0,10,0
 petergkl,136,0,12,0
 petergreen2009,32,0,4,0
 peterhignett,114,3,16,1
-peterhufton,116,14,1,1
+peterhufton,116,0,1,0
 peteridley,161,0,14,0
 peterj89,157,0,13,0
 peterjamesford,138,73,10,4
@@ -60125,7 +60125,7 @@ phluid,149,0,1,0
 phluxm,114,0,7,0
 phobox,143,0,2,0
 phockey21,93,0,1,0
-phodgeszoho,192,1,3,1
+phodgeszoho,192,0,3,0
 phoe66,149,0,7,0
 phoebebunny,172,0,9,0
 phoebedeng,163,0,11,0
@@ -60157,7 +60157,7 @@ phorque,190,0,1,0
 phospheric,151,0,10,0
 photek,145,0,6,0
 photini,175,0,19,0
-photojonny,169,1,3,1
+photojonny,169,0,3,0
 photongenic,174,0,8,0
 phototropism,83,0,3,0
 php1mv,172,2,4,2
@@ -60223,7 +60223,7 @@ pie_plant,108,0,9,0
 piebear,91,0,8,0
 pieceofandy,137,0,3,0
 pieceofdivine,133,0,7,0
-pieceoshitsite,183,2,7,1
+pieceoshitsite,183,0,7,0
 piecesoflove,87,0,9,0
 piecesofquiet_,136,0,2,0
 piecesofsky,117,66,4,3
@@ -60443,7 +60443,7 @@ pixiella_,117,0,6,0
 pixienixie,77,0,8,0
 pixiequeen87,153,0,8,0
 pixies665,150,0,12,0
-pixievoo,160,1,11,1
+pixievoo,160,0,11,0
 pixiewings,118,0,3,0
 pixsy,111,0,18,0
 pixxyy,112,1,10,1
@@ -60530,7 +60530,7 @@ pleasewait,163,0,5,0
 pleash,175,0,1,0
 plectrumgirl,88,0,6,0
 plekky09,142,0,14,0
-plenitude,124,10,5,2
+plenitude,124,0,5,0
 plesjohns,157,0,1,0
 plethoricman,165,0,10,0
 plimsolls,111,1,4,1
@@ -60575,7 +60575,7 @@ pnltd,168,0,4,0
 pntdghst,140,0,8,0
 pobk,152,0,5,0
 pobwall,152,0,7,0
-pocket_apoc,36,5,6,3
+pocket_apoc,36,4,6,3
 pocketfuloflips,164,0,6,0
 pocketmonkey_P,158,0,12,0
 pocketpunks,132,0,3,0
@@ -60648,7 +60648,7 @@ pollyannas_fine,151,0,9,0
 pollydelonge,80,0,1,0
 pollyinmypocket,43,0,1,0
 pollylop86,178,0,4,0
-pollymcburney,175,1,6,1
+pollymcburney,175,0,6,0
 pollyroberts,162,0,5,0
 pollysdad,138,0,5,0
 pollyssoulm8,181,0,2,0
@@ -60681,7 +60681,7 @@ ponderbear,166,0,14,0
 pondpig,97,0,6,0
 pondramones,118,0,4,0
 pong_ping,164,0,20,0
-ponga1983,125,1,9,1
+ponga1983,125,0,9,0
 pontiuss2,172,0,1,0
 pony-girl,72,0,1,0
 ponykitty,146,0,5,0
@@ -60706,7 +60706,7 @@ pooreb,186,1,6,1
 poormallard,151,0,3,0
 poorshakes,194,0,1,0
 poot86,121,0,1,0
-pootlewarrior,167,2,1,1
+pootlewarrior,167,0,1,0
 pootling,159,0,2,0
 pop_art-i-wish,156,0,11,0
 pop_geek,170,0,4,0
@@ -60932,7 +60932,7 @@ princesskela,131,0,8,0
 princessmoog,165,0,8,0
 princesspeach_x,150,0,6,0
 princesspo,154,0,8,0
-princessr28,138,1,8,1
+princessr28,138,0,8,0
 princessvicks,139,0,8,0
 princessyogurt,153,0,5,0
 princeterrian,129,0,9,0
@@ -60974,7 +60974,7 @@ project_funky,176,3,4,1
 project_purge,163,0,1,0
 projectbleu,164,0,12,0
 projectradio,114,0,2,0
-prolixian,135,1,8,1
+prolixian,135,0,8,0
 prometheusracer,148,0,8,0
 prometheuszx,120,0,8,0
 promiseskept_,166,0,21,0
@@ -61102,7 +61102,7 @@ pull_the_lever,130,0,20,0
 pulseheartbeat,64,0,1,0
 puma_r_top,103,0,4,0
 pumpedupkicks10,189,1,6,1
-pumpkinjacket,107,3,10,3
+pumpkinjacket,107,0,10,0
 pumpkinlll,166,1,3,1
 pumps15,115,0,11,0
 pumpshroom,55,0,2,0
@@ -61210,7 +61210,7 @@ putmy_global,130,0,10,0
 puttyman,138,1,7,1
 puwit,18,2,3,1
 puzzlebox,155,0,3,0
-pvp2000,145,1,5,1
+pvp2000,145,0,5,0
 pwberry,183,3,7,3
 pwdbugzy,67,0,3,0
 pwhitelaw,160,0,3,0
@@ -61282,7 +61282,7 @@ queenofsavages,163,0,3,0
 queensradio,103,0,6,0
 queenstevie,197,0,1,0
 queentiddles,143,1,18,1
-queentilly,171,1,6,1
+queentilly,171,0,6,0
 queenvortess,155,0,14,0
 queenxxbeee,94,0,4,0
 queenzoe,149,0,11,0
@@ -61547,7 +61547,7 @@ ragana74,187,0,2,0
 rage_rage,129,0,10,0
 ragebunny,124,0,10,0
 rageminkstorm,33,2,1,1
-raggedhalo,141,1,2,1
+raggedhalo,141,0,2,0
 raggediman,92,0,6,0
 raggle89,160,0,9,0
 raggyrock,186,0,2,0
@@ -61622,7 +61622,7 @@ ralphpmiller,175,0,4,0
 ralphrawrgasms,115,2,8,2
 ramadalailama,134,0,15,0
 ramasees,130,0,1,0
-ramblin_man,132,4,8,1
+ramblin_man,132,0,8,0
 ramblinjohn,168,0,11,0
 rambo_ando,152,0,11,0
 rambochild,184,0,2,0
@@ -61717,7 +61717,7 @@ ratastic,156,0,3,0
 ratattack11,129,0,5,0
 ratbag_77,51,0,1,0
 ratbagash,91,0,8,0
-ratbanjos,160,1,18,1
+ratbanjos,160,0,18,0
 ratchetnclank,147,42,8,7
 ratcliffe22,171,2,6,2
 ratedR89,51,0,5,0
@@ -61917,7 +61917,7 @@ rebel_reddevil,112,4,18,3
 rebelangel,131,1,3,1
 rebelkatre,164,0,3,0
 rebelmaker,133,3,13,3
-rebelstar,176,4,8,2
+rebelstar,176,0,8,0
 rebelutonarie,120,0,16,0
 rebhop04,175,2,6,1
 rebo75,143,0,11,0
@@ -61976,7 +61976,7 @@ redhotphilli,177,0,13,0
 redhouseriot,126,0,9,0
 redidol,98,0,2,0
 redishmary,96,0,4,0
-redjanet,188,6,2,1
+redjanet,188,1,2,1
 redjukebox,153,1,4,1
 redlemon,158,0,5,0
 redmansfire,159,0,6,0
@@ -62083,7 +62083,7 @@ remake_remodel,163,0,15,0
 rembrandt77,179,0,5,0
 reme22,142,0,5,0
 rememberebecca,148,0,14,0
-remfanforever23,141,2,21,2
+remfanforever23,141,0,21,0
 remixboy,70,0,2,0
 remmonds,159,0,15,0
 remolobo,27,0,2,0
@@ -62233,7 +62233,7 @@ rhodrimarsden,157,0,39,0
 rhodzilla23,175,0,3,0
 rhpineapple,87,0,4,0
 rhubarb1,154,0,10,0
-rhubarb_fool,166,15,14,8
+rhubarb_fool,166,0,14,0
 rhubub,168,0,1,0
 rhubytrotters,149,0,4,0
 rhuggard,167,0,5,0
@@ -62407,7 +62407,7 @@ richrog1983,175,0,4,0
 richsimm,169,4,6,3
 richsj86,146,0,2,0
 richskara,144,0,6,0
-richster07,85,1,7,1
+richster07,85,0,7,0
 richtcello,166,0,24,0
 richwhitelaw,132,0,2,0
 richwhiting,97,0,3,0
@@ -62878,7 +62878,7 @@ roketjack,157,0,4,0
 rokinblenda,119,0,11,0
 roknrollrebel,191,0,2,0
 roko1,156,0,12,0
-rokunaeiyuu,119,1,9,1
+rokunaeiyuu,119,0,9,0
 rolandtaylor,168,0,6,0
 rolat,89,0,9,0
 roletta,126,0,6,0
@@ -62914,7 +62914,7 @@ romantictype,135,0,2,0
 romenagarena,179,0,17,0
 romeoechodelta,178,0,3,0
 romeotheotter,143,0,1,0
-rompefittekuk,140,1,3,1
+rompefittekuk,140,0,3,0
 romy6,21,0,1,0
 ronaldo7733,5,0,1,0
 ronanb1978,44,0,4,0
@@ -62932,7 +62932,7 @@ ronniebrown,150,0,7,0
 ronoc,98,0,3,0
 ronslunchbox,134,0,2,0
 ronthedog,113,0,5,0
-ronwa78,114,1,2,1
+ronwa78,114,0,2,0
 roo20,102,1,7,1
 roo23,169,0,4,0
 roo6999,124,0,9,0
@@ -63305,7 +63305,7 @@ ruskinmike,68,0,2,0
 ruskle,125,0,17,0
 ruskyn,137,0,8,0
 russ100,166,0,10,0
-russ9595,176,2,7,1
+russ9595,176,0,7,0
 russco_p,149,0,14,0
 russelga,171,0,3,0
 russell-higgs,21,0,4,0
@@ -63489,7 +63489,7 @@ s1m0nsc0tt,156,0,4,0
 s224,66,1,4,1
 s24,145,0,1,0
 s2daam,44,0,1,0
-s32jjy,177,1,2,1
+s32jjy,177,0,2,0
 s3krit,136,0,6,0
 s3ntient,168,0,11,0
 s3phiroth,185,0,2,0
@@ -63519,7 +63519,7 @@ saamFG,130,0,11,0
 saamjaam,154,0,3,0
 saammmmmmm,57,0,7,0
 saammmmy,123,0,13,0
-saamomo,156,1,5,1
+saamomo,156,0,5,0
 saaraLIVE,129,0,9,0
 saarafae,147,0,3,0
 sabaahamid,66,0,6,0
@@ -63702,7 +63702,7 @@ samantha_n16,36,0,2,0
 samantha_x2805,64,0,2,0
 samanthadee,68,0,3,0
 samanthaf8,168,0,5,0
-samanthagirl,142,1,5,1
+samanthagirl,142,0,5,0
 samanthahinsley,89,0,6,0
 samasobie,97,0,9,0
 samayres,188,0,11,0
@@ -63804,7 +63804,7 @@ samlovesunited,162,0,2,0
 samlucytaylor,115,0,11,0
 samm99,173,0,1,0
 samm_92,154,0,5,0
-sammacbeth,178,1,10,1
+sammacbeth,178,0,10,0
 sammanning,141,0,3,0
 sammartin91,122,0,2,0
 sammeebb,169,0,11,0
@@ -63849,7 +63849,7 @@ sammyy130,145,1,5,1
 sammyyeatworld,131,0,10,0
 sammyyyy,178,0,8,0
 sammyyyyyy,88,0,7,0
-samnluce,186,3,5,3
+samnluce,186,0,5,0
 samocwheatman,156,0,10,0
 samoflak1,115,0,4,0
 samonster,135,0,2,0
@@ -64036,7 +64036,7 @@ sarahduck89,176,0,7,0
 sarahead,183,0,5,0
 sarahearnshaw,128,0,9,0
 sarahecg,77,0,6,0
-sarahellen,171,2,14,1
+sarahellen,171,0,14,0
 sarahellison,42,0,8,0
 saraherena,137,0,9,0
 sarahflan,109,10,15,1
@@ -64079,7 +64079,7 @@ sarahpatsy,179,0,2,0
 sarahpowell111,160,0,11,0
 sarahquine,186,0,8,0
 sarahrooie,125,0,2,0
-sarahs_theme,171,1,3,1
+sarahs_theme,171,0,3,0
 sarahsarahjek,179,0,2,0
 sarahscarey,119,1,10,1
 sarahsupersonic,88,0,6,0
@@ -64093,7 +64093,7 @@ sarahwine,129,1,6,1
 sarahxmay,164,0,8,0
 sarahyeomanson,163,0,11,0
 sarahyounas,121,0,7,0
-sarainvideoland,165,1,3,1
+sarainvideoland,165,0,3,0
 sarajanevintage,190,0,9,0
 saral-k,111,0,22,0
 saralawtonxX,163,0,5,0
@@ -64185,7 +64185,7 @@ saureem,141,0,2,0
 sausage1,96,0,3,0
 sausageparty,25,0,2,0
 savagehenry83,182,0,6,0
-savagepink,192,1,4,1
+savagepink,192,0,4,0
 save_my_soul_87,115,0,6,0
 savealife,134,0,5,0
 savegringo,111,0,24,0
@@ -64212,7 +64212,7 @@ sayhej,163,0,2,0
 sayheyheyhey,162,0,2,0
 saykaty,52,0,6,0
 saylam,168,0,3,0
-sayssimonmusic,182,1,4,1
+sayssimonmusic,182,0,4,0
 saysteph__,128,0,14,0
 saythinkdomake,178,0,4,0
 sayuna,153,0,6,0
@@ -64278,7 +64278,7 @@ scarlettmills,154,0,8,0
 scarlettolivia,3,0,2,0
 scarlettpinson_,59,0,5,0
 scarlettraces,176,0,11,0
-scarlettshaney,145,1,4,1
+scarlettshaney,145,0,4,0
 scarletvarnish,175,0,16,0
 scarpadog,134,0,10,0
 scarthie01,91,0,18,0
@@ -64314,7 +64314,7 @@ schilds09,83,0,2,0
 schimmieee,138,0,10,0
 schiny,115,0,5,0
 schismatic,94,0,6,0
-schizo-stroller,181,9,11,1
+schizo-stroller,181,0,11,0
 schizometric,162,0,1,0
 schizophonia,144,7,6,2
 schlagerlout,123,0,19,0
@@ -64329,7 +64329,7 @@ schmidtsky,161,0,6,0
 schmiken,158,0,3,0
 schmindie_kid,164,0,4,0
 schmoodub,156,0,43,0
-schmooster,114,3,12,3
+schmooster,114,0,12,0
 schnho,175,0,23,0
 schoenburger,141,0,2,0
 schpanita,167,0,4,0
@@ -64391,7 +64391,7 @@ scott-read,119,0,8,0
 scott-t93,158,0,6,0
 scott21190,150,0,2,0
 scott213,154,0,13,0
-scott295,109,3,6,1
+scott295,109,0,6,0
 scott_1988,180,0,3,0
 scott_cook,76,0,2,0
 scott_d,131,0,2,0
@@ -64439,7 +64439,7 @@ scottnonstop,172,0,6,0
 scottotm,168,0,5,0
 scottpaterson,172,0,5,0
 scottpeters,48,0,3,0
-scottpreston,148,1,7,1
+scottpreston,148,0,7,0
 scottpurvis,144,0,4,0
 scottschoones,184,0,2,0
 scottskins,78,0,8,0
@@ -64476,7 +64476,7 @@ scrapunzel,173,4,7,2
 scratched_vinyl,123,0,14,0
 scratchedguitar,92,0,3,0
 scratchism,109,0,3,0
-scratchmeharder,168,2,6,2
+scratchmeharder,168,0,6,0
 scratchmyname,103,0,5,0
 scratchpod73,150,0,4,0
 scratchy_muffin,149,0,8,0
@@ -64738,7 +64738,7 @@ sendmeanangelx,144,0,9,0
 sendohzorro,187,1,3,1
 seniorweiner43,180,0,1,0
 senoi,81,0,11,0
-senor_cristobal,179,8,9,2
+senor_cristobal,179,1,9,1
 senor_tocadisco,187,0,3,0
 senorcaveman,168,1,5,1
 senorchrees,117,0,7,0
@@ -64821,7 +64821,7 @@ severalg,185,0,2,0
 severecci,133,0,14,0
 severedlegface,93,0,6,0
 severedspirit,147,0,4,0
-sevitzdotcom,171,3,5,1
+sevitzdotcom,171,0,5,0
 sevlowadin,113,0,10,0
 sex_drugs_metal,173,0,14,0
 sexandbiscuits,96,0,8,0
@@ -64872,9 +64872,9 @@ sftrabbit,187,0,3,0
 sfxdude,159,0,4,0
 sg547,167,0,11,0
 sgcwhite,189,0,8,0
-sgibson,166,1,2,1
+sgibson,166,0,2,0
 sglangdon,131,0,2,0
-sgloom,152,1,6,1
+sgloom,152,0,6,0
 sgmatheson,160,1,5,1
 sgperry,194,0,6,0
 sgrayy,82,0,7,0
@@ -64932,7 +64932,7 @@ shakerben,72,0,11,0
 shakermaker1,158,0,9,0
 shakerman911,194,2,9,1
 shakey_Jake,144,0,11,0
-shakeyjake,130,1,12,1
+shakeyjake,130,0,12,0
 shakeyjake22,162,0,2,0
 shakeymacshake,164,0,6,0
 shakswak,171,0,2,0
@@ -65052,7 +65052,7 @@ shaymatt,182,0,5,0
 shaynaicarus,134,0,4,0
 shaypz,117,0,11,0
 shayr_1992,161,1,4,1
-shayster57,24,2,11,1
+shayster57,24,0,11,0
 shaytaun,176,0,14,0
 shaz34,121,0,19,0
 shazaibiqbal,172,0,5,0
@@ -65104,7 +65104,7 @@ shekton,163,1,16,1
 shelbiee,75,0,5,0
 shelby5,157,0,4,0
 shelby_123,104,0,5,0
-shelbygoff,177,1,6,1
+shelbygoff,177,0,6,0
 shelbylizbef,117,0,20,0
 sheldonlt,158,0,7,0
 shell-turner,175,2,1,1
@@ -65133,7 +65133,7 @@ sheps999,121,0,2,0
 sherbetsprite,147,2,5,1
 sherbtail,176,0,2,0
 shereenstrachan,136,0,4,0
-sheridanwilde,162,1,5,1
+sheridanwilde,162,0,5,0
 sheriff_pony,148,2,13,2
 sheringham,44,0,2,0
 sherlock011,89,0,4,0
@@ -65174,7 +65174,7 @@ shifting_level,90,0,5,0
 shifto112,158,0,4,0
 shiftout,98,0,2,0
 shiftplus,128,0,5,0
-shiftshaper,155,8,2,2
+shiftshaper,155,0,2,0
 shiftsix,161,0,5,0
 shiftwork,90,0,3,0
 shiftyraccoon,125,0,6,0
@@ -65187,7 +65187,7 @@ shildrew,167,0,6,0
 shill_21,128,0,2,0
 shimlad,127,0,4,0
 shimmerrose,188,0,3,0
-shimmetry,153,1,1,1
+shimmetry,153,0,1,0
 shimmyandashake,135,0,6,0
 shimmyshimmyyaa,135,0,7,0
 shimmyx3,173,1,4,1
@@ -65198,7 +65198,7 @@ shing,133,0,10,0
 shinohala,185,0,11,0
 shinra999,154,0,12,0
 shinror,139,0,3,0
-shinshinatti,164,2,3,2
+shinshinatti,164,1,3,1
 shinshinuk,159,0,5,0
 shintengo,135,0,12,0
 shiny-chang,125,1,2,1
@@ -65307,7 +65307,7 @@ shredsfm,130,0,6,0
 shrek_65,160,0,27,0
 shrews2010,181,0,6,0
 shrewsburyralph,135,0,8,0
-shrewsfan_07,189,1,1,1
+shrewsfan_07,189,0,1,0
 shreypuranik,121,0,24,0
 shrfz,74,0,15,0
 shrig32,158,0,4,0
@@ -65642,12 +65642,12 @@ simpletense,179,0,6,0
 simplified,162,0,3,0
 simply_aivis,107,0,6,0
 simply_samwise,63,0,6,0
-simplysleep,163,1,12,1
+simplysleep,163,0,12,0
 simproductions,171,1,6,1
 simpson711,163,0,18,0
 simquad,178,0,2,0
 simsan,125,0,10,0
-simsc3,165,2,13,2
+simsc3,165,1,13,1
 simski22,132,0,11,0
 simtryharder,172,0,3,0
 simwrg,172,0,3,0
@@ -65678,7 +65678,7 @@ sinkingwithyou,181,0,9,0
 sinkmilesdeep,35,0,3,0
 sinkquick,124,0,9,0
 sinkshipsjax,143,1,2,1
-sinner4saint,169,1,34,1
+sinner4saint,169,0,34,0
 sinny_,154,0,18,0
 sinsounds,163,0,8,0
 sinth_technique,134,0,8,0
@@ -65819,7 +65819,7 @@ skankindunc,162,0,16,0
 skanking_rob,179,0,2,0
 skankinmushroom,156,0,9,0
 skankoverton,102,0,5,0
-skanky-girl,158,1,10,1
+skanky-girl,158,0,10,0
 skaonthis,37,0,1,0
 skaps123,136,0,3,0
 skarmachild,151,0,6,0
@@ -65961,7 +65961,7 @@ slaang,81,0,7,0
 slab68,186,0,18,0
 slackerbitch_44,77,0,5,0
 slackthumbz,75,0,3,0
-sladefungus,177,9,2,1
+sladefungus,177,0,2,0
 slag866,52,0,5,0
 slagbank,195,0,6,0
 slainery,107,0,2,0
@@ -66053,7 +66053,7 @@ slokes,121,0,13,0
 slonecznikowyy,147,0,6,0
 sloughmo,97,0,3,0
 slowbear,146,0,12,0
-slowcrowjoe,198,3,4,1
+slowcrowjoe,198,0,4,0
 slowfootrecords,138,0,3,0
 slowlyrusting,142,0,3,0
 slowpulse-girl,152,0,4,0
@@ -66207,7 +66207,7 @@ smokeyrodgers,148,0,4,0
 smokeyrodgers92,175,0,4,0
 smoking_gun,141,0,10,0
 smokingdrum,93,0,6,0
-smokinginheaven,187,1,4,1
+smokinginheaven,187,0,4,0
 smoky-xx,150,0,7,0
 smolemon,170,0,5,0
 smomo,187,0,4,0
@@ -66257,7 +66257,7 @@ sneeu,132,0,2,0
 sneggyuser,125,0,6,0
 snellios,102,0,2,0
 sniffyjenkins,150,0,5,0
-snigl3t,187,3,2,2
+snigl3t,187,1,2,1
 snipemoon,95,0,11,0
 snipermouse,96,0,2,0
 sniperpirate,109,0,2,0
@@ -66308,7 +66308,7 @@ soaringkite,132,0,9,0
 soarous,151,0,4,0
 soavie,129,0,4,0
 sobakate,36,0,2,0
-sobble,156,3,6,2
+sobble,156,2,6,2
 sober_shitfaced,136,0,3,0
 soberdave,142,0,2,0
 sobol199,167,0,2,0
@@ -66350,7 +66350,7 @@ sogoth,161,0,8,0
 soheiladolton,167,0,6,0
 sohell,173,0,9,0
 sohoanimator,180,0,8,0
-sohobonobo,93,12,4,1
+sohobonobo,93,0,4,0
 sojahsay,158,0,9,0
 sokar-of-naytu,178,0,12,0
 sokkoh,90,0,3,0
@@ -66387,7 +66387,7 @@ someone-nice,177,0,7,0
 someonesmissing,56,1,7,1
 someotherdarran,186,0,23,0
 somerandomnerd,111,0,19,0
-somersetchris44,193,1,5,1
+somersetchris44,193,0,5,0
 someslenderrest,187,0,7,0
 somessy,139,0,12,0
 somestrangeglow,108,0,9,0
@@ -66549,7 +66549,7 @@ sophiesillman,111,0,2,0
 sophieskyline,122,0,2,0
 sophiestevens92,138,0,11,0
 sophiesucks_,101,0,12,0
-sophiesue,177,1,7,1
+sophiesue,177,0,7,0
 sophiethomsett,80,0,1,0
 sophietough,152,0,4,0
 sophievictoria,98,0,10,0
@@ -66680,7 +66680,7 @@ spacelizard,138,0,2,0
 spaceman3,137,0,20,0
 spacemanthe2nd,156,0,10,0
 spacemonkees,166,0,10,0
-spacemonkey2000,199,35,1,1
+spacemonkey2000,199,0,1,0
 spacemonkey29,178,0,5,0
 spacenewbz,105,0,6,0
 spacepasta,60,1,5,1
@@ -66736,7 +66736,7 @@ sparkles2407,147,0,19,0
 sparkles_rock,107,0,11,0
 sparklesinead,139,0,8,0
 sparklexellie,114,0,1,0
-sparklygemstar,187,1,7,1
+sparklygemstar,187,0,7,0
 sparklysquiz,61,0,25,0
 sparklyteacosie,126,0,8,0
 sparklytights,52,0,1,0
@@ -66900,7 +66900,7 @@ splepp,144,0,2,0
 spli,187,0,3,0
 splinterfaction,107,0,2,0
 splitterwill,141,0,10,0
-sploosh999,173,1,10,1
+sploosh999,173,0,10,0
 spltby23,159,0,14,0
 splurj,153,0,12,0
 splutch0,165,0,9,0
@@ -66916,7 +66916,7 @@ spongecake,119,0,1,0
 spongepeat,145,0,24,0
 sponsoredby,120,0,20,0
 spoofadoofa,141,3,3,2
-spoofoid,139,12,13,1
+spoofoid,139,0,13,0
 spooks1956,142,0,14,0
 spooky50,141,0,7,0
 spookydirt,115,0,2,0
@@ -66978,7 +66978,7 @@ squage,152,0,3,0
 squall457,141,0,21,0
 squallman1,47,0,4,0
 squam,123,0,12,0
-squanderlust,174,1,17,1
+squanderlust,174,0,17,0
 squaredoffagain,168,0,5,0
 squareone13,137,0,11,0
 squashpot2,106,0,3,0
@@ -67156,7 +67156,7 @@ starli313,125,1,3,1
 starlight521,167,2,9,2
 starlight77,131,0,3,0
 starliner,89,0,6,0
-starmix-,169,1,6,1
+starmix-,169,0,6,0
 starmixer1,121,0,2,0
 starmonkee,142,0,4,0
 starnova,176,0,14,0
@@ -67292,7 +67292,7 @@ stefhone,149,0,3,0
 stefi113,72,0,10,0
 stefiscake,155,0,9,0
 stefosbrook,185,0,17,0
-stefp,155,11,5,1
+stefp,155,0,5,0
 stefranceuk,123,0,6,0
 stefshoffren,195,0,7,0
 stefthomas3d,159,1,13,1
@@ -67443,7 +67443,7 @@ stevebent,139,0,11,0
 steveblock,177,0,3,0
 stevebombedout,140,0,4,0
 steveboswell,155,0,7,0
-stevebullno9,144,3,5,1
+stevebullno9,144,0,5,0
 stevec77,165,1,9,1
 steveclifforduk,70,0,10,0
 stevecollins198,163,0,7,0
@@ -67504,7 +67504,7 @@ stever_uk,94,0,4,0
 stevera,108,0,5,0
 steveredbull,80,0,13,0
 steverf,141,0,12,0
-steverhiggs,170,1,8,1
+steverhiggs,170,0,8,0
 steverose798,174,0,8,0
 steverumens,34,0,1,0
 steverumsby,161,0,17,0
@@ -67518,7 +67518,7 @@ stevewelburn,175,0,10,0
 stevewxm,155,0,7,0
 stevey_,134,0,8,0
 steveyh,166,1,2,1
-steveyoung74,184,1,2,1
+steveyoung74,184,0,2,0
 steveysham,80,9,3,2
 steveytevey,107,0,3,0
 steveywonder28,125,0,6,0
@@ -67549,7 +67549,7 @@ steviiexo,118,1,13,1
 stevious,143,0,7,0
 stevish,161,0,12,0
 stevo10001,168,0,4,0
-stevo120665,197,1,2,1
+stevo120665,197,0,2,0
 stevobaby,127,0,16,0
 stevoc,131,0,4,0
 stevospinks,88,0,7,0
@@ -67688,7 +67688,7 @@ stormin990,124,0,8,0
 stormkeeper,136,2,11,1
 stormod,167,0,8,0
 stormsilver,131,0,4,0
-storyfootprints,124,1,4,1
+storyfootprints,124,0,4,0
 storyjake,105,0,2,0
 storytellers,21,0,4,0
 storyunfolds,71,0,6,0
@@ -67731,7 +67731,7 @@ strawberrypops,180,0,2,0
 strawberrywine_,167,0,6,0
 strawberyutopia,114,0,6,0
 strawbleu,172,0,4,0
-strawpig,163,1,11,1
+strawpig,163,0,11,0
 strayebyrd,97,0,14,0
 straymuse,53,0,6,0
 streamsofstars,152,0,4,0
@@ -67809,7 +67809,7 @@ stuarthallifax,191,0,6,0
 stuartinsh,139,0,4,0
 stuartknapman,118,0,17,0
 stuartleech,178,0,10,0
-stuartmc,160,7,1,1
+stuartmc,160,0,1,0
 stuartmilgram,178,0,6,0
 stuartmoffat,123,0,4,0
 stuartnewman,144,0,8,0
@@ -67832,7 +67832,7 @@ stucorbs,135,0,5,0
 student_maze,181,0,11,0
 studentguyuk,100,0,3,0
 studiobrazley,75,0,7,0
-studioneck,157,2,2,1
+studioneck,157,0,2,0
 studioromeo,192,0,4,0
 studleydave,99,1,1,1
 studlywonder,147,0,11,0
@@ -68084,7 +68084,7 @@ superfurrythom,109,0,2,0
 supergaz183,174,0,3,0
 supergiannio,167,0,3,0
 supergirl92,173,2,16,1
-superherofae,186,1,6,1
+superherofae,186,0,6,0
 superimpossible,127,0,2,0
 superiorfixies,91,0,8,0
 superiphi,143,0,4,0
@@ -68280,7 +68280,7 @@ sweetpea_maggot,191,0,10,0
 sweetpeagreen,169,0,4,0
 sweetporcelain,176,3,4,2
 sweetrainbow74,177,0,4,0
-sweetsaliva,147,1,5,1
+sweetsaliva,147,0,5,0
 sweetshopa,149,0,8,0
 sweetsounding,171,0,10,0
 sweetsweet,163,0,3,0
@@ -68555,7 +68555,7 @@ tech4,85,0,10,0
 tech_junky,133,0,5,0
 techbelly,170,0,13,0
 techfreak-ssm,133,1,13,1
-techie-nerdo,141,1,10,1
+techie-nerdo,141,0,10,0
 techlightenment,139,0,11,0
 technex,167,0,12,0
 techniCOLOUR-,112,0,6,0
@@ -68591,7 +68591,7 @@ teegyweegyRAWR,52,0,4,0
 teej-79,80,0,7,0
 teejjonez,159,0,5,0
 teekaymax,96,0,3,0
-teelahead,177,2,4,2
+teelahead,177,0,4,0
 teelaine,157,0,6,0
 teen-spirit-,78,0,2,0
 teenageskin,163,0,15,0
@@ -68864,7 +68864,7 @@ theSpandexman,104,0,2,0
 theZunari,103,0,13,0
 the__ross,124,35,2,1
 the_alice,128,0,11,0
-the_amwel,171,1,23,1
+the_amwel,171,0,23,0
 the_ansion,36,0,7,0
 the_axe,140,0,4,0
 the_battle,59,0,4,0
@@ -68947,7 +68947,7 @@ the_time_keeper,166,0,3,0
 the_treat,118,0,5,0
 the_uber_glitch,172,0,3,0
 the_whitmaster,123,0,7,0
-the_wookie,105,1,4,1
+the_wookie,105,0,4,0
 the_wronggirl,163,0,6,0
 theaaamcleto,64,0,2,0
 theabstracts,1,0,1,0
@@ -68962,7 +68962,7 @@ theallmovieblog,171,0,8,0
 thealt,174,2,1,1
 theamay,50,0,3,0
 theamazingmeg,170,0,7,0
-theambergambler,181,1,2,1
+theambergambler,181,0,2,0
 theamericanorig,120,0,6,0
 theamichael,149,0,2,0
 theanaa,117,0,4,0
@@ -69005,12 +69005,12 @@ theblacktongue,130,0,13,0
 theblazingskulk,162,0,9,0
 theblondette,146,0,10,0
 theblueneutrino,138,0,3,0
-thebluewalrus,134,1,23,1
+thebluewalrus,134,0,23,0
 thebolsh,95,0,5,0
 thebombcircle,147,0,14,0
 thebookcoop,131,0,12,0
 thebookofmike,118,0,3,0
-theboredone,166,1,2,1
+theboredone,166,0,2,0
 theboybarry,160,0,3,0
 theboyblack,163,0,11,0
 theboylogan,159,1,19,1
@@ -69128,7 +69128,7 @@ thegaymetaller,84,0,4,0
 thegdog,176,0,4,0
 thegenuinemoz,136,0,6,0
 thegeordielass,124,0,6,0
-thegiant86,131,1,13,1
+thegiant86,131,0,13,0
 thegigghost,56,0,5,0
 thegiggleloop,155,0,7,0
 theginganinja,174,0,2,0
@@ -69269,9 +69269,9 @@ themonkeymafia1,93,0,2,0
 themonsterball,106,0,2,0
 themoose8,170,0,3,0
 themsubtle,174,0,15,0
-themtherethingy,123,2,6,2
+themtherethingy,123,0,6,0
 themuckypup,81,0,12,0
-themusicpunx,84,2,1,1
+themusicpunx,84,0,1,0
 themusicradar,191,0,2,0
 themustangbitch,118,0,6,0
 themyouth,99,0,4,0
@@ -69325,7 +69325,7 @@ thepeopleperson,133,0,2,0
 theperyls,162,0,25,0
 thepeterep,131,0,4,0
 thephine,46,0,3,0
-thephoenix88,134,4,6,2
+thephoenix88,134,3,6,2
 thepinch,182,1,8,1
 thepinkertones,105,0,12,0
 thepinkhandbag,102,0,13,0
@@ -69389,7 +69389,7 @@ thesafestplace,82,0,6,0
 thesaltydog,177,0,4,0
 thesambarnes,174,0,5,0
 thesan,84,0,8,0
-thesarah,132,1,22,1
+thesarah,132,0,22,0
 thesatellitetow,158,0,11,0
 theschadt,158,0,11,0
 theseanfetish,154,1,9,1
@@ -69516,7 +69516,7 @@ thickasblood1,183,0,10,0
 thiessu,28,0,1,0
 thindown_ollie,160,0,13,0
 thindz91,136,0,5,0
-thing2,158,1,8,1
+thing2,158,0,8,0
 thingsguide,131,0,9,0
 thingsparanoids,61,0,5,0
 thinksmall,139,0,6,0
@@ -69610,7 +69610,7 @@ thomasdigby,172,0,8,0
 thomasdolan,198,0,2,0
 thomasdoranbbz,138,0,7,0
 thomasducel,100,0,3,0
-thomaseccles,122,2,3,1
+thomaseccles,122,0,3,0
 thomasegb,148,0,6,0
 thomasfide,144,0,4,0
 thomasforsyth,166,0,16,0
@@ -69938,7 +69938,7 @@ tinytimgoodings,133,0,16,0
 tinyzero,164,0,2,0
 tinzDROID,145,2,8,1
 tiochaidhanla,174,0,14,0
-tipaseria,118,1,6,1
+tipaseria,118,0,6,0
 tipikid,113,0,6,0
 tipkanui,162,0,3,0
 tipofthehat,167,0,2,0
@@ -70199,7 +70199,7 @@ tomblaxland,155,0,8,0
 tomboh,158,0,11,0
 tombojombo,122,37,3,1
 tombom07,144,0,2,0
-tombom23,155,2,3,1
+tombom23,155,0,3,0
 tombontom,139,0,8,0
 tombowe79,154,0,2,0
 tombradleydrums,141,0,13,0
@@ -70339,7 +70339,7 @@ tommyology,128,0,17,0
 tommyomg,117,0,1,0
 tommypuk,152,0,4,0
 tommystevens,161,0,10,0
-tommytentimes,185,1,2,1
+tommytentimes,185,0,2,0
 tommytfunk,133,0,11,0
 tommytibbs,157,0,8,0
 tommywommywoo,168,0,3,0
@@ -70452,7 +70452,7 @@ tonic48,182,0,3,0
 tonicblue,127,0,5,0
 tonicipriani,102,0,6,0
 tonight_matthew,122,0,2,0
-tonight_we_fly,161,12,12,3
+tonight_we_fly,161,1,12,1
 tonisaparasite,68,0,5,0
 tonishiel,141,1,3,1
 toniv77,146,0,10,0
@@ -70616,7 +70616,7 @@ tr_ash_angi3,170,0,2,0
 tracedaz,178,0,1,0
 tracerhand,170,0,1,0
 tracethestars,159,0,7,0
-traceybradley,109,9,4,1
+traceybradley,109,0,4,0
 traceydayparade,23,0,2,0
 traceylj,131,0,5,0
 tracezi,139,0,8,0
@@ -70641,7 +70641,7 @@ tranq_707,175,0,9,0
 tranquil_demon,116,0,2,0
 tranquilgerd,125,0,13,0
 transatlantic2,160,0,6,0
-transmission000,153,1,2,1
+transmission000,153,0,2,0
 transmission23,43,0,7,0
 transmitfailure,84,0,8,0
 trapped_kid,116,0,2,0
@@ -70687,7 +70687,7 @@ trendy-mo,127,0,9,0
 trent576,93,0,2,0
 trent84,163,0,3,0
 trentboy2,127,0,4,0
-treppass,119,4,11,1
+treppass,119,0,11,0
 tresgnarly,132,0,4,0
 trev1011,14,0,2,0
 trev313339,151,0,20,0
@@ -70727,7 +70727,7 @@ triggertrix,180,0,16,0
 trikkydikkyy,145,0,7,0
 trilby_foxglove,111,0,4,0
 trilegseaspider,144,0,10,0
-trillion1,107,1,9,1
+trillion1,107,0,9,0
 trimmah,157,0,5,0
 trina_ribena,164,0,5,0
 trinahh21,137,0,8,0
@@ -70769,7 +70769,7 @@ trobadopalous,71,0,1,0
 trobinson555,162,0,11,0
 trocket_x,176,1,4,1
 trogdorseddon,99,0,11,0
-troika_ness,132,2,9,1
+troika_ness,132,0,9,0
 trolleywood88,131,0,4,0
 trollhammer0210,145,0,2,0
 trolliedphil,64,0,5,0
@@ -70797,7 +70797,7 @@ trsulley,172,0,7,0
 trubb,176,0,4,0
 trucknroll,146,0,6,0
 truckstopblues,149,0,12,0
-trudi74,182,2,3,2
+trudi74,182,1,3,1
 trudielee-jones,50,0,2,0
 trudikee,169,0,7,0
 trudles,97,0,4,0
@@ -70873,7 +70873,7 @@ tucats,159,0,11,0
 tucker91,165,3,26,3
 tucklin,171,0,7,0
 tudj,146,0,5,0
-tuesdayclub,160,27,15,3
+tuesdayclub,160,26,15,2
 tuff_ghost,149,0,8,0
 tuffcustard,138,0,15,0
 tuftsy,141,0,7,0
@@ -70918,7 +70918,7 @@ turnheron,175,0,5,0
 turnofautumn,134,0,4,0
 turnonthenews,188,0,3,0
 turnstone,167,0,2,0
-turpentinekissx,124,1,10,1
+turpentinekissx,124,0,10,0
 turquoisefloyd,163,0,13,0
 turro123,166,0,8,0
 turtledisc,146,0,12,0
@@ -70926,7 +70926,7 @@ tusfotografias,125,1,8,1
 tusiimefm,71,0,6,0
 tuskez,151,0,2,0
 tutifluti,166,0,5,0
-tuvoksg1,131,1,3,1
+tuvoksg1,131,0,3,0
 tuxdogg,157,0,8,0
 tvideira,123,0,2,0
 tvtray,143,0,8,0
@@ -71085,7 +71085,7 @@ uglyfeet,12,0,2,0
 ugomatic,144,0,7,0
 uhhrhona,172,2,3,1
 uhhuhlex,133,0,5,0
-uhohnextdoor,80,1,4,1
+uhohnextdoor,80,0,4,0
 uisgebeatha,183,0,4,0
 uk-dave,141,0,11,0
 uk_kanako,106,0,5,0
@@ -71129,7 +71129,7 @@ ultimate60s,186,0,2,0
 ultimate_ninny,162,0,5,0
 ultrachronic,180,0,5,0
 ultrafoetus,150,0,3,0
-ultrarealism,175,12,2,1
+ultrarealism,175,0,2,0
 ultrasunshine,162,0,7,0
 ultraviolence0o,101,0,10,0
 ultraviolet_,87,0,7,0
@@ -71147,7 +71147,7 @@ umm_nick,179,0,21,0
 umma-ohz,116,0,10,0
 unMadison,57,0,5,0
 unaesthetic,175,0,2,0
-unapersson,154,12,3,1
+unapersson,154,0,3,0
 unchainedspirit,129,0,11,0
 unchartedaudio,13,0,1,0
 unchiyoko,69,0,5,0
@@ -71162,7 +71162,7 @@ unclesquid,88,0,6,0
 uncoiledtiger,148,0,6,0
 uncouthamerican,111,0,4,0
 uncy_chris,173,0,5,0
-und3adch3f,92,2,12,2
+und3adch3f,92,0,12,0
 unda_vybe,173,0,3,0
 undeadboy,159,0,4,0
 undeaded,169,0,2,0
@@ -71238,7 +71238,7 @@ unstable_muse,127,0,3,0
 unstableenemy,120,2,19,2
 unsuitablecrush,180,0,8,0
 unsungeegit,178,0,4,0
-unswivel,57,11,3,1
+unswivel,57,0,3,0
 untilwebleed,159,0,3,0
 untinker,192,0,8,0
 untitledjp,80,0,5,0
@@ -71250,13 +71250,13 @@ untrustus__,155,3,5,1
 untruth,134,0,3,0
 untunedmonkey,165,0,1,0
 ununpentium,172,1,5,1
-unuspromulti,171,1,4,1
+unuspromulti,171,0,4,0
 unusual_stalker,165,1,10,1
 unusualcammie,129,0,3,0
 unwanted_kisses,142,0,3,0
 unzagi,85,35,2,2
 uoza92,81,0,10,0
-upekha,145,12,4,1
+upekha,145,0,4,0
 upgrade789,108,0,9,0
 upinthisbitchh,107,0,8,0
 upnorthkid,167,0,4,0
@@ -71327,7 +71327,7 @@ uxolego,183,0,3,0
 uzugexe,172,0,5,0
 uzusan,95,0,6,0
 v0lumedeadtone,147,0,8,0
-v0rny,122,3,10,2
+v0rny,122,0,10,0
 v1ckstar,158,0,5,0
 v3n,148,0,13,0
 v79,192,1,8,1
@@ -71357,7 +71357,7 @@ valentin-solal,144,0,8,0
 valerieroxy112,184,0,10,0
 valetines-,138,0,10,0
 valhallaglory,160,0,2,0
-valiumbabe,156,1,3,1
+valiumbabe,156,0,3,0
 valkyrie81,171,0,11,0
 vallely,127,0,3,0
 vallen7,123,0,3,0
@@ -71446,7 +71446,7 @@ vegginess,132,0,7,0
 veim666,67,0,7,0
 velandrak,170,0,8,0
 veltonvelton,173,1,6,1
-velvet31,80,1,13,1
+velvet31,80,0,13,0
 velvetbird,105,0,2,0
 velveteagle,167,0,7,0
 velvetjess,177,1,3,1
@@ -71788,7 +71788,7 @@ vwarecool1990,102,0,16,0
 vwminibus,134,0,3,0
 vx_GASMAN,121,0,2,0
 vyp0r,138,0,1,0
-vyvyenne,180,2,3,1
+vyvyenne,180,0,3,0
 vzaar,152,0,1,0
 w00sh,152,0,4,0
 w0lfman,177,0,6,0
@@ -71909,7 +71909,7 @@ warkc,133,0,2,0
 warleh,146,0,1,0
 warlord_juzzle,173,0,7,0
 warlordgeorge,186,0,5,0
-warm-milk,171,2,9,2
+warm-milk,171,0,9,0
 warman42,97,0,3,0
 warmaster86,174,0,3,0
 warmfusion,181,2,2,1
@@ -72084,7 +72084,7 @@ weenoid,189,0,3,0
 weequizzie,132,0,7,0
 weesisJ,160,0,6,0
 weet_abix,166,0,16,0
-weevally,163,19,9,1
+weevally,163,0,9,0
 weewor,141,0,12,0
 weeyinnn,140,0,7,0
 weezie_345,99,0,5,0
@@ -72251,7 +72251,7 @@ whereisbob,107,0,7,0
 whereismymatt,178,0,8,0
 whereistherent,100,0,2,0
 wheres-my-hat,135,0,9,0
-wheresfremsley,184,9,7,1
+wheresfremsley,184,0,7,0
 wheresmymoney,98,1,7,1
 wherestheboat,128,0,4,0
 wherestheparty,164,0,15,0
@@ -72585,11 +72585,11 @@ wishmastergr,131,0,5,0
 wishville,126,3,6,3
 wisienka77,185,0,6,0
 wisiens,121,0,2,0
-wisteela,161,2,20,2
+wisteela,161,0,20,0
 wit40iwtwan,58,0,1,0
 witanak,137,6,18,1
 witchazel86,115,0,9,0
-witchcrft,175,1,8,1
+witchcrft,175,0,8,0
 witchfinder_gen,165,0,7,0
 witchheart,130,0,7,0
 witchytash,109,1,9,1
@@ -72619,10 +72619,10 @@ wizardsbeard,174,0,11,0
 wizbiscuit,136,0,3,0
 wizbongre,179,0,6,0
 wizened,142,0,5,0
-wizzardhat,130,1,4,1
+wizzardhat,130,0,4,0
 wizzo4life,88,0,5,0
 wizzooo,141,0,2,0
-wizzy_w,161,1,2,1
+wizzy_w,161,0,2,0
 wizzylizzie,152,0,3,0
 wjow69,127,0,11,0
 wjshaw2,160,0,15,0
@@ -72721,7 +72721,7 @@ wookieewookz,54,0,2,0
 wookiefm,133,0,8,0
 wookieman25,133,0,16,0
 wookmajster,187,0,3,0
-woolfat,153,1,3,1
+woolfat,153,0,3,0
 woolley1986,142,0,4,0
 woolley90,163,0,19,0
 woolliscroft,101,0,4,0
@@ -72732,7 +72732,7 @@ woomusicness,14,0,2,0
 woontime,166,0,6,0
 wooooooooooooop,159,1,15,1
 wootinks,157,0,15,0
-wootnoob,176,1,5,1
+wootnoob,176,0,5,0
 words_of_sorrow,93,0,5,0
 wordsfromme,110,9,7,3
 wordsfromreuben,119,0,17,0
@@ -72903,7 +72903,7 @@ xDanaShaw13x,50,0,17,0
 xDark_Oblivionx,91,0,2,0
 xDarryl,47,0,6,0
 xDeVaStAtEdx,109,0,2,0
-xDefyGravityx,167,2,6,1
+xDefyGravityx,167,1,6,1
 xDirtyDazzler,167,0,6,0
 xDixon,52,0,3,0
 xDramatick,43,0,4,0
@@ -72983,7 +72983,7 @@ xNiallx,46,0,5,0
 xNineEvilLights,55,0,2,0
 xNinjaTom,103,0,5,0
 xNintendoxGirlx,152,0,9,0
-xNon-Existantx,130,5,10,2
+xNon-Existantx,130,4,10,1
 xOJK,123,0,10,0
 xOllieBurtonx,84,0,3,0
 xPSCx,123,0,3,0
@@ -73266,7 +73266,7 @@ xidawavex,77,0,8,0
 xidon1,116,0,13,0
 xiemi,109,0,3,0
 ximlike,73,0,2,0
-ximoun123109,181,2,13,2
+ximoun123109,181,0,13,0
 xin7,136,0,6,0
 xinaesthetic,165,0,7,0
 xine,159,0,14,0
@@ -73425,7 +73425,7 @@ xsilverx,172,0,17,0
 xsimx,137,0,1,0
 xsinkorswim,148,0,19,0
 xsiobhaaaan,144,0,3,0
-xsjdx,172,2,12,2
+xsjdx,172,0,12,0
 xsmilerx,72,0,7,0
 xsmurfette,138,0,3,0
 xsoapx,101,0,5,0
@@ -73593,7 +73593,7 @@ yanduer,158,0,2,0
 yankcrime,69,0,2,0
 yankeebirdhouse,179,0,8,0
 yankeeragu,149,0,6,0
-yankunian,177,1,2,1
+yankunian,177,0,2,0
 yann303,135,0,12,0
 yanni-depp,135,0,6,0
 yannis_ci,102,0,15,0
@@ -73721,7 +73721,7 @@ ymdmanchester,109,0,10,0
 yngwie_m,129,0,3,0
 ynnoj2,63,0,2,0
 ynotmain,163,6,4,1
-yo_daniel,110,1,2,1
+yo_daniel,110,0,2,0
 yobunny,102,1,12,1
 yocloclo,71,0,4,0
 yocornflake,158,0,5,0
@@ -73756,7 +73756,7 @@ yorkshiremod,120,0,11,0
 yorkshirerachel,87,9,7,1
 yorkshiresprite,159,0,9,0
 yosc,72,0,2,0
-yosemite,126,1,3,1
+yosemite,126,0,3,0
 yosh2008,138,0,2,0
 yoshagogo,149,0,4,0
 yoshimitsu_,130,0,3,0
@@ -73774,7 +73774,7 @@ youandyourtune,126,0,4,0
 youareacontra,151,0,2,0
 youareafever,160,1,19,1
 youarekloot,139,0,11,0
-youarenotcool,143,1,4,1
+youarenotcool,143,0,4,0
 youarenotnicola,164,0,9,0
 youaresee,157,0,5,0
 youaresomegayyy,134,0,5,0
@@ -73914,7 +73914,7 @@ zakistan,60,0,6,0
 zakorakis,109,0,6,0
 zakr21,87,0,4,0
 zamx,151,0,3,0
-zamy,97,1,8,1
+zamy,97,0,8,0
 zan_2003,96,0,3,0
 zancattt,73,0,3,0
 zanchius,86,0,2,0
@@ -73932,7 +73932,7 @@ zappa100,176,0,1,0
 zarahalabi,163,0,8,0
 zararara,97,0,5,0
 zarawr,53,0,2,0
-zardok,187,1,7,1
+zardok,187,0,7,0
 zarembianka,156,0,4,0
 zarftrain,176,0,5,0
 zari86,111,0,6,0
@@ -73981,7 +73981,7 @@ zell_ahoy,179,1,2,1
 zen-archist,61,0,12,0
 zen_smile,120,0,4,0
 zenagency,151,0,25,0
-zenbullets,159,1,7,1
+zenbullets,159,0,7,0
 zenfroglet,146,0,3,0
 zengiz,167,0,1,0
 zenguides,118,0,2,0
