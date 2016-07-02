@@ -96,7 +96,6 @@ def create_nodes_info(nodes, users_listenings):
     for node in nodes:
         nodes_info[node] = {}
         node_neighbors = network.neighbors(node)
-
         nodes_info[node]['degree'] = len(node_neighbors)
         nodes_info[node]['neighbors_avg_listenings'] = get_neighbors_avg_listenings(node_neighbors, users_listenings)
         nodes_info[node]['neighbors_avg_artist_listenings'] = get_neighbors_avg_artist_listenings(node_neighbors, users_listenings)
@@ -104,6 +103,7 @@ def create_nodes_info(nodes, users_listenings):
         nodes_info[node]['neighbors_avg_artist_weeks'] = get_neighbors_avg_artist_weeks(node_neighbors, users_listenings)
         # print nodes_info[node]
     return nodes_info
+
 
 def write_nodes_info(node_info, users_listenings_with_frindes_path):
     out_file = open(users_listenings_with_frindes_path, "w")
@@ -126,6 +126,4 @@ users_listenings = load_users_listenings(users_listenings_path)
 nodes_info = create_nodes_info(nodes, users_listenings)
 write_nodes_info(nodes_info, users_listenings_with_frindes_path)
 
-
 # print nodes_info
-

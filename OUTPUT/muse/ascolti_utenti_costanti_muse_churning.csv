@@ -1,0 +1,219 @@
+id,churn,reason
+magnoliamace,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+AliciaSumpter,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+musefan84,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+BENecol,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+ossanossan,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+rspython,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+ten-24,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+dunkster,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+Zaphod69,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+Supm8s,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+matskiC,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+0m3rt4,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Ash568,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+__kali__,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+Kal-Faegan,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+rosscmoore02010,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Sean-C-7,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+nicola_muse,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+Mr_Softie,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Kirsteek,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+nonnis89,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+PurePolitePale,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+mellowyellow89,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+HetJammin,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+Redbaron123,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+PieForSlipper,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+joefi,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+klarasky,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+DiabloLiam1212,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+arranwicher,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+jimmy_dc,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+andymason89,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+BrandonCourage,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+BethTomlinson,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Doyle-Doyle,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Lixypie,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+Gareeh,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Craig450,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+WeirdFaerie,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+SPCotter,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+thebigalan39,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+citizenerased16,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+mai_taylor,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+EmergencyExit,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+swawrzyniak,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+SarahChiefette,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+Suicidal_Steve,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+jdarladimas,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+Navarre0,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+Saymantha,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+DarthDan,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+HenryBaines,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+pineapple_munch,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+Bobbyroana,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+sestrensaz,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+raychxangel,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+muse959,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+ciudadano_d,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+soundtruth,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Da1e,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+MicrocutsAC,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+ashleighleanne,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+Aurora7804,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+spiritquest,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Disasterplan,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+gavbaby,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+gboyers,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+carlyannetonner,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+DeanoMachino,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+Joe120,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+wee_fred,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+ratchetnclank,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+Tombirculosis,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+enasnimark,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+Burtinator,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+BomBadillic,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+samthomsa,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Jimbob3005,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+Lulu_Natasha,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+Ashimar,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+sloberingdog,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+laurenw95,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+coheed87,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+hattiebabes,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+lynzyb,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+mikenv,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+theragingkiwi,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+tardispikachu,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+flytopia,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+spiritofjazz,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+mattrocious,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+gunnars18,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+musey84,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+FUNKmillitia,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+NickTuck,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+tomrulez,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+anrky4000,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+Kennethcml,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Ordinary-Monkey,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+red_alan,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+StarstruckAngel,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+BlueDwaggin,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+joshscuse,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+shvandar,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+lovelindsay,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+clockworkpurple,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+Pixaul,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+ghosts-,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+viewfromabridge,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+sarabian,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+AlexDrake,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+pixiebell85,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+OmgDibble,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+sharpy117,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+X_Fayli_X,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+Lenatalia,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+Brandon-rocks,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+Laceyful,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+mudderfupper,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+ffionsgay,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+dwaddington,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+robwellington03,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+Kaeroll,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+jimmywul,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+danshq,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+liamwolf,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+skaneda,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+dreamyourealive,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+Renard99,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+langurmonkey,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+PhilSlot,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+jjbeeson,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+laffinnome,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+johnnyyy_rocks,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+MissHelenT,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+isitzain,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+TheBearsome,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+3soTeriC,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+LibraryMatt,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+djcati,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+firked,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Grace_Ox,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+Rissared,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+jonlowndes,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+harris.kirk,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+MattMuse55,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+TayTayRVD,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+carlwalton,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+krispykremes90,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+O8lewisjos,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+dupingdelight,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Matthew66,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Sebastien_SAFC,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+ermmgem,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+mr_x,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+Alza_Corp,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+oblet,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+turkystuffing,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+strattyrudge,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+sacko87,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+tuesdayclub,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+666Spawn,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+miss_musey,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Jmoqueen,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+kezzie_p,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Kelvin7,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+RACooperman,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+LilSparkliBunni,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+dAvik42,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+LunarScope,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+PrincessJude,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+metrule89,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+deadstar37,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+StaticVeins,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+CrimsonCheeks27,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+IYW,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+craigy_mac,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+charlycrash,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+LilySparks,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+stupendo,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+Thracian,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+CantFoolOwls,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+WizardParadox,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+Noobleton,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Andy_Cliff,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+sunshine1shell,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+peterjamesford,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+jamescram,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Groovurism,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+MisterMouse,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+nathan_face,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+followiill,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+TheRealMez,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+twiggy8520,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+timrickaby,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+penguindan,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+EmiweeHale,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+daniellebeeson,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+Umwongo,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+Demigod1993,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+Kung-Fu_Devil,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+Jazzy_hall,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+jax359,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+Daren68,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+version3point1,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+jayjay_jayme,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+xmalvdeadx,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
+marieeeel,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+flashstepandy,1,B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3
+ash_walker,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+maccathesaint,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+nouveller,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+salopian,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+MatthiasEdgar,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+nikkistargirl,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
+CieleFu,1,D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15
+andrew_ackrell,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
+molkatt,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15

@@ -140,7 +140,7 @@ def load_user_listenings_week_count():
 
 def load_user_listenings_week_artist_count(artist_name):
     user_listenings_week_artist_count = {}
-    df = load_csv("user_listenings_week_final_merged.csv")
+    df = load_csv("muse/user_listenings_distribution_muse.csv")
     # df = load_csv("provaprova2.csv")
     grouped_users = df.groupby('user_id')
     # count = 0
@@ -149,35 +149,30 @@ def load_user_listenings_week_artist_count(artist_name):
         user_dict = {}
         for index,row in user_week.iterrows():
             user_dict[row['week_year']] = {}
-            user_dict[row['week_year']]['tot'] = int(row['total_count'])
-            if not hasattr(user_dict[row['week_year']], 'art'):
-                # print "--------------------"+str(user_dict[row['week_year']]['art'])
-                user_dict[row['week_year']]['art'] = 0
+            user_dict[row['week_year']]['tot'] = int(row['num_ascolti_totali'])
+            user_dict[row['week_year']]['art'] = int(row['num_ascolti_artista'])
 
-            if artist_name in row['artist']:
-                # print "\n"+str(key) + "  >>>   "+str(row['week_year'])+" --- "+str(row['artist']) +": "+ str(int(row['artist_count']))
-                user_dict[row['week_year']]['art'] = int(row['artist_count'])
-                # print "\t"+str(row['week_year'])+" => "+str(user_dict[row['week_year']])
-                # print "..............."+str(user_dict[row['week_year']]['art'])
+            # if artist_name in row['artist']:
+            #     # print "\n"+str(key) + "  >>>   "+str(row['week_year'])+" --- "+str(row['artist']) +": "+ str(int(row['artist_count']))
+            #     user_dict[row['week_year']]['art'] = int(row['artist_count'])
+            #     # print "\t"+str(row['week_year'])+" => "+str(user_dict[row['week_year']])
+            #     # print "..............."+str(user_dict[row['week_year']]['art'])
 
-        print user_dict
+        # print user_dict
 
         user_listenings_week_artist_count[key] = dict(sorted(user_dict.iteritems(), key=lambda (k, v): k))
         # print str(key)+" => " + str(user_listenings_week_artist_count[key])
     return user_listenings_week_artist_count
 
-def plot_random_user_listenings_week_artist_count(user_listenings_week_artist_count,artist=""):
-    file = open('../OUTPUT/utenti_univoci_Coldplay.txt')
-    random_user_list_file = []
-    for i in file:
-        random_user_list_file = eval(i)
-        break
-    random_user_list = []
+def plot_users_listenings_week_artist_count(user_listenings_week_artist_count, artist=""):
+    file = open('../OUTPUT/muse/utenti_costanti.csv')
+    user_list = []
+    for l in file:
+        user_list.append(l.rstrip())
+        print l
 
-    for i in range(50):
-        random_user_list.append(random.choice(random_user_list_file))
-
-    for i in random_user_list:
+    print ">>> "+str(len(user_list))+"\n"
+    for i in user_list:
         print str(i) + " => " + str(user_listenings_week_artist_count[i])
         plot_user_tot_and_artist_distribution(user_listenings_week_artist_count[i], out="../PLOT/RandomUserPlots/" + str(i) +"_"+ artist + ".jpg")
 
@@ -193,7 +188,7 @@ def plot_user_tot_and_artist_distribution(g_data, out=None):
         # print str(key)+": "+str(value)
         x_axis.append(count)
         y_axis_tot.append(value['tot'])
-        y_axis_artist.append(value['artist'])
+        y_axis_artist.append(value['art'])
         genres_label.append(key)
         count += 1
 
@@ -208,16 +203,17 @@ def plot_user_tot_and_artist_distribution(g_data, out=None):
     plt.gca().yaxis.grid(True)
     if (out):
         plt.savefig(out, bbox_inches="tight")
-    plt.show()
+        plt.close()
+    # plt.show()
 # user_listenings_millis, user_listenings_week = load_listenings_genre_merged()
 
 # create_user_listenings_descr(user_listenings_millis)
 
 # create_user_listenings_week_count(user_listenings_week)
 
-user_listenings_week_artist_count = load_user_listenings_week_artist_count('Coldplay')
-# plot_user_tot_and_artist_distribution(user_listenings_week_artist_count['peacherix'])
-plot_random_user_listenings_week_artist_count(user_listenings_week_artist_count, 'Coldplay')
+user_listenings_week_artist_count = load_user_listenings_week_artist_count('Muse')
+# plot_user_tot_and_artist_distribution(user_listenings_week_artist_count['0m3rt4'])
+plot_users_listenings_week_artist_count(user_listenings_week_artist_count, 'Muse')
 
 # user_listenings_artist_week = create_user_listenings_week_artist()
 # create_user_listenings_artist_week_count(user_listenings_artist_week)
