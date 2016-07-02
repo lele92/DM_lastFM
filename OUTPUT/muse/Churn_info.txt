@@ -1,0 +1,42 @@
+
+Parametri:
+
+MIN_LISTENINGS_LAST_THREE_WEEKS = 3
+THRESHOLD_LISTENINGS = 3
+THRESHOLD_QUOTA_TOT = 0.10
+THRESHOLD_QUOTA_TWO_WEEKS = THRESHOLD_QUOTA_TOT + 0.10 # deve essere maggiore di THRESHOLD_QUOTA_TOT
+THRESHOLD_QUOTA_ARTIST_WEEKS = 0.65
+THRESHOLD_QUOTA_LAST_THREE_WEEKS = 0.10
+
+Risultati:
+
+A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto: 63
+B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3: 23
+C - [NOT CHURNER] quota settimane ascolto artista >= 0.65: 38
+D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.1: 20
+E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.1: 74
+
+churn rate = circa 49%
+---------------------------------------------------
+
+Parametri:
+
+MIN_LISTENINGS_LAST_THREE_WEEKS = 3
+THRESHOLD_LISTENINGS = 3
+THRESHOLD_QUOTA_TOT = 0.10
+THRESHOLD_QUOTA_TWO_WEEKS = THRESHOLD_QUOTA_TOT + 0.10 # deve essere maggiore di THRESHOLD_QUOTA_TOT
+THRESHOLD_QUOTA_ARTIST_WEEKS = 0.65
+THRESHOLD_QUOTA_LAST_THREE_WEEKS = 0.15
+
+Risultati:
+
+A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto: 63
+B - [CHURNER] ascolto/i artista nelle ultime 3 settimane <3: 23
+C - [NOT CHURNER] quota settimane ascolto artista >= 0.65: 38
+D - [CHURNER] quota ascolti artista ultime 3 settimane <= 0.15: 43
+E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15: 51
+tot: 218
+
+churn rate = circa 60%
+
+
