@@ -231,3 +231,8 @@ print "Ciao Bel ho finito tutto!!!"
 # general_listenings = load_csv("user_listenings_week_count.csv")
 # artist_listenings = load_csv("user_listenings_artist_week_count_2.csv")
 # merge(general_listenings, artist_listenings)
+
+# with open(fname) as f:
+#     next(f)
+#     for line in f:
+#         #do something
