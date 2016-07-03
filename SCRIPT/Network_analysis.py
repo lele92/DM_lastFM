@@ -71,6 +71,19 @@ def get_neighbors_avg_artist_weeks(node_neighbors, users_listenings):
     return float(neighbors_artist_weeks_sum) / float(len(node_neighbors))
 
 
+def get_neighbors_artist_quota(node_neighbors, users_listenings, num_friends):
+    if len(node_neighbors) == 0:
+        return 0
+
+    artist_listener_friends = 0
+
+    for n in node_neighbors:
+        if (n in users_listenings) and (users_listenings[n]['num_ascolti_artista'] > 0):
+            artist_listener_friends += 1
+
+    return float(artist_listener_friends)/float(num_friends)
+
+
 def load_users_listenings(path):
     users_listenings_file = open(path)
     users_listenings = {}
@@ -80,43 +93,49 @@ def load_users_listenings(path):
         if count > 0:
             splitted_line = l.rstrip().split(",")
             # print splitted_line
-            users_listenings[splitted_line[0]] = {}
-            users_listenings[splitted_line[0]]['num_ascolti_totali'] = splitted_line[1]
-            users_listenings[splitted_line[0]]['num_ascolti_artista'] = splitted_line[2]
-            users_listenings[splitted_line[0]]['settimane_totali'] = splitted_line[3]
-            users_listenings[splitted_line[0]]['settimane_artista'] = splitted_line[4]
+            users_listenings[splitted_line[0]] = {
+                'num_ascolti_totali': int(splitted_line[1]),
+                'num_ascolti_artista': int(splitted_line[2]),
+                'settimane_totali': int(splitted_line[3]),
+                'settimane_artista': int(splitted_line[4])
+            }
+
         count += 1
 
     # print users_listenings
     return users_listenings
 
 
+
 def create_nodes_info(nodes, users_listenings):
     nodes_info = {}
     for node in nodes:
-        nodes_info[node] = {}
         node_neighbors = network.neighbors(node)
-        nodes_info[node]['degree'] = len(node_neighbors)
-        nodes_info[node]['neighbors_avg_listenings'] = get_neighbors_avg_listenings(node_neighbors, users_listenings)
-        nodes_info[node]['neighbors_avg_artist_listenings'] = get_neighbors_avg_artist_listenings(node_neighbors, users_listenings)
-        nodes_info[node]['neighbors_avg_week_listenings'] = get_neighbors_avg_weeks(node_neighbors, users_listenings)
-        nodes_info[node]['neighbors_avg_artist_weeks'] = get_neighbors_avg_artist_weeks(node_neighbors, users_listenings)
+
+        nodes_info[node] = {
+            'degree': len(node_neighbors),
+            'neighbors_artist_quota': get_neighbors_artist_quota(node_neighbors, users_listenings, len(node_neighbors)),
+            'neighbors_avg_listenings': get_neighbors_avg_listenings(node_neighbors, users_listenings),
+            'neighbors_avg_artist_listenings': get_neighbors_avg_artist_listenings(node_neighbors,users_listenings),
+            'neighbors_avg_week_listenings': get_neighbors_avg_weeks(node_neighbors, users_listenings),
+            'neighbors_avg_artist_weeks': get_neighbors_avg_artist_weeks(node_neighbors,users_listenings)
+        }
         # print nodes_info[node]
     return nodes_info
 
 
 def write_nodes_info(node_info, users_listenings_with_frindes_path):
     out_file = open(users_listenings_with_frindes_path, "w")
-    out_file.write("user_id,num_amici,friends_num_ascolti_totali,friends_num_ascolti_artista,friends_settimane_totali,friends_settimane_artista\n")
+    out_file.write("user_id,num_amici,quota_amici_artista,friends_num_ascolti_totali,friends_num_ascolti_artista,friends_settimane_totali,friends_settimane_artista\n")
     for i in node_info:
         node = node_info[i]
-        str1 = str(i)+","+str(node['degree'])+","+str(node['neighbors_avg_listenings'])+","+str(node['neighbors_avg_artist_listenings'])+","+str(node['neighbors_avg_week_listenings'])+","+str(node['neighbors_avg_artist_weeks'])+"\n"
+        str1 = str(i)+","+str(node['degree'])+","+str(node['neighbors_artist_quota'])+","+str(node['neighbors_avg_listenings'])+","+str(node['neighbors_avg_artist_listenings'])+","+str(node['neighbors_avg_week_listenings'])+","+str(node['neighbors_avg_artist_weeks'])+"\n"
         out_file.write(str1)
     out_file.close
 
 network_path = "../OUTPUT/network_cleaned.csv"
-users_listenings_path = "../OUTPUT/users_listenings.csv"
-users_listenings_with_frindes_path = "../OUTPUT/users_listenings_with_friends.csv"
+users_listenings_path = "../OUTPUT/muse/user_listenings_single_row_muse.csv"
+users_listenings_with_frindes_path = "../OUTPUT/muse/users_listenings_with_friends.csv"
 
 network_file = open(network_path)
 network = nx.read_edgelist(network_file, delimiter=',', nodetype=str)
