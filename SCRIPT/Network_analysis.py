@@ -133,9 +133,10 @@ def write_nodes_info(node_info, users_listenings_with_frindes_path):
         out_file.write(str1)
     out_file.close
 
-network_path = "../OUTPUT/network_cleaned.csv"
+network_path = "../OUTPUT/network_cleaned_final.csv"
 users_listenings_path = "../OUTPUT/muse/user_listenings_single_row_muse.csv"
-users_listenings_with_frindes_path = "../OUTPUT/muse/users_listenings_with_friends.csv"
+users_listenings_with_friends_path = "../OUTPUT/muse/users_listenings_with_friends.csv"
+
 
 network_file = open(network_path)
 network = nx.read_edgelist(network_file, delimiter=',', nodetype=str)
@@ -143,6 +144,6 @@ nodes = network.nodes()
 
 users_listenings = load_users_listenings(users_listenings_path)
 nodes_info = create_nodes_info(nodes, users_listenings)
-write_nodes_info(nodes_info, users_listenings_with_frindes_path)
+write_nodes_info(nodes_info, users_listenings_with_friends_path)
 
 # print nodes_info

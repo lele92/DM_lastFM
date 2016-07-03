@@ -1,4 +1,4 @@
-id,churn,reason
+user_id,churn,reason
 magnoliamace,0,C - [NOT CHURNER] quota settimane ascolto artista >= 0.65
 AliciaSumpter,1,A - [CHURNER] buco di almeno 3 settimane dopo l'ultimo ascolto
 musefan84,0,E - [NOT CHURNER] quota ascolti artista ultime 3 settimane > 0.15
