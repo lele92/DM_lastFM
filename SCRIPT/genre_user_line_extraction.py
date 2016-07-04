@@ -6,8 +6,8 @@ import sys
 import matplotlib.pyplot as plt
 from collections import Counter
 
-# genres_aggregator = ["indie rock", "rock", "pop", "metal", "electronic", "hip pop", "indie", "r&b", "punk", "folk", "jazz", "emo", "house", "soul", "altro"]
-genres_aggregator = ["indie rock", "rock", "pop", "metal", "electronic", "hip pop", "indie", "r&b", "punk", "folk", "altro"]
+# genres_aggregator = ["indie rock", "rock", "pop", "metal", "electronic", "hip hop", "indie", "r&b", "punk", "folk", "jazz", "emo", "house", "soul", "altro"]
+genres_aggregator = ["indie rock", "rock", "pop", "metal", "electronic", "hip hop", "indie", "r&b", "punk", "folk", "altro"]
 
 
 def load_csv(input_filename):
@@ -21,8 +21,8 @@ print "######################### File Letto ####################################
 
 out_file_user_listening = open("../OUTPUT/genre_listenings_user_quota_top10.csv", "w")
 # out_file_user_listening = open("../OUTPUT/genre_listenings_user_quota_top15.csv", "w")
-out_file_user_listening.write("user_id,num_ascolti_totali,indie rock,rock,pop,metal,electronic,hip pop,indie,r&b,punk,folk,jazz,emo,house,soul,altro\n")
-# out_file_user_listening.write("user_id,num_ascolti_totali,indie rock,rock,pop,metal,electronic,hip pop,indie,r&b,punk,folk,altro\n")
+# out_file_user_listening.write("user_id,num_ascolti_totali,indie rock,rock,pop,metal,electronic,hip hop,indie,r&b,punk,folk,jazz,emo,house,soul,altro\n")
+out_file_user_listening.write("user_id,num_ascolti_totali,indie rock,rock,pop,metal,electronic,hip hop,indie,r&b,punk,folk,altro\n")
 
 df_grouped = df.groupby(['user_id'])
 

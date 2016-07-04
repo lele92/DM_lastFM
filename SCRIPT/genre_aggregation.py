@@ -29,8 +29,8 @@ def genres_substitution(filename):
     print df.describe()
     trovato = False
     count = 0
-    # genres = ["indie rock", "rock", "pop", "metal", "electronic", "hip pop", "indie", "r&b", "punk", "folk", "jazz", "emo", "house", "soul"]
-    genres = ["indie rock", "rock", "pop", "metal", "electronic", "hip pop", "indie", "r&b", "punk", "folk"]
+    # genres = ["indie rock", "rock", "pop", "metal", "electronic", "hip hop", "indie", "r&b", "punk", "folk", "jazz", "emo", "house", "soul"]
+    genres = ["indie rock", "rock", "pop", "metal", "electronic", "hip hop", "indie", "r&b", "punk", "folk"]
     for index, item in df.iterrows():
         trovato = False
         for obj in genres:
