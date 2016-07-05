@@ -30,7 +30,7 @@ del df_listenings_single_row['num_ascolti_artista']
 del df_listenings_single_row['settimane_artista']
 del df_listenings_single_row['generi_univoci']
 
-df_merged_1 = merge(df_listenings_single_row,df_listenings_quota,["user_id","num_ascolti_totali"],["user_id","num_ascolti_totali"])
+df_merged_1 = merge(df_listenings_single_row, df_listenings_quota, ["user_id", "num_ascolti_totali"], ["user_id","num_ascolti_totali"])
 df_active_user_2016 = load_csv(active_user_2016_path)
-df_final_merge = merge(df_merged_1,df_active_user_2016,'user_id','user_id')
-save_csv(df_final_merge,out_path_final)
+df_final_merge = merge(df_merged_1, df_active_user_2016, 'user_id', 'user_id')
+save_csv(df_final_merge, out_path_final)
