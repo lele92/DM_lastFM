@@ -14,8 +14,8 @@ def histogram(x, y, xlabel=None, ylabel=None, title=None, out=None, highlight=No
 
     plt.xticks(range(len(x)), x, ha='center', va='top', rotation='vertical')
     plt.tick_params(axis='y', labelsize='x-small')
-    plt.xlim([-1, len(x)])
-    plt.ylim([0, y[0]+((y[0]/100)*10)])
+    # plt.xlim([-1, len(x)])
+    # plt.ylim([0, y[0]+((y[0]/100)*10)])
     # plt.axis('auto')
     # plt.title(title)
     plt.gca().yaxis.grid(True)
@@ -49,9 +49,10 @@ df = load_csv('listenings_genre_merged.csv')
 
 # print df.describe()
 
-genre_count = df['genre'].value_counts()[:20]
-print genre_count
-obj_hist(genre_count, xlabel="Genre", ylabel="count", title="Genre distribution", out='Genre_distribution')
+genre_count = df['genre'].value_counts()[:10]
+# print genre_count
+# obj_hist(genre_count, xlabel="Genre", ylabel="count", title="Genre distribution", out='Genre_distribution_10')
+obj_hist(genre_count, out='Genre_distribution_10')
 #
 # artist_count = df['artist'].value_counts()[:10]
 # print artist_count
