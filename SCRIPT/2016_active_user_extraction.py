@@ -1,3 +1,5 @@
+from argparse import _ActionsContainer
+
 __author__ = 'Trappola'
 
 import pandas as pd
@@ -38,11 +40,12 @@ def extract_active_users(filename):
     year_to_test = 2016
     active_threshold = 100
 
-    out_active_user = open("../OUTPUT/active_user_2016_"+str(active_threshold)+"_ascolti.csv", "w")
-    out_active_user.write("user_id\n")
+    # out_active_user = open("../OUTPUT/active_user_2016_"+str(active_threshold)+"_ascolti.csv", "w")
+    # out_active_user.write("user_id\n")
 
     df_grouped = df.groupby(['user_id'])
 
+    count = 0
     for key, value in df_grouped:
         years = value["year"].values.tolist()
         counter = Counter(years)
@@ -51,11 +54,14 @@ def extract_active_users(filename):
         year_dict = dict(counter)
         # print year_dict
         if year_to_test in year_dict and year_dict[year_to_test] >= active_threshold:
-            out_active_user.write(key+"\n")
-            out_active_user.flush()
+            count += 1
+            # out_active_user.write(key+"\n")
+            # out_active_user.flush()
         # sys.exit()
 
-    out_active_user.close()
+    # out_active_user.close()
+    print active_threshold
+    print count
 
 if __name__ == "__main__":
     main()
